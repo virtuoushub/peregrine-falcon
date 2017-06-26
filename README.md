@@ -3,7 +3,7 @@ There are two componets to this app. The AngularJS client `app` and the Python `
 
 For the server configuration and run README please check out the [server](server) folder.
 
-The AngularJS client is based on the the [peregrine-falcon](https://github.com/virtuoushub/peregrine-falcon) project.
+The AngularJS client is based on the the [angular-seed](https://github.com/angular/angular-seed) project.
 
 ## Getting Started
 
