@@ -1,0 +1,151 @@
+{
+  "query": {
+    "url": "https://api.twitter.com/1.1/geo/search.json?query=Hartford&max_results=3&granularity=city",
+    "params": {
+      "autocomplete": false,
+      "query": "Hartford",
+      "trim_place": false,
+      "granularity": "city",
+      "accuracy": 0.0
+    },
+    "type": "search"
+  },
+  "result": {
+    "places": [{
+      "full_name": "West Hartford, CT",
+      "url": "https://api.twitter.com/1.1/geo/id/485ebc6dbebdbf32.json",
+      "country": "United States",
+      "place_type": "city",
+      "bounding_box": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [-72.786564, 41.717959],
+            [-72.786564, 41.806675],
+            [-72.713899, 41.806675],
+            [-72.713899, 41.717959],
+            [-72.786564, 41.717959]
+          ]
+        ]
+      },
+      "contained_within": [{
+        "full_name": "Hartford & New Haven CT",
+        "url": "https://api.twitter.com/1.1/geo/id/0c5e80333d718444.json",
+        "country": "United States",
+        "place_type": "admin",
+        "bounding_box": {
+          "type": "Polygon",
+          "coordinates": [
+            [
+              [-73.518073, 41.139896],
+              [-73.518073, 42.172328],
+              [-71.787658, 42.172328],
+              [-71.787658, 41.139896],
+              [-73.518073, 41.139896]
+            ]
+          ]
+        },
+        "centroid": [-72.65233052848598, 41.656112],
+        "country_code": "US",
+        "attributes": {},
+        "id": "0c5e80333d718444",
+        "name": "Hartford & New Haven CT"
+      }],
+      "centroid": [-72.7485467890327, 41.762316999999996],
+      "country_code": "US",
+      "attributes": {},
+      "id": "485ebc6dbebdbf32",
+      "name": "West Hartford"
+    }, {
+      "full_name": "Hartford, CT",
+      "url": "https://api.twitter.com/1.1/geo/id/61c225139f635563.json",
+      "country": "United States",
+      "place_type": "city",
+      "bounding_box": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [-72.718386, 41.723759],
+            [-72.718386, 41.807475],
+            [-72.643547, 41.807475],
+            [-72.643547, 41.723759],
+            [-72.718386, 41.723759]
+          ]
+        ]
+      },
+      "contained_within": [{
+        "full_name": "Hartford & New Haven CT",
+        "url": "https://api.twitter.com/1.1/geo/id/0c5e80333d718444.json",
+        "country": "United States",
+        "place_type": "admin",
+        "bounding_box": {
+          "type": "Polygon",
+          "coordinates": [
+            [
+              [-73.518073, 41.139896],
+              [-73.518073, 42.172328],
+              [-71.787658, 42.172328],
+              [-71.787658, 41.139896],
+              [-73.518073, 41.139896]
+            ]
+          ]
+        },
+        "centroid": [-72.65233052848598, 41.656112],
+        "country_code": "US",
+        "attributes": {},
+        "id": "0c5e80333d718444",
+        "name": "Hartford & New Haven CT"
+      }],
+      "centroid": [-72.69125903623382, 41.765617],
+      "country_code": "US",
+      "attributes": {},
+      "id": "61c225139f635563",
+      "name": "Hartford"
+    }, {
+      "full_name": "East Hartford, CT",
+      "url": "https://api.twitter.com/1.1/geo/id/a0399dae44255711.json",
+      "country": "United States",
+      "place_type": "city",
+      "bounding_box": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [-72.664588, 41.723462],
+            [-72.664588, 41.800665],
+            [-72.571492, 41.800665],
+            [-72.571492, 41.723462],
+            [-72.664588, 41.723462]
+          ]
+        ]
+      },
+      "contained_within": [{
+        "full_name": "Hartford & New Haven CT",
+        "url": "https://api.twitter.com/1.1/geo/id/0c5e80333d718444.json",
+        "country": "United States",
+        "place_type": "admin",
+        "bounding_box": {
+          "type": "Polygon",
+          "coordinates": [
+            [
+              [-73.518073, 41.139896],
+              [-73.518073, 42.172328],
+              [-71.787658, 42.172328],
+              [-71.787658, 41.139896],
+              [-73.518073, 41.139896]
+            ]
+          ]
+        },
+        "centroid": [-72.65233052848598, 41.656112],
+        "country_code": "US",
+        "attributes": {},
+        "id": "0c5e80333d718444",
+        "name": "Hartford & New Haven CT"
+      }],
+      "centroid": [-72.61941018686124, 41.7620635],
+      "country_code": "US",
+      "attributes": {},
+      "id": "a0399dae44255711",
+      "name": "East Hartford"
+    }]
+  }
+}

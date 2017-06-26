@@ -1,0 +1,601 @@
+{
+  "query": {
+    "url": "https://api.twitter.com/1.1/geo/search.json?query=Hartford",
+    "params": {
+      "autocomplete": false,
+      "query": "Hartford",
+      "trim_place": false,
+      "granularity": "neighborhood",
+      "accuracy": 0.0
+    },
+    "type": "search"
+  },
+  "result": {
+    "places": [{
+      "full_name": "West Hartford, CT",
+      "url": "https://api.twitter.com/1.1/geo/id/485ebc6dbebdbf32.json",
+      "country": "United States",
+      "place_type": "city",
+      "bounding_box": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [-72.786564, 41.717959],
+            [-72.786564, 41.806675],
+            [-72.713899, 41.806675],
+            [-72.713899, 41.717959],
+            [-72.786564, 41.717959]
+          ]
+        ]
+      },
+      "contained_within": [{
+        "full_name": "Hartford & New Haven CT",
+        "url": "https://api.twitter.com/1.1/geo/id/0c5e80333d718444.json",
+        "country": "United States",
+        "place_type": "admin",
+        "bounding_box": {
+          "type": "Polygon",
+          "coordinates": [
+            [
+              [-73.518073, 41.139896],
+              [-73.518073, 42.172328],
+              [-71.787658, 42.172328],
+              [-71.787658, 41.139896],
+              [-73.518073, 41.139896]
+            ]
+          ]
+        },
+        "centroid": [-72.65233052848598, 41.656112],
+        "country_code": "US",
+        "attributes": {},
+        "id": "0c5e80333d718444",
+        "name": "Hartford & New Haven CT"
+      }],
+      "centroid": [-72.7485467890327, 41.762316999999996],
+      "country_code": "US",
+      "attributes": {},
+      "id": "485ebc6dbebdbf32",
+      "name": "West Hartford"
+    }, {
+      "full_name": "Hartford, CT",
+      "url": "https://api.twitter.com/1.1/geo/id/61c225139f635563.json",
+      "country": "United States",
+      "place_type": "city",
+      "bounding_box": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [-72.718386, 41.723759],
+            [-72.718386, 41.807475],
+            [-72.643547, 41.807475],
+            [-72.643547, 41.723759],
+            [-72.718386, 41.723759]
+          ]
+        ]
+      },
+      "contained_within": [{
+        "full_name": "Hartford & New Haven CT",
+        "url": "https://api.twitter.com/1.1/geo/id/0c5e80333d718444.json",
+        "country": "United States",
+        "place_type": "admin",
+        "bounding_box": {
+          "type": "Polygon",
+          "coordinates": [
+            [
+              [-73.518073, 41.139896],
+              [-73.518073, 42.172328],
+              [-71.787658, 42.172328],
+              [-71.787658, 41.139896],
+              [-73.518073, 41.139896]
+            ]
+          ]
+        },
+        "centroid": [-72.65233052848598, 41.656112],
+        "country_code": "US",
+        "attributes": {},
+        "id": "0c5e80333d718444",
+        "name": "Hartford & New Haven CT"
+      }],
+      "centroid": [-72.69125903623382, 41.765617],
+      "country_code": "US",
+      "attributes": {},
+      "id": "61c225139f635563",
+      "name": "Hartford"
+    }, {
+      "full_name": "East Hartford, CT",
+      "url": "https://api.twitter.com/1.1/geo/id/a0399dae44255711.json",
+      "country": "United States",
+      "place_type": "city",
+      "bounding_box": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [-72.664588, 41.723462],
+            [-72.664588, 41.800665],
+            [-72.571492, 41.800665],
+            [-72.571492, 41.723462],
+            [-72.664588, 41.723462]
+          ]
+        ]
+      },
+      "contained_within": [{
+        "full_name": "Hartford & New Haven CT",
+        "url": "https://api.twitter.com/1.1/geo/id/0c5e80333d718444.json",
+        "country": "United States",
+        "place_type": "admin",
+        "bounding_box": {
+          "type": "Polygon",
+          "coordinates": [
+            [
+              [-73.518073, 41.139896],
+              [-73.518073, 42.172328],
+              [-71.787658, 42.172328],
+              [-71.787658, 41.139896],
+              [-73.518073, 41.139896]
+            ]
+          ]
+        },
+        "centroid": [-72.65233052848598, 41.656112],
+        "country_code": "US",
+        "attributes": {},
+        "id": "0c5e80333d718444",
+        "name": "Hartford & New Haven CT"
+      }],
+      "centroid": [-72.61941018686124, 41.7620635],
+      "country_code": "US",
+      "attributes": {},
+      "id": "a0399dae44255711",
+      "name": "East Hartford"
+    }, {
+      "full_name": "New Hartford, NY",
+      "url": "https://api.twitter.com/1.1/geo/id/00063de333ee94e1.json",
+      "country": "United States",
+      "place_type": "city",
+      "bounding_box": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [-75.3668619, 43.051004],
+            [-75.3668619, 43.099459],
+            [-75.274618, 43.099459],
+            [-75.274618, 43.051004],
+            [-75.3668619, 43.051004]
+          ]
+        ]
+      },
+      "contained_within": [{
+        "full_name": "Syracuse NY",
+        "url": "https://api.twitter.com/1.1/geo/id/d8a2c97e8de88cc0.json",
+        "country": "United States",
+        "place_type": "admin",
+        "bounding_box": {
+          "type": "Polygon",
+          "coordinates": [
+            [
+              [-77.244057, 42.281755],
+              [-77.244057, 43.707018],
+              [-75.064879, 43.707018],
+              [-75.064879, 42.281755],
+              [-77.244057, 42.281755]
+            ]
+          ]
+        },
+        "centroid": [-76.168577635569, 42.9943865],
+        "country_code": "US",
+        "attributes": {},
+        "id": "d8a2c97e8de88cc0",
+        "name": "Syracuse NY"
+      }],
+      "centroid": [-75.32934031593246, 43.0752315],
+      "country_code": "US",
+      "attributes": {},
+      "id": "00063de333ee94e1",
+      "name": "New Hartford"
+    }, {
+      "full_name": "Hartford, MI",
+      "url": "https://api.twitter.com/1.1/geo/id/001052ce2fe3606b.json",
+      "country": "United States",
+      "place_type": "city",
+      "bounding_box": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [-86.223199, 42.192028],
+            [-86.223199, 42.226333],
+            [-86.123246, 42.226333],
+            [-86.123246, 42.192028],
+            [-86.223199, 42.192028]
+          ]
+        ]
+      },
+      "contained_within": [{
+        "full_name": "Grand Rapids-Kalamazoo-Battle Creek MI",
+        "url": "https://api.twitter.com/1.1/geo/id/75e1e9ba7decb0d3.json",
+        "country": "United States",
+        "place_type": "admin",
+        "bounding_box": {
+          "type": "Polygon",
+          "coordinates": [
+            [
+              [-86.540574, 41.700248],
+              [-86.540574, 43.819417],
+              [-84.795055, 43.819417],
+              [-84.795055, 41.700248],
+              [-86.540574, 41.700248]
+            ]
+          ]
+        },
+        "centroid": [-85.6230425093884, 42.7598325],
+        "country_code": "US",
+        "attributes": {},
+        "id": "75e1e9ba7decb0d3",
+        "name": "Grand Rapids-Kalamazoo-Battle Creek MI"
+      }],
+      "centroid": [-86.1556582697201, 42.209356],
+      "country_code": "US",
+      "attributes": {},
+      "id": "001052ce2fe3606b",
+      "name": "Hartford"
+    }, {
+      "full_name": "Hartford, WI",
+      "url": "https://api.twitter.com/1.1/geo/id/1597681612b433e4.json",
+      "country": "United States",
+      "place_type": "city",
+      "bounding_box": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [-88.416207, 43.291938],
+            [-88.416207, 43.342794],
+            [-88.329515, 43.342794],
+            [-88.329515, 43.291938],
+            [-88.416207, 43.291938]
+          ]
+        ]
+      },
+      "contained_within": [{
+        "full_name": "Milwaukee WI",
+        "url": "https://api.twitter.com/1.1/geo/id/c38600cbbde1f631.json",
+        "country": "United States",
+        "place_type": "admin",
+        "bounding_box": {
+          "type": "Polygon",
+          "coordinates": [
+            [
+              [-88.970696, 42.413939],
+              [-88.970696, 43.89218],
+              [-87.695532, 43.89218],
+              [-87.695532, 42.413939],
+              [-88.970696, 42.413939]
+            ]
+          ]
+        },
+        "centroid": [-88.31852385078804, 43.1530595],
+        "country_code": "US",
+        "attributes": {},
+        "id": "c38600cbbde1f631",
+        "name": "Milwaukee WI"
+      }],
+      "centroid": [-88.37657749951678, 43.317366],
+      "country_code": "US",
+      "attributes": {},
+      "id": "1597681612b433e4",
+      "name": "Hartford"
+    }, {
+      "full_name": "Hartford City, IN",
+      "url": "https://api.twitter.com/1.1/geo/id/052969a626e36300.json",
+      "country": "United States",
+      "place_type": "city",
+      "bounding_box": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [-85.393865, 40.431556],
+            [-85.393865, 40.479234],
+            [-85.341177, 40.479234],
+            [-85.341177, 40.431556],
+            [-85.393865, 40.431556]
+          ]
+        ]
+      },
+      "contained_within": [{
+        "full_name": "Indianapolis IN",
+        "url": "https://api.twitter.com/1.1/geo/id/9a21ce2331492758.json",
+        "country": "United States",
+        "place_type": "admin",
+        "bounding_box": {
+          "type": "Polygon",
+          "coordinates": [
+            [
+              [-87.092563, 38.686561],
+              [-87.092563, 40.904559],
+              [-85.101117, 40.904559],
+              [-85.101117, 38.686561],
+              [-87.092563, 38.686561]
+            ]
+          ]
+        },
+        "centroid": [-86.05922933325917, 39.795559999999995],
+        "country_code": "US",
+        "attributes": {},
+        "id": "9a21ce2331492758",
+        "name": "Indianapolis IN"
+      }],
+      "centroid": [-85.3721106837416, 40.455394999999996],
+      "country_code": "US",
+      "attributes": {},
+      "id": "052969a626e36300",
+      "name": "Hartford City"
+    }, {
+      "full_name": "Hartford, IL",
+      "url": "https://api.twitter.com/1.1/geo/id/00c4c64742da7bd9.json",
+      "country": "United States",
+      "place_type": "city",
+      "bounding_box": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [-90.108364, 38.792338],
+            [-90.108364, 38.8458399],
+            [-90.0675643, 38.8458399],
+            [-90.0675643, 38.792338],
+            [-90.108364, 38.792338]
+          ]
+        ]
+      },
+      "contained_within": [{
+        "full_name": "St. Louis MO",
+        "url": "https://api.twitter.com/1.1/geo/id/f0a83098d0954069.json",
+        "country": "United States",
+        "place_type": "admin",
+        "bounding_box": {
+          "type": "Polygon",
+          "coordinates": [
+            [
+              [-91.986289, 36.789894],
+              [-91.986289, 39.549736],
+              [-88.693531, 39.549736],
+              [-88.693531, 36.789894],
+              [-91.986289, 36.789894]
+            ]
+          ]
+        },
+        "centroid": [-90.58103358622839, 38.169815],
+        "country_code": "US",
+        "attributes": {},
+        "id": "f0a83098d0954069",
+        "name": "St. Louis MO"
+      }],
+      "centroid": [-90.09413379451351, 38.81908895],
+      "country_code": "US",
+      "attributes": {},
+      "id": "00c4c64742da7bd9",
+      "name": "Hartford"
+    }, {
+      "full_name": "Hartford, KY",
+      "url": "https://api.twitter.com/1.1/geo/id/233fbfeb75e3aa83.json",
+      "country": "United States",
+      "place_type": "city",
+      "bounding_box": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [-86.916199, 37.4343359],
+            [-86.916199, 37.469507],
+            [-86.8858669, 37.469507],
+            [-86.8858669, 37.4343359],
+            [-86.916199, 37.4343359]
+          ]
+        ]
+      },
+      "contained_within": [{
+        "full_name": "Bowling Green KY",
+        "url": "https://api.twitter.com/1.1/geo/id/35d52ca1ed0bd58b.json",
+        "country": "United States",
+        "place_type": "admin",
+        "bounding_box": {
+          "type": "Polygon",
+          "coordinates": [
+            [
+              [-87.628615, 36.62883],
+              [-87.628615, 37.975956],
+              [-85.15868, 37.975956],
+              [-85.15868, 36.62883],
+              [-87.628615, 36.62883]
+            ]
+          ]
+        },
+        "centroid": [-86.48394312641278, 37.302392999999995],
+        "country_code": "US",
+        "attributes": {},
+        "id": "35d52ca1ed0bd58b",
+        "name": "Bowling Green KY"
+      }],
+      "centroid": [-86.90280176609924, 37.45192145],
+      "country_code": "US",
+      "attributes": {},
+      "id": "233fbfeb75e3aa83",
+      "name": "Hartford"
+    }, {
+      "full_name": "Hartford, VT",
+      "url": "https://api.twitter.com/1.1/geo/id/01a73af451fbf01e.json",
+      "country": "United States",
+      "place_type": "city",
+      "bounding_box": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [-72.397787, 43.6399223],
+            [-72.397787, 43.682388],
+            [-72.3182192, 43.682388],
+            [-72.3182192, 43.6399223],
+            [-72.397787, 43.6399223]
+          ]
+        ]
+      },
+      "contained_within": [{
+        "full_name": "Burlington VT-Plattsburgh NY",
+        "url": "https://api.twitter.com/1.1/geo/id/2c72eb61721741cb.json",
+        "country": "United States",
+        "place_type": "admin",
+        "bounding_box": {
+          "type": "Polygon",
+          "coordinates": [
+            [
+              [-74.876924, 43.125077],
+              [-74.876924, 45.016421],
+              [-71.361889, 45.016421],
+              [-71.361889, 43.125077],
+              [-74.876924, 43.125077]
+            ]
+          ]
+        },
+        "centroid": [-73.11844867611936, 44.070749],
+        "country_code": "US",
+        "attributes": {},
+        "id": "2c72eb61721741cb",
+        "name": "Burlington VT-Plattsburgh NY"
+      }],
+      "centroid": [-72.35576590374828, 43.66115515],
+      "country_code": "US",
+      "attributes": {},
+      "id": "01a73af451fbf01e",
+      "name": "Hartford"
+    }, {
+      "full_name": "East Hartford, England",
+      "url": "https://api.twitter.com/1.1/geo/id/454a5c03463213d8.json",
+      "country": "United Kingdom",
+      "place_type": "city",
+      "bounding_box": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [-1.583829, 55.1043711],
+            [-1.583829, 55.1079901],
+            [-1.5770509, 55.1079901],
+            [-1.5770509, 55.1043711],
+            [-1.583829, 55.1043711]
+          ]
+        ]
+      },
+      "contained_within": [{
+        "full_name": "Tyneside Conurbation",
+        "url": "https://api.twitter.com/1.1/geo/id/00ec11771ebd333a.json",
+        "country": "United Kingdom",
+        "place_type": "admin",
+        "bounding_box": {
+          "type": "Polygon",
+          "coordinates": [
+            [
+              [-2.68979, 54.782377],
+              [-2.68979, 55.811055],
+              [-1.353212, 55.811055],
+              [-1.353212, 54.782377],
+              [-2.68979, 54.782377]
+            ]
+          ]
+        },
+        "centroid": [-2.0945230385136004, 55.2770655],
+        "country_code": "GB",
+        "attributes": {},
+        "id": "00ec11771ebd333a",
+        "name": "Tyneside Conurbation"
+      }],
+      "centroid": [-1.5806015427277036, 55.1061806],
+      "country_code": "GB",
+      "attributes": {},
+      "id": "454a5c03463213d8",
+      "name": "East Hartford"
+    }, {
+      "full_name": "New Hartford Center, CT",
+      "url": "https://api.twitter.com/1.1/geo/id/017b7f6c6f264ea0.json",
+      "country": "United States",
+      "place_type": "city",
+      "bounding_box": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [-72.98525, 41.8551487],
+            [-72.98525, 41.892999],
+            [-72.954062, 41.892999],
+            [-72.954062, 41.8551487],
+            [-72.98525, 41.8551487]
+          ]
+        ]
+      },
+      "contained_within": [{
+        "full_name": "Hartford & New Haven CT",
+        "url": "https://api.twitter.com/1.1/geo/id/0c5e80333d718444.json",
+        "country": "United States",
+        "place_type": "admin",
+        "bounding_box": {
+          "type": "Polygon",
+          "coordinates": [
+            [
+              [-73.518073, 41.139896],
+              [-73.518073, 42.172328],
+              [-71.787658, 42.172328],
+              [-71.787658, 41.139896],
+              [-73.518073, 41.139896]
+            ]
+          ]
+        },
+        "centroid": [-72.65233052848598, 41.656112],
+        "country_code": "US",
+        "attributes": {},
+        "id": "0c5e80333d718444",
+        "name": "Hartford & New Haven CT"
+      }],
+      "centroid": [-72.96514934557827, 41.87407385],
+      "country_code": "US",
+      "attributes": {},
+      "id": "017b7f6c6f264ea0",
+      "name": "New Hartford Center"
+    }, {
+      "full_name": "Hartford, WV",
+      "url": "https://api.twitter.com/1.1/geo/id/01941e455ec8cd1a.json",
+      "country": "United States",
+      "place_type": "city",
+      "bounding_box": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [-82.001679, 38.980407],
+            [-82.001679, 39.017727],
+            [-81.980899, 39.017727],
+            [-81.980899, 38.980407],
+            [-82.001679, 38.980407]
+          ]
+        ]
+      },
+      "contained_within": [{
+        "full_name": "Charleston-Huntington WV",
+        "url": "https://api.twitter.com/1.1/geo/id/df4cf9e57dbd9369.json",
+        "country": "United States",
+        "place_type": "admin",
+        "bounding_box": {
+          "type": "Polygon",
+          "coordinates": [
+            [
+              [-83.582637, 37.126366],
+              [-83.582637, 39.472906],
+              [-80.61223, 39.472906],
+              [-80.61223, 37.126366],
+              [-83.582637, 37.126366]
+            ]
+          ]
+        },
+        "centroid": [-82.10284065001008, 38.299636],
+        "country_code": "US",
+        "attributes": {},
+        "id": "df4cf9e57dbd9369",
+        "name": "Charleston-Huntington WV"
+      }],
+      "centroid": [-81.98844489680893, 38.999067],
+      "country_code": "US",
+      "attributes": {},
+      "id": "01941e455ec8cd1a",
+      "name": "Hartford"
+    }]
+  }
+}

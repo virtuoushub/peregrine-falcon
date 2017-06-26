@@ -1,0 +1,3050 @@
+{
+  "search_metadata": {
+    "count": 7,
+    "completed_in": 0.047,
+    "max_id_str": "879252608489312256",
+    "since_id_str": "0",
+    "next_results": "?max_id=879243848446234623&q=%2540bigboi%2Bnight&count=7&include_entities=1",
+    "refresh_url": "?since_id=879252608489312256&q=%2540bigboi%2Bnight&include_entities=1",
+    "since_id": 0,
+    "query": "%2540bigboi%2Bnight",
+    "max_id": 879252608489312256
+  },
+  "statuses": [{
+    "contributors": null,
+    "truncated": false,
+    "text": "RT @BigBoi: \" All Night \" off the Boomiverse Album Out Now ! \ud83d\udd25 #Boomiverse for the people ! Let's Go Big Boi ! https://t.co/8NugR4Ai5w",
+    "is_quote_status": false,
+    "in_reply_to_status_id": null,
+    "id": 879252608489312256,
+    "favorite_count": 0,
+    "entities": {
+      "symbols": [],
+      "user_mentions": [{
+        "id": 29330030,
+        "indices": [3, 10],
+        "id_str": "29330030",
+        "screen_name": "BigBoi",
+        "name": "Big Boi"
+      }],
+      "hashtags": [{
+        "indices": [63, 74],
+        "text": "Boomiverse"
+      }],
+      "urls": [],
+      "media": [{
+        "source_user_id": 29330030,
+        "source_status_id_str": "877038069018488832",
+        "expanded_url": "https://twitter.com/BigBoi/status/877038069018488832/video/1",
+        "display_url": "pic.twitter.com/8NugR4Ai5w",
+        "url": "https://t.co/8NugR4Ai5w",
+        "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/877037904496922624/pu/img/vDyLArALl-cuRW1Y.jpg",
+        "source_user_id_str": "29330030",
+        "source_status_id": 877038069018488832,
+        "id_str": "877037904496922624",
+        "sizes": {
+          "small": {
+            "h": 340,
+            "resize": "fit",
+            "w": 340
+          },
+          "large": {
+            "h": 640,
+            "resize": "fit",
+            "w": 640
+          },
+          "medium": {
+            "h": 600,
+            "resize": "fit",
+            "w": 600
+          },
+          "thumb": {
+            "h": 150,
+            "resize": "crop",
+            "w": 150
+          }
+        },
+        "indices": [111, 134],
+        "type": "photo",
+        "id": 877037904496922624,
+        "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/877037904496922624/pu/img/vDyLArALl-cuRW1Y.jpg"
+      }]
+    },
+    "retweeted": false,
+    "coordinates": null,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_screen_name": null,
+    "in_reply_to_user_id": null,
+    "retweet_count": 10,
+    "id_str": "879252608489312256",
+    "favorited": false,
+    "retweeted_status": {
+      "contributors": null,
+      "truncated": false,
+      "text": "\" All Night \" off the Boomiverse Album Out Now ! \ud83d\udd25 #Boomiverse for the people ! Let's Go Big Boi ! https://t.co/8NugR4Ai5w",
+      "is_quote_status": false,
+      "in_reply_to_status_id": null,
+      "id": 879243024097849344,
+      "favorite_count": 28,
+      "entities": {
+        "symbols": [],
+        "user_mentions": [],
+        "hashtags": [{
+          "indices": [51, 62],
+          "text": "Boomiverse"
+        }],
+        "urls": [],
+        "media": [{
+          "source_user_id": 29330030,
+          "source_status_id_str": "877038069018488832",
+          "expanded_url": "https://twitter.com/BigBoi/status/877038069018488832/video/1",
+          "display_url": "pic.twitter.com/8NugR4Ai5w",
+          "url": "https://t.co/8NugR4Ai5w",
+          "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/877037904496922624/pu/img/vDyLArALl-cuRW1Y.jpg",
+          "source_user_id_str": "29330030",
+          "source_status_id": 877038069018488832,
+          "id_str": "877037904496922624",
+          "sizes": {
+            "small": {
+              "h": 340,
+              "resize": "fit",
+              "w": 340
+            },
+            "large": {
+              "h": 640,
+              "resize": "fit",
+              "w": 640
+            },
+            "medium": {
+              "h": 600,
+              "resize": "fit",
+              "w": 600
+            },
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            }
+          },
+          "indices": [99, 122],
+          "type": "photo",
+          "id": 877037904496922624,
+          "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/877037904496922624/pu/img/vDyLArALl-cuRW1Y.jpg"
+        }]
+      },
+      "retweeted": false,
+      "coordinates": null,
+      "source": "<a href=\"http://www.echofon.com/\" rel=\"nofollow\">Echofon</a>",
+      "in_reply_to_screen_name": null,
+      "in_reply_to_user_id": null,
+      "retweet_count": 10,
+      "id_str": "879243024097849344",
+      "favorited": false,
+      "user": {
+        "follow_request_sent": false,
+        "has_extended_profile": false,
+        "profile_use_background_image": false,
+        "default_profile_image": false,
+        "id": 29330030,
+        "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/378800000166048457/4WZaj4Au.jpeg",
+        "verified": true,
+        "translator_type": "none",
+        "profile_text_color": "666666",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/874524205571756033/M9WFqGLz_normal.jpg",
+        "profile_sidebar_fill_color": "4CFF70",
+        "entities": {
+          "url": {
+            "urls": [{
+              "url": "https://t.co/6guAnlQCCy",
+              "indices": [0, 23],
+              "expanded_url": "http://www.bigboi.com",
+              "display_url": "bigboi.com"
+            }]
+          },
+          "description": {
+            "urls": []
+          }
+        },
+        "followers_count": 1247440,
+        "profile_sidebar_border_color": "FFFFFF",
+        "id_str": "29330030",
+        "profile_background_color": "000000",
+        "listed_count": 6675,
+        "is_translation_enabled": false,
+        "utc_offset": -14400,
+        "statuses_count": 44089,
+        "description": "",
+        "friends_count": 2689,
+        "location": "Instagram Therealbigboi ",
+        "profile_link_color": "178FF2",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/874524205571756033/M9WFqGLz_normal.jpg",
+        "following": true,
+        "geo_enabled": true,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/29330030/1497631345",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/378800000166048457/4WZaj4Au.jpeg",
+        "screen_name": "BigBoi",
+        "lang": "en",
+        "profile_background_tile": true,
+        "favourites_count": 5263,
+        "name": "Big Boi",
+        "notifications": false,
+        "url": "https://t.co/6guAnlQCCy",
+        "created_at": "Mon Apr 06 23:50:23 +0000 2009",
+        "contributors_enabled": false,
+        "time_zone": "Eastern Time (US & Canada)",
+        "protected": false,
+        "default_profile": false,
+        "is_translator": false
+      },
+      "geo": null,
+      "in_reply_to_user_id_str": null,
+      "possibly_sensitive": false,
+      "lang": "en",
+      "created_at": "Mon Jun 26 07:40:47 +0000 2017",
+      "in_reply_to_status_id_str": null,
+      "place": null,
+      "extended_entities": {
+        "media": [{
+          "additional_media_info": {
+            "source_user": {
+              "follow_request_sent": false,
+              "has_extended_profile": false,
+              "profile_use_background_image": false,
+              "default_profile_image": false,
+              "id": 29330030,
+              "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/378800000166048457/4WZaj4Au.jpeg",
+              "verified": true,
+              "translator_type": "none",
+              "profile_text_color": "666666",
+              "profile_image_url_https": "https://pbs.twimg.com/profile_images/874524205571756033/M9WFqGLz_normal.jpg",
+              "profile_sidebar_fill_color": "4CFF70",
+              "entities": {
+                "url": {
+                  "urls": [{
+                    "url": "https://t.co/6guAnlQCCy",
+                    "indices": [0, 23],
+                    "expanded_url": "http://www.bigboi.com",
+                    "display_url": "bigboi.com"
+                  }]
+                },
+                "description": {
+                  "urls": []
+                }
+              },
+              "followers_count": 1247440,
+              "profile_sidebar_border_color": "FFFFFF",
+              "id_str": "29330030",
+              "profile_background_color": "000000",
+              "listed_count": 6675,
+              "is_translation_enabled": false,
+              "utc_offset": -14400,
+              "statuses_count": 44089,
+              "description": "",
+              "friends_count": 2689,
+              "location": "Instagram Therealbigboi ",
+              "profile_link_color": "178FF2",
+              "profile_image_url": "http://pbs.twimg.com/profile_images/874524205571756033/M9WFqGLz_normal.jpg",
+              "following": true,
+              "geo_enabled": true,
+              "profile_banner_url": "https://pbs.twimg.com/profile_banners/29330030/1497631345",
+              "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/378800000166048457/4WZaj4Au.jpeg",
+              "screen_name": "BigBoi",
+              "lang": "en",
+              "profile_background_tile": true,
+              "favourites_count": 5263,
+              "name": "Big Boi",
+              "notifications": false,
+              "url": "https://t.co/6guAnlQCCy",
+              "created_at": "Mon Apr 06 23:50:23 +0000 2009",
+              "contributors_enabled": false,
+              "time_zone": "Eastern Time (US & Canada)",
+              "protected": false,
+              "default_profile": false,
+              "is_translator": false
+            },
+            "monetizable": false
+          },
+          "source_user_id": 29330030,
+          "source_status_id_str": "877038069018488832",
+          "expanded_url": "https://twitter.com/BigBoi/status/877038069018488832/video/1",
+          "display_url": "pic.twitter.com/8NugR4Ai5w",
+          "url": "https://t.co/8NugR4Ai5w",
+          "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/877037904496922624/pu/img/vDyLArALl-cuRW1Y.jpg",
+          "source_user_id_str": "29330030",
+          "source_status_id": 877038069018488832,
+          "video_info": {
+            "aspect_ratio": [1, 1],
+            "duration_millis": 50200,
+            "variants": [{
+              "url": "https://video.twimg.com/ext_tw_video/877037904496922624/pu/vid/480x480/wyMGnPFhTeo_dH5S.mp4",
+              "bitrate": 832000,
+              "content_type": "video/mp4"
+            }, {
+              "url": "https://video.twimg.com/ext_tw_video/877037904496922624/pu/pl/BtsTLrXFyK9WtoNT.m3u8",
+              "content_type": "application/x-mpegURL"
+            }, {
+              "url": "https://video.twimg.com/ext_tw_video/877037904496922624/pu/vid/240x240/Vln5MOTuY9xBQdTw.mp4",
+              "bitrate": 320000,
+              "content_type": "video/mp4"
+            }]
+          },
+          "id_str": "877037904496922624",
+          "sizes": {
+            "small": {
+              "h": 340,
+              "resize": "fit",
+              "w": 340
+            },
+            "large": {
+              "h": 640,
+              "resize": "fit",
+              "w": 640
+            },
+            "medium": {
+              "h": 600,
+              "resize": "fit",
+              "w": 600
+            },
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            }
+          },
+          "indices": [99, 122],
+          "type": "video",
+          "id": 877037904496922624,
+          "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/877037904496922624/pu/img/vDyLArALl-cuRW1Y.jpg"
+        }]
+      },
+      "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+      }
+    },
+    "user": {
+      "follow_request_sent": false,
+      "has_extended_profile": false,
+      "profile_use_background_image": false,
+      "default_profile_image": false,
+      "id": 37704802,
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme13/bg.gif",
+      "verified": false,
+      "translator_type": "none",
+      "profile_text_color": "000000",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/785198503236554752/cpqzLfBi_normal.jpg",
+      "profile_sidebar_fill_color": "000000",
+      "entities": {
+        "url": {
+          "urls": [{
+            "url": "https://t.co/5Q6doRthUh",
+            "indices": [0, 23],
+            "expanded_url": "https://dribbble.com/Travis_Hall",
+            "display_url": "dribbble.com/Travis_Hall"
+          }]
+        },
+        "description": {
+          "urls": []
+        }
+      },
+      "followers_count": 725,
+      "profile_sidebar_border_color": "000000",
+      "id_str": "37704802",
+      "profile_background_color": "000000",
+      "listed_count": 42,
+      "is_translation_enabled": false,
+      "utc_offset": -36000,
+      "statuses_count": 12493,
+      "description": "Not Just Another Designer on Google Play, graphic artist,cat lover, and all around B.A.M.F. PayPal is iam@notjustanotherdesigner.com",
+      "friends_count": 243,
+      "location": "Kosse,Texas",
+      "profile_link_color": "444C5C",
+      "profile_image_url": "http://pbs.twimg.com/profile_images/785198503236554752/cpqzLfBi_normal.jpg",
+      "following": false,
+      "geo_enabled": true,
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/37704802/1477193390",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme13/bg.gif",
+      "screen_name": "RippedThemer",
+      "lang": "en",
+      "profile_background_tile": false,
+      "favourites_count": 888,
+      "name": "Travis Hall",
+      "notifications": false,
+      "url": "https://t.co/5Q6doRthUh",
+      "created_at": "Mon May 04 17:14:07 +0000 2009",
+      "contributors_enabled": false,
+      "time_zone": "Hawaii",
+      "protected": false,
+      "default_profile": false,
+      "is_translator": false
+    },
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "possibly_sensitive": false,
+    "lang": "en",
+    "created_at": "Mon Jun 26 08:18:52 +0000 2017",
+    "in_reply_to_status_id_str": null,
+    "place": null,
+    "extended_entities": {
+      "media": [{
+        "additional_media_info": {
+          "source_user": {
+            "follow_request_sent": false,
+            "has_extended_profile": false,
+            "profile_use_background_image": false,
+            "default_profile_image": false,
+            "id": 29330030,
+            "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/378800000166048457/4WZaj4Au.jpeg",
+            "verified": true,
+            "translator_type": "none",
+            "profile_text_color": "666666",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/874524205571756033/M9WFqGLz_normal.jpg",
+            "profile_sidebar_fill_color": "4CFF70",
+            "entities": {
+              "url": {
+                "urls": [{
+                  "url": "https://t.co/6guAnlQCCy",
+                  "indices": [0, 23],
+                  "expanded_url": "http://www.bigboi.com",
+                  "display_url": "bigboi.com"
+                }]
+              },
+              "description": {
+                "urls": []
+              }
+            },
+            "followers_count": 1247440,
+            "profile_sidebar_border_color": "FFFFFF",
+            "id_str": "29330030",
+            "profile_background_color": "000000",
+            "listed_count": 6675,
+            "is_translation_enabled": false,
+            "utc_offset": -14400,
+            "statuses_count": 44089,
+            "description": "",
+            "friends_count": 2689,
+            "location": "Instagram Therealbigboi ",
+            "profile_link_color": "178FF2",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/874524205571756033/M9WFqGLz_normal.jpg",
+            "following": true,
+            "geo_enabled": true,
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/29330030/1497631345",
+            "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/378800000166048457/4WZaj4Au.jpeg",
+            "screen_name": "BigBoi",
+            "lang": "en",
+            "profile_background_tile": true,
+            "favourites_count": 5263,
+            "name": "Big Boi",
+            "notifications": false,
+            "url": "https://t.co/6guAnlQCCy",
+            "created_at": "Mon Apr 06 23:50:23 +0000 2009",
+            "contributors_enabled": false,
+            "time_zone": "Eastern Time (US & Canada)",
+            "protected": false,
+            "default_profile": false,
+            "is_translator": false
+          },
+          "monetizable": false
+        },
+        "source_user_id": 29330030,
+        "source_status_id_str": "877038069018488832",
+        "expanded_url": "https://twitter.com/BigBoi/status/877038069018488832/video/1",
+        "display_url": "pic.twitter.com/8NugR4Ai5w",
+        "url": "https://t.co/8NugR4Ai5w",
+        "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/877037904496922624/pu/img/vDyLArALl-cuRW1Y.jpg",
+        "source_user_id_str": "29330030",
+        "source_status_id": 877038069018488832,
+        "video_info": {
+          "aspect_ratio": [1, 1],
+          "duration_millis": 50200,
+          "variants": [{
+            "url": "https://video.twimg.com/ext_tw_video/877037904496922624/pu/vid/480x480/wyMGnPFhTeo_dH5S.mp4",
+            "bitrate": 832000,
+            "content_type": "video/mp4"
+          }, {
+            "url": "https://video.twimg.com/ext_tw_video/877037904496922624/pu/pl/BtsTLrXFyK9WtoNT.m3u8",
+            "content_type": "application/x-mpegURL"
+          }, {
+            "url": "https://video.twimg.com/ext_tw_video/877037904496922624/pu/vid/240x240/Vln5MOTuY9xBQdTw.mp4",
+            "bitrate": 320000,
+            "content_type": "video/mp4"
+          }]
+        },
+        "id_str": "877037904496922624",
+        "sizes": {
+          "small": {
+            "h": 340,
+            "resize": "fit",
+            "w": 340
+          },
+          "large": {
+            "h": 640,
+            "resize": "fit",
+            "w": 640
+          },
+          "medium": {
+            "h": 600,
+            "resize": "fit",
+            "w": 600
+          },
+          "thumb": {
+            "h": 150,
+            "resize": "crop",
+            "w": 150
+          }
+        },
+        "indices": [111, 134],
+        "type": "video",
+        "id": 877037904496922624,
+        "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/877037904496922624/pu/img/vDyLArALl-cuRW1Y.jpg"
+      }]
+    },
+    "metadata": {
+      "iso_language_code": "en",
+      "result_type": "recent"
+    }
+  }, {
+    "contributors": null,
+    "truncated": false,
+    "text": "@BigBoi too many nice songs brother, all night and order of operations are smooth \ud83e\udd18\ud83c\udffd",
+    "is_quote_status": false,
+    "in_reply_to_status_id": 879242956879925249,
+    "id": 879249830513524737,
+    "favorite_count": 0,
+    "entities": {
+      "symbols": [],
+      "user_mentions": [{
+        "id": 29330030,
+        "indices": [0, 7],
+        "id_str": "29330030",
+        "screen_name": "BigBoi",
+        "name": "Big Boi"
+      }],
+      "hashtags": [],
+      "urls": []
+    },
+    "retweeted": false,
+    "coordinates": null,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_screen_name": "BigBoi",
+    "in_reply_to_user_id": 29330030,
+    "retweet_count": 0,
+    "id_str": "879249830513524737",
+    "favorited": false,
+    "user": {
+      "follow_request_sent": false,
+      "has_extended_profile": false,
+      "profile_use_background_image": false,
+      "default_profile_image": false,
+      "id": 730494224555073536,
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "verified": false,
+      "translator_type": "none",
+      "profile_text_color": "000000",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/862159645124706304/2-B-h5dM_normal.jpg",
+      "profile_sidebar_fill_color": "000000",
+      "entities": {
+        "url": {
+          "urls": [{
+            "url": "https://t.co/Su31eC18SF",
+            "indices": [0, 23],
+            "expanded_url": "https://soundcloud.com/RGVS",
+            "display_url": "soundcloud.com/RGVS"
+          }]
+        },
+        "description": {
+          "urls": []
+        }
+      },
+      "followers_count": 98,
+      "profile_sidebar_border_color": "000000",
+      "id_str": "730494224555073536",
+      "profile_background_color": "000000",
+      "listed_count": 0,
+      "is_translation_enabled": false,
+      "utc_offset": -25200,
+      "statuses_count": 50,
+      "description": "Audio Engineer | Producer | Contact: RGVSmusic@gmail.com",
+      "friends_count": 321,
+      "location": "  ",
+      "profile_link_color": "ABB8C2",
+      "profile_image_url": "http://pbs.twimg.com/profile_images/862159645124706304/2-B-h5dM_normal.jpg",
+      "following": false,
+      "geo_enabled": false,
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/730494224555073536/1494389738",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "screen_name": "RGVS_",
+      "lang": "en",
+      "profile_background_tile": false,
+      "favourites_count": 0,
+      "name": "RGVS",
+      "notifications": false,
+      "url": "https://t.co/Su31eC18SF",
+      "created_at": "Wed May 11 20:26:09 +0000 2016",
+      "contributors_enabled": false,
+      "time_zone": "Arizona",
+      "protected": false,
+      "default_profile": false,
+      "is_translator": false
+    },
+    "geo": null,
+    "in_reply_to_user_id_str": "29330030",
+    "lang": "en",
+    "created_at": "Mon Jun 26 08:07:49 +0000 2017",
+    "in_reply_to_status_id_str": "879242956879925249",
+    "place": null,
+    "metadata": {
+      "iso_language_code": "en",
+      "result_type": "recent"
+    }
+  }, {
+    "contributors": null,
+    "truncated": false,
+    "text": "RT @BigBoi: \" All Night \" off the Boomiverse Album Out Now ! \ud83d\udd25 #Boomiverse for the people ! Let's Go Big Boi ! https://t.co/8NugR4Ai5w",
+    "is_quote_status": false,
+    "in_reply_to_status_id": null,
+    "id": 879249381245014016,
+    "favorite_count": 0,
+    "entities": {
+      "symbols": [],
+      "user_mentions": [{
+        "id": 29330030,
+        "indices": [3, 10],
+        "id_str": "29330030",
+        "screen_name": "BigBoi",
+        "name": "Big Boi"
+      }],
+      "hashtags": [{
+        "indices": [63, 74],
+        "text": "Boomiverse"
+      }],
+      "urls": [],
+      "media": [{
+        "source_user_id": 29330030,
+        "source_status_id_str": "877038069018488832",
+        "expanded_url": "https://twitter.com/BigBoi/status/877038069018488832/video/1",
+        "display_url": "pic.twitter.com/8NugR4Ai5w",
+        "url": "https://t.co/8NugR4Ai5w",
+        "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/877037904496922624/pu/img/vDyLArALl-cuRW1Y.jpg",
+        "source_user_id_str": "29330030",
+        "source_status_id": 877038069018488832,
+        "id_str": "877037904496922624",
+        "sizes": {
+          "small": {
+            "h": 340,
+            "resize": "fit",
+            "w": 340
+          },
+          "large": {
+            "h": 640,
+            "resize": "fit",
+            "w": 640
+          },
+          "medium": {
+            "h": 600,
+            "resize": "fit",
+            "w": 600
+          },
+          "thumb": {
+            "h": 150,
+            "resize": "crop",
+            "w": 150
+          }
+        },
+        "indices": [111, 134],
+        "type": "photo",
+        "id": 877037904496922624,
+        "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/877037904496922624/pu/img/vDyLArALl-cuRW1Y.jpg"
+      }]
+    },
+    "retweeted": false,
+    "coordinates": null,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "in_reply_to_screen_name": null,
+    "in_reply_to_user_id": null,
+    "retweet_count": 10,
+    "id_str": "879249381245014016",
+    "favorited": false,
+    "retweeted_status": {
+      "contributors": null,
+      "truncated": false,
+      "text": "\" All Night \" off the Boomiverse Album Out Now ! \ud83d\udd25 #Boomiverse for the people ! Let's Go Big Boi ! https://t.co/8NugR4Ai5w",
+      "is_quote_status": false,
+      "in_reply_to_status_id": null,
+      "id": 879243024097849344,
+      "favorite_count": 28,
+      "entities": {
+        "symbols": [],
+        "user_mentions": [],
+        "hashtags": [{
+          "indices": [51, 62],
+          "text": "Boomiverse"
+        }],
+        "urls": [],
+        "media": [{
+          "source_user_id": 29330030,
+          "source_status_id_str": "877038069018488832",
+          "expanded_url": "https://twitter.com/BigBoi/status/877038069018488832/video/1",
+          "display_url": "pic.twitter.com/8NugR4Ai5w",
+          "url": "https://t.co/8NugR4Ai5w",
+          "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/877037904496922624/pu/img/vDyLArALl-cuRW1Y.jpg",
+          "source_user_id_str": "29330030",
+          "source_status_id": 877038069018488832,
+          "id_str": "877037904496922624",
+          "sizes": {
+            "small": {
+              "h": 340,
+              "resize": "fit",
+              "w": 340
+            },
+            "large": {
+              "h": 640,
+              "resize": "fit",
+              "w": 640
+            },
+            "medium": {
+              "h": 600,
+              "resize": "fit",
+              "w": 600
+            },
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            }
+          },
+          "indices": [99, 122],
+          "type": "photo",
+          "id": 877037904496922624,
+          "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/877037904496922624/pu/img/vDyLArALl-cuRW1Y.jpg"
+        }]
+      },
+      "retweeted": false,
+      "coordinates": null,
+      "source": "<a href=\"http://www.echofon.com/\" rel=\"nofollow\">Echofon</a>",
+      "in_reply_to_screen_name": null,
+      "in_reply_to_user_id": null,
+      "retweet_count": 10,
+      "id_str": "879243024097849344",
+      "favorited": false,
+      "user": {
+        "follow_request_sent": false,
+        "has_extended_profile": false,
+        "profile_use_background_image": false,
+        "default_profile_image": false,
+        "id": 29330030,
+        "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/378800000166048457/4WZaj4Au.jpeg",
+        "verified": true,
+        "translator_type": "none",
+        "profile_text_color": "666666",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/874524205571756033/M9WFqGLz_normal.jpg",
+        "profile_sidebar_fill_color": "4CFF70",
+        "entities": {
+          "url": {
+            "urls": [{
+              "url": "https://t.co/6guAnlQCCy",
+              "indices": [0, 23],
+              "expanded_url": "http://www.bigboi.com",
+              "display_url": "bigboi.com"
+            }]
+          },
+          "description": {
+            "urls": []
+          }
+        },
+        "followers_count": 1247440,
+        "profile_sidebar_border_color": "FFFFFF",
+        "id_str": "29330030",
+        "profile_background_color": "000000",
+        "listed_count": 6675,
+        "is_translation_enabled": false,
+        "utc_offset": -14400,
+        "statuses_count": 44089,
+        "description": "",
+        "friends_count": 2689,
+        "location": "Instagram Therealbigboi ",
+        "profile_link_color": "178FF2",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/874524205571756033/M9WFqGLz_normal.jpg",
+        "following": true,
+        "geo_enabled": true,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/29330030/1497631345",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/378800000166048457/4WZaj4Au.jpeg",
+        "screen_name": "BigBoi",
+        "lang": "en",
+        "profile_background_tile": true,
+        "favourites_count": 5263,
+        "name": "Big Boi",
+        "notifications": false,
+        "url": "https://t.co/6guAnlQCCy",
+        "created_at": "Mon Apr 06 23:50:23 +0000 2009",
+        "contributors_enabled": false,
+        "time_zone": "Eastern Time (US & Canada)",
+        "protected": false,
+        "default_profile": false,
+        "is_translator": false
+      },
+      "geo": null,
+      "in_reply_to_user_id_str": null,
+      "possibly_sensitive": false,
+      "lang": "en",
+      "created_at": "Mon Jun 26 07:40:47 +0000 2017",
+      "in_reply_to_status_id_str": null,
+      "place": null,
+      "extended_entities": {
+        "media": [{
+          "additional_media_info": {
+            "source_user": {
+              "follow_request_sent": false,
+              "has_extended_profile": false,
+              "profile_use_background_image": false,
+              "default_profile_image": false,
+              "id": 29330030,
+              "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/378800000166048457/4WZaj4Au.jpeg",
+              "verified": true,
+              "translator_type": "none",
+              "profile_text_color": "666666",
+              "profile_image_url_https": "https://pbs.twimg.com/profile_images/874524205571756033/M9WFqGLz_normal.jpg",
+              "profile_sidebar_fill_color": "4CFF70",
+              "entities": {
+                "url": {
+                  "urls": [{
+                    "url": "https://t.co/6guAnlQCCy",
+                    "indices": [0, 23],
+                    "expanded_url": "http://www.bigboi.com",
+                    "display_url": "bigboi.com"
+                  }]
+                },
+                "description": {
+                  "urls": []
+                }
+              },
+              "followers_count": 1247440,
+              "profile_sidebar_border_color": "FFFFFF",
+              "id_str": "29330030",
+              "profile_background_color": "000000",
+              "listed_count": 6675,
+              "is_translation_enabled": false,
+              "utc_offset": -14400,
+              "statuses_count": 44089,
+              "description": "",
+              "friends_count": 2689,
+              "location": "Instagram Therealbigboi ",
+              "profile_link_color": "178FF2",
+              "profile_image_url": "http://pbs.twimg.com/profile_images/874524205571756033/M9WFqGLz_normal.jpg",
+              "following": true,
+              "geo_enabled": true,
+              "profile_banner_url": "https://pbs.twimg.com/profile_banners/29330030/1497631345",
+              "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/378800000166048457/4WZaj4Au.jpeg",
+              "screen_name": "BigBoi",
+              "lang": "en",
+              "profile_background_tile": true,
+              "favourites_count": 5263,
+              "name": "Big Boi",
+              "notifications": false,
+              "url": "https://t.co/6guAnlQCCy",
+              "created_at": "Mon Apr 06 23:50:23 +0000 2009",
+              "contributors_enabled": false,
+              "time_zone": "Eastern Time (US & Canada)",
+              "protected": false,
+              "default_profile": false,
+              "is_translator": false
+            },
+            "monetizable": false
+          },
+          "source_user_id": 29330030,
+          "source_status_id_str": "877038069018488832",
+          "expanded_url": "https://twitter.com/BigBoi/status/877038069018488832/video/1",
+          "display_url": "pic.twitter.com/8NugR4Ai5w",
+          "url": "https://t.co/8NugR4Ai5w",
+          "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/877037904496922624/pu/img/vDyLArALl-cuRW1Y.jpg",
+          "source_user_id_str": "29330030",
+          "source_status_id": 877038069018488832,
+          "video_info": {
+            "aspect_ratio": [1, 1],
+            "duration_millis": 50200,
+            "variants": [{
+              "url": "https://video.twimg.com/ext_tw_video/877037904496922624/pu/vid/480x480/wyMGnPFhTeo_dH5S.mp4",
+              "bitrate": 832000,
+              "content_type": "video/mp4"
+            }, {
+              "url": "https://video.twimg.com/ext_tw_video/877037904496922624/pu/pl/BtsTLrXFyK9WtoNT.m3u8",
+              "content_type": "application/x-mpegURL"
+            }, {
+              "url": "https://video.twimg.com/ext_tw_video/877037904496922624/pu/vid/240x240/Vln5MOTuY9xBQdTw.mp4",
+              "bitrate": 320000,
+              "content_type": "video/mp4"
+            }]
+          },
+          "id_str": "877037904496922624",
+          "sizes": {
+            "small": {
+              "h": 340,
+              "resize": "fit",
+              "w": 340
+            },
+            "large": {
+              "h": 640,
+              "resize": "fit",
+              "w": 640
+            },
+            "medium": {
+              "h": 600,
+              "resize": "fit",
+              "w": 600
+            },
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            }
+          },
+          "indices": [99, 122],
+          "type": "video",
+          "id": 877037904496922624,
+          "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/877037904496922624/pu/img/vDyLArALl-cuRW1Y.jpg"
+        }]
+      },
+      "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+      }
+    },
+    "user": {
+      "follow_request_sent": false,
+      "has_extended_profile": true,
+      "profile_use_background_image": true,
+      "default_profile_image": false,
+      "id": 825902485533552640,
+      "profile_background_image_url_https": null,
+      "verified": false,
+      "translator_type": "none",
+      "profile_text_color": "333333",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/873827141363916800/MpMuECy3_normal.jpg",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "entities": {
+        "description": {
+          "urls": []
+        }
+      },
+      "followers_count": 595,
+      "profile_sidebar_border_color": "C0DEED",
+      "id_str": "825902485533552640",
+      "profile_background_color": "F5F8FA",
+      "listed_count": 7,
+      "is_translation_enabled": false,
+      "utc_offset": null,
+      "statuses_count": 4983,
+      "description": "",
+      "friends_count": 1211,
+      "location": "Cape Town, South Africa",
+      "profile_link_color": "1DA1F2",
+      "profile_image_url": "http://pbs.twimg.com/profile_images/873827141363916800/MpMuECy3_normal.jpg",
+      "following": false,
+      "geo_enabled": false,
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/825902485533552640/1487670790",
+      "profile_background_image_url": null,
+      "screen_name": "orion_poole",
+      "lang": "en",
+      "profile_background_tile": false,
+      "favourites_count": 5900,
+      "name": "Ori",
+      "notifications": false,
+      "url": null,
+      "created_at": "Mon Jan 30 03:04:31 +0000 2017",
+      "contributors_enabled": false,
+      "time_zone": null,
+      "protected": false,
+      "default_profile": true,
+      "is_translator": false
+    },
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "possibly_sensitive": false,
+    "lang": "en",
+    "created_at": "Mon Jun 26 08:06:02 +0000 2017",
+    "in_reply_to_status_id_str": null,
+    "place": null,
+    "extended_entities": {
+      "media": [{
+        "additional_media_info": {
+          "source_user": {
+            "follow_request_sent": false,
+            "has_extended_profile": false,
+            "profile_use_background_image": false,
+            "default_profile_image": false,
+            "id": 29330030,
+            "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/378800000166048457/4WZaj4Au.jpeg",
+            "verified": true,
+            "translator_type": "none",
+            "profile_text_color": "666666",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/874524205571756033/M9WFqGLz_normal.jpg",
+            "profile_sidebar_fill_color": "4CFF70",
+            "entities": {
+              "url": {
+                "urls": [{
+                  "url": "https://t.co/6guAnlQCCy",
+                  "indices": [0, 23],
+                  "expanded_url": "http://www.bigboi.com",
+                  "display_url": "bigboi.com"
+                }]
+              },
+              "description": {
+                "urls": []
+              }
+            },
+            "followers_count": 1247440,
+            "profile_sidebar_border_color": "FFFFFF",
+            "id_str": "29330030",
+            "profile_background_color": "000000",
+            "listed_count": 6675,
+            "is_translation_enabled": false,
+            "utc_offset": -14400,
+            "statuses_count": 44089,
+            "description": "",
+            "friends_count": 2689,
+            "location": "Instagram Therealbigboi ",
+            "profile_link_color": "178FF2",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/874524205571756033/M9WFqGLz_normal.jpg",
+            "following": true,
+            "geo_enabled": true,
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/29330030/1497631345",
+            "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/378800000166048457/4WZaj4Au.jpeg",
+            "screen_name": "BigBoi",
+            "lang": "en",
+            "profile_background_tile": true,
+            "favourites_count": 5263,
+            "name": "Big Boi",
+            "notifications": false,
+            "url": "https://t.co/6guAnlQCCy",
+            "created_at": "Mon Apr 06 23:50:23 +0000 2009",
+            "contributors_enabled": false,
+            "time_zone": "Eastern Time (US & Canada)",
+            "protected": false,
+            "default_profile": false,
+            "is_translator": false
+          },
+          "monetizable": false
+        },
+        "source_user_id": 29330030,
+        "source_status_id_str": "877038069018488832",
+        "expanded_url": "https://twitter.com/BigBoi/status/877038069018488832/video/1",
+        "display_url": "pic.twitter.com/8NugR4Ai5w",
+        "url": "https://t.co/8NugR4Ai5w",
+        "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/877037904496922624/pu/img/vDyLArALl-cuRW1Y.jpg",
+        "source_user_id_str": "29330030",
+        "source_status_id": 877038069018488832,
+        "video_info": {
+          "aspect_ratio": [1, 1],
+          "duration_millis": 50200,
+          "variants": [{
+            "url": "https://video.twimg.com/ext_tw_video/877037904496922624/pu/vid/480x480/wyMGnPFhTeo_dH5S.mp4",
+            "bitrate": 832000,
+            "content_type": "video/mp4"
+          }, {
+            "url": "https://video.twimg.com/ext_tw_video/877037904496922624/pu/pl/BtsTLrXFyK9WtoNT.m3u8",
+            "content_type": "application/x-mpegURL"
+          }, {
+            "url": "https://video.twimg.com/ext_tw_video/877037904496922624/pu/vid/240x240/Vln5MOTuY9xBQdTw.mp4",
+            "bitrate": 320000,
+            "content_type": "video/mp4"
+          }]
+        },
+        "id_str": "877037904496922624",
+        "sizes": {
+          "small": {
+            "h": 340,
+            "resize": "fit",
+            "w": 340
+          },
+          "large": {
+            "h": 640,
+            "resize": "fit",
+            "w": 640
+          },
+          "medium": {
+            "h": 600,
+            "resize": "fit",
+            "w": 600
+          },
+          "thumb": {
+            "h": 150,
+            "resize": "crop",
+            "w": 150
+          }
+        },
+        "indices": [111, 134],
+        "type": "video",
+        "id": 877037904496922624,
+        "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/877037904496922624/pu/img/vDyLArALl-cuRW1Y.jpg"
+      }]
+    },
+    "metadata": {
+      "iso_language_code": "en",
+      "result_type": "recent"
+    }
+  }, {
+    "contributors": null,
+    "truncated": false,
+    "text": "RT @BigBoi: \" All Night \" off the Boomiverse Album Out Now ! \ud83d\udd25 #Boomiverse for the people ! Let's Go Big Boi ! https://t.co/8NugR4Ai5w",
+    "is_quote_status": false,
+    "in_reply_to_status_id": null,
+    "id": 879246225173651456,
+    "favorite_count": 0,
+    "entities": {
+      "symbols": [],
+      "user_mentions": [{
+        "id": 29330030,
+        "indices": [3, 10],
+        "id_str": "29330030",
+        "screen_name": "BigBoi",
+        "name": "Big Boi"
+      }],
+      "hashtags": [{
+        "indices": [63, 74],
+        "text": "Boomiverse"
+      }],
+      "urls": [],
+      "media": [{
+        "source_user_id": 29330030,
+        "source_status_id_str": "877038069018488832",
+        "expanded_url": "https://twitter.com/BigBoi/status/877038069018488832/video/1",
+        "display_url": "pic.twitter.com/8NugR4Ai5w",
+        "url": "https://t.co/8NugR4Ai5w",
+        "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/877037904496922624/pu/img/vDyLArALl-cuRW1Y.jpg",
+        "source_user_id_str": "29330030",
+        "source_status_id": 877038069018488832,
+        "id_str": "877037904496922624",
+        "sizes": {
+          "small": {
+            "h": 340,
+            "resize": "fit",
+            "w": 340
+          },
+          "large": {
+            "h": 640,
+            "resize": "fit",
+            "w": 640
+          },
+          "medium": {
+            "h": 600,
+            "resize": "fit",
+            "w": 600
+          },
+          "thumb": {
+            "h": 150,
+            "resize": "crop",
+            "w": 150
+          }
+        },
+        "indices": [111, 134],
+        "type": "photo",
+        "id": 877037904496922624,
+        "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/877037904496922624/pu/img/vDyLArALl-cuRW1Y.jpg"
+      }]
+    },
+    "retweeted": false,
+    "coordinates": null,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_screen_name": null,
+    "in_reply_to_user_id": null,
+    "retweet_count": 10,
+    "id_str": "879246225173651456",
+    "favorited": false,
+    "retweeted_status": {
+      "contributors": null,
+      "truncated": false,
+      "text": "\" All Night \" off the Boomiverse Album Out Now ! \ud83d\udd25 #Boomiverse for the people ! Let's Go Big Boi ! https://t.co/8NugR4Ai5w",
+      "is_quote_status": false,
+      "in_reply_to_status_id": null,
+      "id": 879243024097849344,
+      "favorite_count": 28,
+      "entities": {
+        "symbols": [],
+        "user_mentions": [],
+        "hashtags": [{
+          "indices": [51, 62],
+          "text": "Boomiverse"
+        }],
+        "urls": [],
+        "media": [{
+          "source_user_id": 29330030,
+          "source_status_id_str": "877038069018488832",
+          "expanded_url": "https://twitter.com/BigBoi/status/877038069018488832/video/1",
+          "display_url": "pic.twitter.com/8NugR4Ai5w",
+          "url": "https://t.co/8NugR4Ai5w",
+          "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/877037904496922624/pu/img/vDyLArALl-cuRW1Y.jpg",
+          "source_user_id_str": "29330030",
+          "source_status_id": 877038069018488832,
+          "id_str": "877037904496922624",
+          "sizes": {
+            "small": {
+              "h": 340,
+              "resize": "fit",
+              "w": 340
+            },
+            "large": {
+              "h": 640,
+              "resize": "fit",
+              "w": 640
+            },
+            "medium": {
+              "h": 600,
+              "resize": "fit",
+              "w": 600
+            },
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            }
+          },
+          "indices": [99, 122],
+          "type": "photo",
+          "id": 877037904496922624,
+          "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/877037904496922624/pu/img/vDyLArALl-cuRW1Y.jpg"
+        }]
+      },
+      "retweeted": false,
+      "coordinates": null,
+      "source": "<a href=\"http://www.echofon.com/\" rel=\"nofollow\">Echofon</a>",
+      "in_reply_to_screen_name": null,
+      "in_reply_to_user_id": null,
+      "retweet_count": 10,
+      "id_str": "879243024097849344",
+      "favorited": false,
+      "user": {
+        "follow_request_sent": false,
+        "has_extended_profile": false,
+        "profile_use_background_image": false,
+        "default_profile_image": false,
+        "id": 29330030,
+        "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/378800000166048457/4WZaj4Au.jpeg",
+        "verified": true,
+        "translator_type": "none",
+        "profile_text_color": "666666",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/874524205571756033/M9WFqGLz_normal.jpg",
+        "profile_sidebar_fill_color": "4CFF70",
+        "entities": {
+          "url": {
+            "urls": [{
+              "url": "https://t.co/6guAnlQCCy",
+              "indices": [0, 23],
+              "expanded_url": "http://www.bigboi.com",
+              "display_url": "bigboi.com"
+            }]
+          },
+          "description": {
+            "urls": []
+          }
+        },
+        "followers_count": 1247440,
+        "profile_sidebar_border_color": "FFFFFF",
+        "id_str": "29330030",
+        "profile_background_color": "000000",
+        "listed_count": 6675,
+        "is_translation_enabled": false,
+        "utc_offset": -14400,
+        "statuses_count": 44089,
+        "description": "",
+        "friends_count": 2689,
+        "location": "Instagram Therealbigboi ",
+        "profile_link_color": "178FF2",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/874524205571756033/M9WFqGLz_normal.jpg",
+        "following": true,
+        "geo_enabled": true,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/29330030/1497631345",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/378800000166048457/4WZaj4Au.jpeg",
+        "screen_name": "BigBoi",
+        "lang": "en",
+        "profile_background_tile": true,
+        "favourites_count": 5263,
+        "name": "Big Boi",
+        "notifications": false,
+        "url": "https://t.co/6guAnlQCCy",
+        "created_at": "Mon Apr 06 23:50:23 +0000 2009",
+        "contributors_enabled": false,
+        "time_zone": "Eastern Time (US & Canada)",
+        "protected": false,
+        "default_profile": false,
+        "is_translator": false
+      },
+      "geo": null,
+      "in_reply_to_user_id_str": null,
+      "possibly_sensitive": false,
+      "lang": "en",
+      "created_at": "Mon Jun 26 07:40:47 +0000 2017",
+      "in_reply_to_status_id_str": null,
+      "place": null,
+      "extended_entities": {
+        "media": [{
+          "additional_media_info": {
+            "source_user": {
+              "follow_request_sent": false,
+              "has_extended_profile": false,
+              "profile_use_background_image": false,
+              "default_profile_image": false,
+              "id": 29330030,
+              "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/378800000166048457/4WZaj4Au.jpeg",
+              "verified": true,
+              "translator_type": "none",
+              "profile_text_color": "666666",
+              "profile_image_url_https": "https://pbs.twimg.com/profile_images/874524205571756033/M9WFqGLz_normal.jpg",
+              "profile_sidebar_fill_color": "4CFF70",
+              "entities": {
+                "url": {
+                  "urls": [{
+                    "url": "https://t.co/6guAnlQCCy",
+                    "indices": [0, 23],
+                    "expanded_url": "http://www.bigboi.com",
+                    "display_url": "bigboi.com"
+                  }]
+                },
+                "description": {
+                  "urls": []
+                }
+              },
+              "followers_count": 1247440,
+              "profile_sidebar_border_color": "FFFFFF",
+              "id_str": "29330030",
+              "profile_background_color": "000000",
+              "listed_count": 6675,
+              "is_translation_enabled": false,
+              "utc_offset": -14400,
+              "statuses_count": 44089,
+              "description": "",
+              "friends_count": 2689,
+              "location": "Instagram Therealbigboi ",
+              "profile_link_color": "178FF2",
+              "profile_image_url": "http://pbs.twimg.com/profile_images/874524205571756033/M9WFqGLz_normal.jpg",
+              "following": true,
+              "geo_enabled": true,
+              "profile_banner_url": "https://pbs.twimg.com/profile_banners/29330030/1497631345",
+              "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/378800000166048457/4WZaj4Au.jpeg",
+              "screen_name": "BigBoi",
+              "lang": "en",
+              "profile_background_tile": true,
+              "favourites_count": 5263,
+              "name": "Big Boi",
+              "notifications": false,
+              "url": "https://t.co/6guAnlQCCy",
+              "created_at": "Mon Apr 06 23:50:23 +0000 2009",
+              "contributors_enabled": false,
+              "time_zone": "Eastern Time (US & Canada)",
+              "protected": false,
+              "default_profile": false,
+              "is_translator": false
+            },
+            "monetizable": false
+          },
+          "source_user_id": 29330030,
+          "source_status_id_str": "877038069018488832",
+          "expanded_url": "https://twitter.com/BigBoi/status/877038069018488832/video/1",
+          "display_url": "pic.twitter.com/8NugR4Ai5w",
+          "url": "https://t.co/8NugR4Ai5w",
+          "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/877037904496922624/pu/img/vDyLArALl-cuRW1Y.jpg",
+          "source_user_id_str": "29330030",
+          "source_status_id": 877038069018488832,
+          "video_info": {
+            "aspect_ratio": [1, 1],
+            "duration_millis": 50200,
+            "variants": [{
+              "url": "https://video.twimg.com/ext_tw_video/877037904496922624/pu/vid/480x480/wyMGnPFhTeo_dH5S.mp4",
+              "bitrate": 832000,
+              "content_type": "video/mp4"
+            }, {
+              "url": "https://video.twimg.com/ext_tw_video/877037904496922624/pu/pl/BtsTLrXFyK9WtoNT.m3u8",
+              "content_type": "application/x-mpegURL"
+            }, {
+              "url": "https://video.twimg.com/ext_tw_video/877037904496922624/pu/vid/240x240/Vln5MOTuY9xBQdTw.mp4",
+              "bitrate": 320000,
+              "content_type": "video/mp4"
+            }]
+          },
+          "id_str": "877037904496922624",
+          "sizes": {
+            "small": {
+              "h": 340,
+              "resize": "fit",
+              "w": 340
+            },
+            "large": {
+              "h": 640,
+              "resize": "fit",
+              "w": 640
+            },
+            "medium": {
+              "h": 600,
+              "resize": "fit",
+              "w": 600
+            },
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            }
+          },
+          "indices": [99, 122],
+          "type": "video",
+          "id": 877037904496922624,
+          "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/877037904496922624/pu/img/vDyLArALl-cuRW1Y.jpg"
+        }]
+      },
+      "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+      }
+    },
+    "user": {
+      "follow_request_sent": false,
+      "has_extended_profile": true,
+      "profile_use_background_image": true,
+      "default_profile_image": false,
+      "id": 803773901842984960,
+      "profile_background_image_url_https": null,
+      "verified": false,
+      "translator_type": "none",
+      "profile_text_color": "333333",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/803791114167730177/SoGG2d9N_normal.jpg",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "entities": {
+        "description": {
+          "urls": []
+        }
+      },
+      "followers_count": 348,
+      "profile_sidebar_border_color": "C0DEED",
+      "id_str": "803773901842984960",
+      "profile_background_color": "F5F8FA",
+      "listed_count": 2,
+      "is_translation_enabled": false,
+      "utc_offset": null,
+      "statuses_count": 9059,
+      "description": "Rollicking, boisterous gigantic progressive intellectual leprechaun fiercely devoted to social justice especially for those imperiled by lack of same",
+      "friends_count": 603,
+      "location": "Portlandia, Or",
+      "profile_link_color": "1DA1F2",
+      "profile_image_url": "http://pbs.twimg.com/profile_images/803791114167730177/SoGG2d9N_normal.jpg",
+      "following": false,
+      "geo_enabled": true,
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/803773901842984960/1491684328",
+      "profile_background_image_url": null,
+      "screen_name": "Trumpeteer5588",
+      "lang": "en",
+      "profile_background_tile": false,
+      "favourites_count": 7268,
+      "name": "Dan Kelleher",
+      "notifications": false,
+      "url": null,
+      "created_at": "Wed Nov 30 01:33:26 +0000 2016",
+      "contributors_enabled": false,
+      "time_zone": null,
+      "protected": false,
+      "default_profile": true,
+      "is_translator": false
+    },
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "possibly_sensitive": false,
+    "lang": "en",
+    "created_at": "Mon Jun 26 07:53:30 +0000 2017",
+    "in_reply_to_status_id_str": null,
+    "place": null,
+    "extended_entities": {
+      "media": [{
+        "additional_media_info": {
+          "source_user": {
+            "follow_request_sent": false,
+            "has_extended_profile": false,
+            "profile_use_background_image": false,
+            "default_profile_image": false,
+            "id": 29330030,
+            "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/378800000166048457/4WZaj4Au.jpeg",
+            "verified": true,
+            "translator_type": "none",
+            "profile_text_color": "666666",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/874524205571756033/M9WFqGLz_normal.jpg",
+            "profile_sidebar_fill_color": "4CFF70",
+            "entities": {
+              "url": {
+                "urls": [{
+                  "url": "https://t.co/6guAnlQCCy",
+                  "indices": [0, 23],
+                  "expanded_url": "http://www.bigboi.com",
+                  "display_url": "bigboi.com"
+                }]
+              },
+              "description": {
+                "urls": []
+              }
+            },
+            "followers_count": 1247440,
+            "profile_sidebar_border_color": "FFFFFF",
+            "id_str": "29330030",
+            "profile_background_color": "000000",
+            "listed_count": 6675,
+            "is_translation_enabled": false,
+            "utc_offset": -14400,
+            "statuses_count": 44089,
+            "description": "",
+            "friends_count": 2689,
+            "location": "Instagram Therealbigboi ",
+            "profile_link_color": "178FF2",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/874524205571756033/M9WFqGLz_normal.jpg",
+            "following": true,
+            "geo_enabled": true,
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/29330030/1497631345",
+            "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/378800000166048457/4WZaj4Au.jpeg",
+            "screen_name": "BigBoi",
+            "lang": "en",
+            "profile_background_tile": true,
+            "favourites_count": 5263,
+            "name": "Big Boi",
+            "notifications": false,
+            "url": "https://t.co/6guAnlQCCy",
+            "created_at": "Mon Apr 06 23:50:23 +0000 2009",
+            "contributors_enabled": false,
+            "time_zone": "Eastern Time (US & Canada)",
+            "protected": false,
+            "default_profile": false,
+            "is_translator": false
+          },
+          "monetizable": false
+        },
+        "source_user_id": 29330030,
+        "source_status_id_str": "877038069018488832",
+        "expanded_url": "https://twitter.com/BigBoi/status/877038069018488832/video/1",
+        "display_url": "pic.twitter.com/8NugR4Ai5w",
+        "url": "https://t.co/8NugR4Ai5w",
+        "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/877037904496922624/pu/img/vDyLArALl-cuRW1Y.jpg",
+        "source_user_id_str": "29330030",
+        "source_status_id": 877038069018488832,
+        "video_info": {
+          "aspect_ratio": [1, 1],
+          "duration_millis": 50200,
+          "variants": [{
+            "url": "https://video.twimg.com/ext_tw_video/877037904496922624/pu/vid/480x480/wyMGnPFhTeo_dH5S.mp4",
+            "bitrate": 832000,
+            "content_type": "video/mp4"
+          }, {
+            "url": "https://video.twimg.com/ext_tw_video/877037904496922624/pu/pl/BtsTLrXFyK9WtoNT.m3u8",
+            "content_type": "application/x-mpegURL"
+          }, {
+            "url": "https://video.twimg.com/ext_tw_video/877037904496922624/pu/vid/240x240/Vln5MOTuY9xBQdTw.mp4",
+            "bitrate": 320000,
+            "content_type": "video/mp4"
+          }]
+        },
+        "id_str": "877037904496922624",
+        "sizes": {
+          "small": {
+            "h": 340,
+            "resize": "fit",
+            "w": 340
+          },
+          "large": {
+            "h": 640,
+            "resize": "fit",
+            "w": 640
+          },
+          "medium": {
+            "h": 600,
+            "resize": "fit",
+            "w": 600
+          },
+          "thumb": {
+            "h": 150,
+            "resize": "crop",
+            "w": 150
+          }
+        },
+        "indices": [111, 134],
+        "type": "video",
+        "id": 877037904496922624,
+        "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/877037904496922624/pu/img/vDyLArALl-cuRW1Y.jpg"
+      }]
+    },
+    "metadata": {
+      "iso_language_code": "en",
+      "result_type": "recent"
+    }
+  }, {
+    "contributors": null,
+    "truncated": false,
+    "text": "RT @BigBoi: \" All Night \" off the Boomiverse Album Out Now ! \ud83d\udd25 #Boomiverse for the people ! Let's Go Big Boi ! https://t.co/8NugR4Ai5w",
+    "is_quote_status": false,
+    "in_reply_to_status_id": null,
+    "id": 879244359597785088,
+    "favorite_count": 0,
+    "entities": {
+      "symbols": [],
+      "user_mentions": [{
+        "id": 29330030,
+        "indices": [3, 10],
+        "id_str": "29330030",
+        "screen_name": "BigBoi",
+        "name": "Big Boi"
+      }],
+      "hashtags": [{
+        "indices": [63, 74],
+        "text": "Boomiverse"
+      }],
+      "urls": [],
+      "media": [{
+        "source_user_id": 29330030,
+        "source_status_id_str": "877038069018488832",
+        "expanded_url": "https://twitter.com/BigBoi/status/877038069018488832/video/1",
+        "display_url": "pic.twitter.com/8NugR4Ai5w",
+        "url": "https://t.co/8NugR4Ai5w",
+        "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/877037904496922624/pu/img/vDyLArALl-cuRW1Y.jpg",
+        "source_user_id_str": "29330030",
+        "source_status_id": 877038069018488832,
+        "id_str": "877037904496922624",
+        "sizes": {
+          "small": {
+            "h": 340,
+            "resize": "fit",
+            "w": 340
+          },
+          "large": {
+            "h": 640,
+            "resize": "fit",
+            "w": 640
+          },
+          "medium": {
+            "h": 600,
+            "resize": "fit",
+            "w": 600
+          },
+          "thumb": {
+            "h": 150,
+            "resize": "crop",
+            "w": 150
+          }
+        },
+        "indices": [111, 134],
+        "type": "photo",
+        "id": 877037904496922624,
+        "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/877037904496922624/pu/img/vDyLArALl-cuRW1Y.jpg"
+      }]
+    },
+    "retweeted": false,
+    "coordinates": null,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "in_reply_to_screen_name": null,
+    "in_reply_to_user_id": null,
+    "retweet_count": 10,
+    "id_str": "879244359597785088",
+    "favorited": false,
+    "retweeted_status": {
+      "contributors": null,
+      "truncated": false,
+      "text": "\" All Night \" off the Boomiverse Album Out Now ! \ud83d\udd25 #Boomiverse for the people ! Let's Go Big Boi ! https://t.co/8NugR4Ai5w",
+      "is_quote_status": false,
+      "in_reply_to_status_id": null,
+      "id": 879243024097849344,
+      "favorite_count": 28,
+      "entities": {
+        "symbols": [],
+        "user_mentions": [],
+        "hashtags": [{
+          "indices": [51, 62],
+          "text": "Boomiverse"
+        }],
+        "urls": [],
+        "media": [{
+          "source_user_id": 29330030,
+          "source_status_id_str": "877038069018488832",
+          "expanded_url": "https://twitter.com/BigBoi/status/877038069018488832/video/1",
+          "display_url": "pic.twitter.com/8NugR4Ai5w",
+          "url": "https://t.co/8NugR4Ai5w",
+          "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/877037904496922624/pu/img/vDyLArALl-cuRW1Y.jpg",
+          "source_user_id_str": "29330030",
+          "source_status_id": 877038069018488832,
+          "id_str": "877037904496922624",
+          "sizes": {
+            "small": {
+              "h": 340,
+              "resize": "fit",
+              "w": 340
+            },
+            "large": {
+              "h": 640,
+              "resize": "fit",
+              "w": 640
+            },
+            "medium": {
+              "h": 600,
+              "resize": "fit",
+              "w": 600
+            },
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            }
+          },
+          "indices": [99, 122],
+          "type": "photo",
+          "id": 877037904496922624,
+          "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/877037904496922624/pu/img/vDyLArALl-cuRW1Y.jpg"
+        }]
+      },
+      "retweeted": false,
+      "coordinates": null,
+      "source": "<a href=\"http://www.echofon.com/\" rel=\"nofollow\">Echofon</a>",
+      "in_reply_to_screen_name": null,
+      "in_reply_to_user_id": null,
+      "retweet_count": 10,
+      "id_str": "879243024097849344",
+      "favorited": false,
+      "user": {
+        "follow_request_sent": false,
+        "has_extended_profile": false,
+        "profile_use_background_image": false,
+        "default_profile_image": false,
+        "id": 29330030,
+        "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/378800000166048457/4WZaj4Au.jpeg",
+        "verified": true,
+        "translator_type": "none",
+        "profile_text_color": "666666",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/874524205571756033/M9WFqGLz_normal.jpg",
+        "profile_sidebar_fill_color": "4CFF70",
+        "entities": {
+          "url": {
+            "urls": [{
+              "url": "https://t.co/6guAnlQCCy",
+              "indices": [0, 23],
+              "expanded_url": "http://www.bigboi.com",
+              "display_url": "bigboi.com"
+            }]
+          },
+          "description": {
+            "urls": []
+          }
+        },
+        "followers_count": 1247440,
+        "profile_sidebar_border_color": "FFFFFF",
+        "id_str": "29330030",
+        "profile_background_color": "000000",
+        "listed_count": 6675,
+        "is_translation_enabled": false,
+        "utc_offset": -14400,
+        "statuses_count": 44089,
+        "description": "",
+        "friends_count": 2689,
+        "location": "Instagram Therealbigboi ",
+        "profile_link_color": "178FF2",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/874524205571756033/M9WFqGLz_normal.jpg",
+        "following": true,
+        "geo_enabled": true,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/29330030/1497631345",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/378800000166048457/4WZaj4Au.jpeg",
+        "screen_name": "BigBoi",
+        "lang": "en",
+        "profile_background_tile": true,
+        "favourites_count": 5263,
+        "name": "Big Boi",
+        "notifications": false,
+        "url": "https://t.co/6guAnlQCCy",
+        "created_at": "Mon Apr 06 23:50:23 +0000 2009",
+        "contributors_enabled": false,
+        "time_zone": "Eastern Time (US & Canada)",
+        "protected": false,
+        "default_profile": false,
+        "is_translator": false
+      },
+      "geo": null,
+      "in_reply_to_user_id_str": null,
+      "possibly_sensitive": false,
+      "lang": "en",
+      "created_at": "Mon Jun 26 07:40:47 +0000 2017",
+      "in_reply_to_status_id_str": null,
+      "place": null,
+      "extended_entities": {
+        "media": [{
+          "additional_media_info": {
+            "source_user": {
+              "follow_request_sent": false,
+              "has_extended_profile": false,
+              "profile_use_background_image": false,
+              "default_profile_image": false,
+              "id": 29330030,
+              "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/378800000166048457/4WZaj4Au.jpeg",
+              "verified": true,
+              "translator_type": "none",
+              "profile_text_color": "666666",
+              "profile_image_url_https": "https://pbs.twimg.com/profile_images/874524205571756033/M9WFqGLz_normal.jpg",
+              "profile_sidebar_fill_color": "4CFF70",
+              "entities": {
+                "url": {
+                  "urls": [{
+                    "url": "https://t.co/6guAnlQCCy",
+                    "indices": [0, 23],
+                    "expanded_url": "http://www.bigboi.com",
+                    "display_url": "bigboi.com"
+                  }]
+                },
+                "description": {
+                  "urls": []
+                }
+              },
+              "followers_count": 1247440,
+              "profile_sidebar_border_color": "FFFFFF",
+              "id_str": "29330030",
+              "profile_background_color": "000000",
+              "listed_count": 6675,
+              "is_translation_enabled": false,
+              "utc_offset": -14400,
+              "statuses_count": 44089,
+              "description": "",
+              "friends_count": 2689,
+              "location": "Instagram Therealbigboi ",
+              "profile_link_color": "178FF2",
+              "profile_image_url": "http://pbs.twimg.com/profile_images/874524205571756033/M9WFqGLz_normal.jpg",
+              "following": true,
+              "geo_enabled": true,
+              "profile_banner_url": "https://pbs.twimg.com/profile_banners/29330030/1497631345",
+              "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/378800000166048457/4WZaj4Au.jpeg",
+              "screen_name": "BigBoi",
+              "lang": "en",
+              "profile_background_tile": true,
+              "favourites_count": 5263,
+              "name": "Big Boi",
+              "notifications": false,
+              "url": "https://t.co/6guAnlQCCy",
+              "created_at": "Mon Apr 06 23:50:23 +0000 2009",
+              "contributors_enabled": false,
+              "time_zone": "Eastern Time (US & Canada)",
+              "protected": false,
+              "default_profile": false,
+              "is_translator": false
+            },
+            "monetizable": false
+          },
+          "source_user_id": 29330030,
+          "source_status_id_str": "877038069018488832",
+          "expanded_url": "https://twitter.com/BigBoi/status/877038069018488832/video/1",
+          "display_url": "pic.twitter.com/8NugR4Ai5w",
+          "url": "https://t.co/8NugR4Ai5w",
+          "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/877037904496922624/pu/img/vDyLArALl-cuRW1Y.jpg",
+          "source_user_id_str": "29330030",
+          "source_status_id": 877038069018488832,
+          "video_info": {
+            "aspect_ratio": [1, 1],
+            "duration_millis": 50200,
+            "variants": [{
+              "url": "https://video.twimg.com/ext_tw_video/877037904496922624/pu/vid/480x480/wyMGnPFhTeo_dH5S.mp4",
+              "bitrate": 832000,
+              "content_type": "video/mp4"
+            }, {
+              "url": "https://video.twimg.com/ext_tw_video/877037904496922624/pu/pl/BtsTLrXFyK9WtoNT.m3u8",
+              "content_type": "application/x-mpegURL"
+            }, {
+              "url": "https://video.twimg.com/ext_tw_video/877037904496922624/pu/vid/240x240/Vln5MOTuY9xBQdTw.mp4",
+              "bitrate": 320000,
+              "content_type": "video/mp4"
+            }]
+          },
+          "id_str": "877037904496922624",
+          "sizes": {
+            "small": {
+              "h": 340,
+              "resize": "fit",
+              "w": 340
+            },
+            "large": {
+              "h": 640,
+              "resize": "fit",
+              "w": 640
+            },
+            "medium": {
+              "h": 600,
+              "resize": "fit",
+              "w": 600
+            },
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            }
+          },
+          "indices": [99, 122],
+          "type": "video",
+          "id": 877037904496922624,
+          "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/877037904496922624/pu/img/vDyLArALl-cuRW1Y.jpg"
+        }]
+      },
+      "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+      }
+    },
+    "user": {
+      "follow_request_sent": false,
+      "has_extended_profile": true,
+      "profile_use_background_image": true,
+      "default_profile_image": false,
+      "id": 37381180,
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme4/bg.gif",
+      "verified": false,
+      "translator_type": "regular",
+      "profile_text_color": "000000",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/857650658421469187/7L8gA9yQ_normal.jpg",
+      "profile_sidebar_fill_color": "000000",
+      "entities": {
+        "url": {
+          "urls": [{
+            "url": "https://t.co/Zk4YTpK2qb",
+            "indices": [0, 23],
+            "expanded_url": "https://www.linkedin.com/in/chbanks/",
+            "display_url": "linkedin.com/in/chbanks/"
+          }]
+        },
+        "description": {
+          "urls": []
+        }
+      },
+      "followers_count": 3472,
+      "profile_sidebar_border_color": "000000",
+      "id_str": "37381180",
+      "profile_background_color": "0099B9",
+      "listed_count": 423,
+      "is_translation_enabled": false,
+      "utc_offset": 7200,
+      "statuses_count": 276805,
+      "description": "Dad, Husband, and CFO. Equality and justice are what we value most.\n\nSpecializing in EU politics, and Swedish American relations with an emphasis on finance.",
+      "friends_count": 1059,
+      "location": "Sweden",
+      "profile_link_color": "038543",
+      "profile_image_url": "http://pbs.twimg.com/profile_images/857650658421469187/7L8gA9yQ_normal.jpg",
+      "following": false,
+      "geo_enabled": true,
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/37381180/1373977246",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme4/bg.gif",
+      "screen_name": "cmbsweden",
+      "lang": "en",
+      "profile_background_tile": false,
+      "favourites_count": 295493,
+      "name": "Christopher Banks",
+      "notifications": false,
+      "url": "https://t.co/Zk4YTpK2qb",
+      "created_at": "Sun May 03 06:54:34 +0000 2009",
+      "contributors_enabled": false,
+      "time_zone": "Copenhagen",
+      "protected": false,
+      "default_profile": false,
+      "is_translator": false
+    },
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "possibly_sensitive": false,
+    "lang": "en",
+    "created_at": "Mon Jun 26 07:46:05 +0000 2017",
+    "in_reply_to_status_id_str": null,
+    "place": null,
+    "extended_entities": {
+      "media": [{
+        "additional_media_info": {
+          "source_user": {
+            "follow_request_sent": false,
+            "has_extended_profile": false,
+            "profile_use_background_image": false,
+            "default_profile_image": false,
+            "id": 29330030,
+            "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/378800000166048457/4WZaj4Au.jpeg",
+            "verified": true,
+            "translator_type": "none",
+            "profile_text_color": "666666",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/874524205571756033/M9WFqGLz_normal.jpg",
+            "profile_sidebar_fill_color": "4CFF70",
+            "entities": {
+              "url": {
+                "urls": [{
+                  "url": "https://t.co/6guAnlQCCy",
+                  "indices": [0, 23],
+                  "expanded_url": "http://www.bigboi.com",
+                  "display_url": "bigboi.com"
+                }]
+              },
+              "description": {
+                "urls": []
+              }
+            },
+            "followers_count": 1247440,
+            "profile_sidebar_border_color": "FFFFFF",
+            "id_str": "29330030",
+            "profile_background_color": "000000",
+            "listed_count": 6675,
+            "is_translation_enabled": false,
+            "utc_offset": -14400,
+            "statuses_count": 44089,
+            "description": "",
+            "friends_count": 2689,
+            "location": "Instagram Therealbigboi ",
+            "profile_link_color": "178FF2",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/874524205571756033/M9WFqGLz_normal.jpg",
+            "following": true,
+            "geo_enabled": true,
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/29330030/1497631345",
+            "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/378800000166048457/4WZaj4Au.jpeg",
+            "screen_name": "BigBoi",
+            "lang": "en",
+            "profile_background_tile": true,
+            "favourites_count": 5263,
+            "name": "Big Boi",
+            "notifications": false,
+            "url": "https://t.co/6guAnlQCCy",
+            "created_at": "Mon Apr 06 23:50:23 +0000 2009",
+            "contributors_enabled": false,
+            "time_zone": "Eastern Time (US & Canada)",
+            "protected": false,
+            "default_profile": false,
+            "is_translator": false
+          },
+          "monetizable": false
+        },
+        "source_user_id": 29330030,
+        "source_status_id_str": "877038069018488832",
+        "expanded_url": "https://twitter.com/BigBoi/status/877038069018488832/video/1",
+        "display_url": "pic.twitter.com/8NugR4Ai5w",
+        "url": "https://t.co/8NugR4Ai5w",
+        "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/877037904496922624/pu/img/vDyLArALl-cuRW1Y.jpg",
+        "source_user_id_str": "29330030",
+        "source_status_id": 877038069018488832,
+        "video_info": {
+          "aspect_ratio": [1, 1],
+          "duration_millis": 50200,
+          "variants": [{
+            "url": "https://video.twimg.com/ext_tw_video/877037904496922624/pu/vid/480x480/wyMGnPFhTeo_dH5S.mp4",
+            "bitrate": 832000,
+            "content_type": "video/mp4"
+          }, {
+            "url": "https://video.twimg.com/ext_tw_video/877037904496922624/pu/pl/BtsTLrXFyK9WtoNT.m3u8",
+            "content_type": "application/x-mpegURL"
+          }, {
+            "url": "https://video.twimg.com/ext_tw_video/877037904496922624/pu/vid/240x240/Vln5MOTuY9xBQdTw.mp4",
+            "bitrate": 320000,
+            "content_type": "video/mp4"
+          }]
+        },
+        "id_str": "877037904496922624",
+        "sizes": {
+          "small": {
+            "h": 340,
+            "resize": "fit",
+            "w": 340
+          },
+          "large": {
+            "h": 640,
+            "resize": "fit",
+            "w": 640
+          },
+          "medium": {
+            "h": 600,
+            "resize": "fit",
+            "w": 600
+          },
+          "thumb": {
+            "h": 150,
+            "resize": "crop",
+            "w": 150
+          }
+        },
+        "indices": [111, 134],
+        "type": "video",
+        "id": 877037904496922624,
+        "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/877037904496922624/pu/img/vDyLArALl-cuRW1Y.jpg"
+      }]
+    },
+    "metadata": {
+      "iso_language_code": "en",
+      "result_type": "recent"
+    }
+  }, {
+    "contributors": null,
+    "truncated": false,
+    "text": "RT @BigBoi: \" All Night \" off the Boomiverse Album Out Now ! \ud83d\udd25 #Boomiverse for the people ! Let's Go Big Boi ! https://t.co/8NugR4Ai5w",
+    "is_quote_status": false,
+    "in_reply_to_status_id": null,
+    "id": 879244012401467394,
+    "favorite_count": 0,
+    "entities": {
+      "symbols": [],
+      "user_mentions": [{
+        "id": 29330030,
+        "indices": [3, 10],
+        "id_str": "29330030",
+        "screen_name": "BigBoi",
+        "name": "Big Boi"
+      }],
+      "hashtags": [{
+        "indices": [63, 74],
+        "text": "Boomiverse"
+      }],
+      "urls": [],
+      "media": [{
+        "source_user_id": 29330030,
+        "source_status_id_str": "877038069018488832",
+        "expanded_url": "https://twitter.com/BigBoi/status/877038069018488832/video/1",
+        "display_url": "pic.twitter.com/8NugR4Ai5w",
+        "url": "https://t.co/8NugR4Ai5w",
+        "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/877037904496922624/pu/img/vDyLArALl-cuRW1Y.jpg",
+        "source_user_id_str": "29330030",
+        "source_status_id": 877038069018488832,
+        "id_str": "877037904496922624",
+        "sizes": {
+          "small": {
+            "h": 340,
+            "resize": "fit",
+            "w": 340
+          },
+          "large": {
+            "h": 640,
+            "resize": "fit",
+            "w": 640
+          },
+          "medium": {
+            "h": 600,
+            "resize": "fit",
+            "w": 600
+          },
+          "thumb": {
+            "h": 150,
+            "resize": "crop",
+            "w": 150
+          }
+        },
+        "indices": [111, 134],
+        "type": "photo",
+        "id": 877037904496922624,
+        "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/877037904496922624/pu/img/vDyLArALl-cuRW1Y.jpg"
+      }]
+    },
+    "retweeted": false,
+    "coordinates": null,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_screen_name": null,
+    "in_reply_to_user_id": null,
+    "retweet_count": 10,
+    "id_str": "879244012401467394",
+    "favorited": false,
+    "retweeted_status": {
+      "contributors": null,
+      "truncated": false,
+      "text": "\" All Night \" off the Boomiverse Album Out Now ! \ud83d\udd25 #Boomiverse for the people ! Let's Go Big Boi ! https://t.co/8NugR4Ai5w",
+      "is_quote_status": false,
+      "in_reply_to_status_id": null,
+      "id": 879243024097849344,
+      "favorite_count": 28,
+      "entities": {
+        "symbols": [],
+        "user_mentions": [],
+        "hashtags": [{
+          "indices": [51, 62],
+          "text": "Boomiverse"
+        }],
+        "urls": [],
+        "media": [{
+          "source_user_id": 29330030,
+          "source_status_id_str": "877038069018488832",
+          "expanded_url": "https://twitter.com/BigBoi/status/877038069018488832/video/1",
+          "display_url": "pic.twitter.com/8NugR4Ai5w",
+          "url": "https://t.co/8NugR4Ai5w",
+          "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/877037904496922624/pu/img/vDyLArALl-cuRW1Y.jpg",
+          "source_user_id_str": "29330030",
+          "source_status_id": 877038069018488832,
+          "id_str": "877037904496922624",
+          "sizes": {
+            "small": {
+              "h": 340,
+              "resize": "fit",
+              "w": 340
+            },
+            "large": {
+              "h": 640,
+              "resize": "fit",
+              "w": 640
+            },
+            "medium": {
+              "h": 600,
+              "resize": "fit",
+              "w": 600
+            },
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            }
+          },
+          "indices": [99, 122],
+          "type": "photo",
+          "id": 877037904496922624,
+          "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/877037904496922624/pu/img/vDyLArALl-cuRW1Y.jpg"
+        }]
+      },
+      "retweeted": false,
+      "coordinates": null,
+      "source": "<a href=\"http://www.echofon.com/\" rel=\"nofollow\">Echofon</a>",
+      "in_reply_to_screen_name": null,
+      "in_reply_to_user_id": null,
+      "retweet_count": 10,
+      "id_str": "879243024097849344",
+      "favorited": false,
+      "user": {
+        "follow_request_sent": false,
+        "has_extended_profile": false,
+        "profile_use_background_image": false,
+        "default_profile_image": false,
+        "id": 29330030,
+        "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/378800000166048457/4WZaj4Au.jpeg",
+        "verified": true,
+        "translator_type": "none",
+        "profile_text_color": "666666",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/874524205571756033/M9WFqGLz_normal.jpg",
+        "profile_sidebar_fill_color": "4CFF70",
+        "entities": {
+          "url": {
+            "urls": [{
+              "url": "https://t.co/6guAnlQCCy",
+              "indices": [0, 23],
+              "expanded_url": "http://www.bigboi.com",
+              "display_url": "bigboi.com"
+            }]
+          },
+          "description": {
+            "urls": []
+          }
+        },
+        "followers_count": 1247440,
+        "profile_sidebar_border_color": "FFFFFF",
+        "id_str": "29330030",
+        "profile_background_color": "000000",
+        "listed_count": 6675,
+        "is_translation_enabled": false,
+        "utc_offset": -14400,
+        "statuses_count": 44089,
+        "description": "",
+        "friends_count": 2689,
+        "location": "Instagram Therealbigboi ",
+        "profile_link_color": "178FF2",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/874524205571756033/M9WFqGLz_normal.jpg",
+        "following": true,
+        "geo_enabled": true,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/29330030/1497631345",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/378800000166048457/4WZaj4Au.jpeg",
+        "screen_name": "BigBoi",
+        "lang": "en",
+        "profile_background_tile": true,
+        "favourites_count": 5263,
+        "name": "Big Boi",
+        "notifications": false,
+        "url": "https://t.co/6guAnlQCCy",
+        "created_at": "Mon Apr 06 23:50:23 +0000 2009",
+        "contributors_enabled": false,
+        "time_zone": "Eastern Time (US & Canada)",
+        "protected": false,
+        "default_profile": false,
+        "is_translator": false
+      },
+      "geo": null,
+      "in_reply_to_user_id_str": null,
+      "possibly_sensitive": false,
+      "lang": "en",
+      "created_at": "Mon Jun 26 07:40:47 +0000 2017",
+      "in_reply_to_status_id_str": null,
+      "place": null,
+      "extended_entities": {
+        "media": [{
+          "additional_media_info": {
+            "source_user": {
+              "follow_request_sent": false,
+              "has_extended_profile": false,
+              "profile_use_background_image": false,
+              "default_profile_image": false,
+              "id": 29330030,
+              "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/378800000166048457/4WZaj4Au.jpeg",
+              "verified": true,
+              "translator_type": "none",
+              "profile_text_color": "666666",
+              "profile_image_url_https": "https://pbs.twimg.com/profile_images/874524205571756033/M9WFqGLz_normal.jpg",
+              "profile_sidebar_fill_color": "4CFF70",
+              "entities": {
+                "url": {
+                  "urls": [{
+                    "url": "https://t.co/6guAnlQCCy",
+                    "indices": [0, 23],
+                    "expanded_url": "http://www.bigboi.com",
+                    "display_url": "bigboi.com"
+                  }]
+                },
+                "description": {
+                  "urls": []
+                }
+              },
+              "followers_count": 1247440,
+              "profile_sidebar_border_color": "FFFFFF",
+              "id_str": "29330030",
+              "profile_background_color": "000000",
+              "listed_count": 6675,
+              "is_translation_enabled": false,
+              "utc_offset": -14400,
+              "statuses_count": 44089,
+              "description": "",
+              "friends_count": 2689,
+              "location": "Instagram Therealbigboi ",
+              "profile_link_color": "178FF2",
+              "profile_image_url": "http://pbs.twimg.com/profile_images/874524205571756033/M9WFqGLz_normal.jpg",
+              "following": true,
+              "geo_enabled": true,
+              "profile_banner_url": "https://pbs.twimg.com/profile_banners/29330030/1497631345",
+              "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/378800000166048457/4WZaj4Au.jpeg",
+              "screen_name": "BigBoi",
+              "lang": "en",
+              "profile_background_tile": true,
+              "favourites_count": 5263,
+              "name": "Big Boi",
+              "notifications": false,
+              "url": "https://t.co/6guAnlQCCy",
+              "created_at": "Mon Apr 06 23:50:23 +0000 2009",
+              "contributors_enabled": false,
+              "time_zone": "Eastern Time (US & Canada)",
+              "protected": false,
+              "default_profile": false,
+              "is_translator": false
+            },
+            "monetizable": false
+          },
+          "source_user_id": 29330030,
+          "source_status_id_str": "877038069018488832",
+          "expanded_url": "https://twitter.com/BigBoi/status/877038069018488832/video/1",
+          "display_url": "pic.twitter.com/8NugR4Ai5w",
+          "url": "https://t.co/8NugR4Ai5w",
+          "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/877037904496922624/pu/img/vDyLArALl-cuRW1Y.jpg",
+          "source_user_id_str": "29330030",
+          "source_status_id": 877038069018488832,
+          "video_info": {
+            "aspect_ratio": [1, 1],
+            "duration_millis": 50200,
+            "variants": [{
+              "url": "https://video.twimg.com/ext_tw_video/877037904496922624/pu/vid/480x480/wyMGnPFhTeo_dH5S.mp4",
+              "bitrate": 832000,
+              "content_type": "video/mp4"
+            }, {
+              "url": "https://video.twimg.com/ext_tw_video/877037904496922624/pu/pl/BtsTLrXFyK9WtoNT.m3u8",
+              "content_type": "application/x-mpegURL"
+            }, {
+              "url": "https://video.twimg.com/ext_tw_video/877037904496922624/pu/vid/240x240/Vln5MOTuY9xBQdTw.mp4",
+              "bitrate": 320000,
+              "content_type": "video/mp4"
+            }]
+          },
+          "id_str": "877037904496922624",
+          "sizes": {
+            "small": {
+              "h": 340,
+              "resize": "fit",
+              "w": 340
+            },
+            "large": {
+              "h": 640,
+              "resize": "fit",
+              "w": 640
+            },
+            "medium": {
+              "h": 600,
+              "resize": "fit",
+              "w": 600
+            },
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            }
+          },
+          "indices": [99, 122],
+          "type": "video",
+          "id": 877037904496922624,
+          "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/877037904496922624/pu/img/vDyLArALl-cuRW1Y.jpg"
+        }]
+      },
+      "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+      }
+    },
+    "user": {
+      "follow_request_sent": false,
+      "has_extended_profile": true,
+      "profile_use_background_image": true,
+      "default_profile_image": false,
+      "id": 222881714,
+      "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/215210565/DJ_Twit_bg.jpg",
+      "verified": false,
+      "translator_type": "none",
+      "profile_text_color": "080808",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/2863930013/740833b3da40c26aca89d3e185841d1f_normal.jpeg",
+      "profile_sidebar_fill_color": "E3E3E3",
+      "entities": {
+        "url": {
+          "urls": [{
+            "url": "https://t.co/BsdyLfivX8",
+            "indices": [0, 23],
+            "expanded_url": "http://DJPooh.com",
+            "display_url": "DJPooh.com"
+          }]
+        },
+        "description": {
+          "urls": []
+        }
+      },
+      "followers_count": 217913,
+      "profile_sidebar_border_color": "000000",
+      "id_str": "222881714",
+      "profile_background_color": "EBB026",
+      "listed_count": 206,
+      "is_translation_enabled": false,
+      "utc_offset": -28800,
+      "statuses_count": 20974,
+      "description": "Writer - Director - Producer - Actor - DJ - Tech - Geek.... beats",
+      "friends_count": 2140,
+      "location": "P. Sherman42, Wallaby Way,Sydn",
+      "profile_link_color": "2E6BDB",
+      "profile_image_url": "http://pbs.twimg.com/profile_images/2863930013/740833b3da40c26aca89d3e185841d1f_normal.jpeg",
+      "following": false,
+      "geo_enabled": true,
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/222881714/1489555537",
+      "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/215210565/DJ_Twit_bg.jpg",
+      "screen_name": "DJPooh",
+      "lang": "en",
+      "profile_background_tile": false,
+      "favourites_count": 1793,
+      "name": "DJ POOH",
+      "notifications": false,
+      "url": "https://t.co/BsdyLfivX8",
+      "created_at": "Sat Dec 04 18:52:27 +0000 2010",
+      "contributors_enabled": false,
+      "time_zone": "Alaska",
+      "protected": false,
+      "default_profile": false,
+      "is_translator": false
+    },
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "possibly_sensitive": false,
+    "lang": "en",
+    "created_at": "Mon Jun 26 07:44:42 +0000 2017",
+    "in_reply_to_status_id_str": null,
+    "place": null,
+    "extended_entities": {
+      "media": [{
+        "additional_media_info": {
+          "source_user": {
+            "follow_request_sent": false,
+            "has_extended_profile": false,
+            "profile_use_background_image": false,
+            "default_profile_image": false,
+            "id": 29330030,
+            "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/378800000166048457/4WZaj4Au.jpeg",
+            "verified": true,
+            "translator_type": "none",
+            "profile_text_color": "666666",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/874524205571756033/M9WFqGLz_normal.jpg",
+            "profile_sidebar_fill_color": "4CFF70",
+            "entities": {
+              "url": {
+                "urls": [{
+                  "url": "https://t.co/6guAnlQCCy",
+                  "indices": [0, 23],
+                  "expanded_url": "http://www.bigboi.com",
+                  "display_url": "bigboi.com"
+                }]
+              },
+              "description": {
+                "urls": []
+              }
+            },
+            "followers_count": 1247440,
+            "profile_sidebar_border_color": "FFFFFF",
+            "id_str": "29330030",
+            "profile_background_color": "000000",
+            "listed_count": 6675,
+            "is_translation_enabled": false,
+            "utc_offset": -14400,
+            "statuses_count": 44089,
+            "description": "",
+            "friends_count": 2689,
+            "location": "Instagram Therealbigboi ",
+            "profile_link_color": "178FF2",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/874524205571756033/M9WFqGLz_normal.jpg",
+            "following": true,
+            "geo_enabled": true,
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/29330030/1497631345",
+            "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/378800000166048457/4WZaj4Au.jpeg",
+            "screen_name": "BigBoi",
+            "lang": "en",
+            "profile_background_tile": true,
+            "favourites_count": 5263,
+            "name": "Big Boi",
+            "notifications": false,
+            "url": "https://t.co/6guAnlQCCy",
+            "created_at": "Mon Apr 06 23:50:23 +0000 2009",
+            "contributors_enabled": false,
+            "time_zone": "Eastern Time (US & Canada)",
+            "protected": false,
+            "default_profile": false,
+            "is_translator": false
+          },
+          "monetizable": false
+        },
+        "source_user_id": 29330030,
+        "source_status_id_str": "877038069018488832",
+        "expanded_url": "https://twitter.com/BigBoi/status/877038069018488832/video/1",
+        "display_url": "pic.twitter.com/8NugR4Ai5w",
+        "url": "https://t.co/8NugR4Ai5w",
+        "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/877037904496922624/pu/img/vDyLArALl-cuRW1Y.jpg",
+        "source_user_id_str": "29330030",
+        "source_status_id": 877038069018488832,
+        "video_info": {
+          "aspect_ratio": [1, 1],
+          "duration_millis": 50200,
+          "variants": [{
+            "url": "https://video.twimg.com/ext_tw_video/877037904496922624/pu/vid/480x480/wyMGnPFhTeo_dH5S.mp4",
+            "bitrate": 832000,
+            "content_type": "video/mp4"
+          }, {
+            "url": "https://video.twimg.com/ext_tw_video/877037904496922624/pu/pl/BtsTLrXFyK9WtoNT.m3u8",
+            "content_type": "application/x-mpegURL"
+          }, {
+            "url": "https://video.twimg.com/ext_tw_video/877037904496922624/pu/vid/240x240/Vln5MOTuY9xBQdTw.mp4",
+            "bitrate": 320000,
+            "content_type": "video/mp4"
+          }]
+        },
+        "id_str": "877037904496922624",
+        "sizes": {
+          "small": {
+            "h": 340,
+            "resize": "fit",
+            "w": 340
+          },
+          "large": {
+            "h": 640,
+            "resize": "fit",
+            "w": 640
+          },
+          "medium": {
+            "h": 600,
+            "resize": "fit",
+            "w": 600
+          },
+          "thumb": {
+            "h": 150,
+            "resize": "crop",
+            "w": 150
+          }
+        },
+        "indices": [111, 134],
+        "type": "video",
+        "id": 877037904496922624,
+        "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/877037904496922624/pu/img/vDyLArALl-cuRW1Y.jpg"
+      }]
+    },
+    "metadata": {
+      "iso_language_code": "en",
+      "result_type": "recent"
+    }
+  }, {
+    "contributors": null,
+    "truncated": false,
+    "text": "RT @BigBoi: \" All Night \" off the Boomiverse Album Out Now ! \ud83d\udd25 #Boomiverse for the people ! Let's Go Big Boi ! https://t.co/8NugR4Ai5w",
+    "is_quote_status": false,
+    "in_reply_to_status_id": null,
+    "id": 879243848446234624,
+    "favorite_count": 0,
+    "entities": {
+      "symbols": [],
+      "user_mentions": [{
+        "id": 29330030,
+        "indices": [3, 10],
+        "id_str": "29330030",
+        "screen_name": "BigBoi",
+        "name": "Big Boi"
+      }],
+      "hashtags": [{
+        "indices": [63, 74],
+        "text": "Boomiverse"
+      }],
+      "urls": [],
+      "media": [{
+        "source_user_id": 29330030,
+        "source_status_id_str": "877038069018488832",
+        "expanded_url": "https://twitter.com/BigBoi/status/877038069018488832/video/1",
+        "display_url": "pic.twitter.com/8NugR4Ai5w",
+        "url": "https://t.co/8NugR4Ai5w",
+        "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/877037904496922624/pu/img/vDyLArALl-cuRW1Y.jpg",
+        "source_user_id_str": "29330030",
+        "source_status_id": 877038069018488832,
+        "id_str": "877037904496922624",
+        "sizes": {
+          "small": {
+            "h": 340,
+            "resize": "fit",
+            "w": 340
+          },
+          "large": {
+            "h": 640,
+            "resize": "fit",
+            "w": 640
+          },
+          "medium": {
+            "h": 600,
+            "resize": "fit",
+            "w": 600
+          },
+          "thumb": {
+            "h": 150,
+            "resize": "crop",
+            "w": 150
+          }
+        },
+        "indices": [111, 134],
+        "type": "photo",
+        "id": 877037904496922624,
+        "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/877037904496922624/pu/img/vDyLArALl-cuRW1Y.jpg"
+      }]
+    },
+    "retweeted": false,
+    "coordinates": null,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "in_reply_to_screen_name": null,
+    "in_reply_to_user_id": null,
+    "retweet_count": 10,
+    "id_str": "879243848446234624",
+    "favorited": false,
+    "retweeted_status": {
+      "contributors": null,
+      "truncated": false,
+      "text": "\" All Night \" off the Boomiverse Album Out Now ! \ud83d\udd25 #Boomiverse for the people ! Let's Go Big Boi ! https://t.co/8NugR4Ai5w",
+      "is_quote_status": false,
+      "in_reply_to_status_id": null,
+      "id": 879243024097849344,
+      "favorite_count": 28,
+      "entities": {
+        "symbols": [],
+        "user_mentions": [],
+        "hashtags": [{
+          "indices": [51, 62],
+          "text": "Boomiverse"
+        }],
+        "urls": [],
+        "media": [{
+          "source_user_id": 29330030,
+          "source_status_id_str": "877038069018488832",
+          "expanded_url": "https://twitter.com/BigBoi/status/877038069018488832/video/1",
+          "display_url": "pic.twitter.com/8NugR4Ai5w",
+          "url": "https://t.co/8NugR4Ai5w",
+          "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/877037904496922624/pu/img/vDyLArALl-cuRW1Y.jpg",
+          "source_user_id_str": "29330030",
+          "source_status_id": 877038069018488832,
+          "id_str": "877037904496922624",
+          "sizes": {
+            "small": {
+              "h": 340,
+              "resize": "fit",
+              "w": 340
+            },
+            "large": {
+              "h": 640,
+              "resize": "fit",
+              "w": 640
+            },
+            "medium": {
+              "h": 600,
+              "resize": "fit",
+              "w": 600
+            },
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            }
+          },
+          "indices": [99, 122],
+          "type": "photo",
+          "id": 877037904496922624,
+          "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/877037904496922624/pu/img/vDyLArALl-cuRW1Y.jpg"
+        }]
+      },
+      "retweeted": false,
+      "coordinates": null,
+      "source": "<a href=\"http://www.echofon.com/\" rel=\"nofollow\">Echofon</a>",
+      "in_reply_to_screen_name": null,
+      "in_reply_to_user_id": null,
+      "retweet_count": 10,
+      "id_str": "879243024097849344",
+      "favorited": false,
+      "user": {
+        "follow_request_sent": false,
+        "has_extended_profile": false,
+        "profile_use_background_image": false,
+        "default_profile_image": false,
+        "id": 29330030,
+        "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/378800000166048457/4WZaj4Au.jpeg",
+        "verified": true,
+        "translator_type": "none",
+        "profile_text_color": "666666",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/874524205571756033/M9WFqGLz_normal.jpg",
+        "profile_sidebar_fill_color": "4CFF70",
+        "entities": {
+          "url": {
+            "urls": [{
+              "url": "https://t.co/6guAnlQCCy",
+              "indices": [0, 23],
+              "expanded_url": "http://www.bigboi.com",
+              "display_url": "bigboi.com"
+            }]
+          },
+          "description": {
+            "urls": []
+          }
+        },
+        "followers_count": 1247440,
+        "profile_sidebar_border_color": "FFFFFF",
+        "id_str": "29330030",
+        "profile_background_color": "000000",
+        "listed_count": 6675,
+        "is_translation_enabled": false,
+        "utc_offset": -14400,
+        "statuses_count": 44089,
+        "description": "",
+        "friends_count": 2689,
+        "location": "Instagram Therealbigboi ",
+        "profile_link_color": "178FF2",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/874524205571756033/M9WFqGLz_normal.jpg",
+        "following": true,
+        "geo_enabled": true,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/29330030/1497631345",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/378800000166048457/4WZaj4Au.jpeg",
+        "screen_name": "BigBoi",
+        "lang": "en",
+        "profile_background_tile": true,
+        "favourites_count": 5263,
+        "name": "Big Boi",
+        "notifications": false,
+        "url": "https://t.co/6guAnlQCCy",
+        "created_at": "Mon Apr 06 23:50:23 +0000 2009",
+        "contributors_enabled": false,
+        "time_zone": "Eastern Time (US & Canada)",
+        "protected": false,
+        "default_profile": false,
+        "is_translator": false
+      },
+      "geo": null,
+      "in_reply_to_user_id_str": null,
+      "possibly_sensitive": false,
+      "lang": "en",
+      "created_at": "Mon Jun 26 07:40:47 +0000 2017",
+      "in_reply_to_status_id_str": null,
+      "place": null,
+      "extended_entities": {
+        "media": [{
+          "additional_media_info": {
+            "source_user": {
+              "follow_request_sent": false,
+              "has_extended_profile": false,
+              "profile_use_background_image": false,
+              "default_profile_image": false,
+              "id": 29330030,
+              "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/378800000166048457/4WZaj4Au.jpeg",
+              "verified": true,
+              "translator_type": "none",
+              "profile_text_color": "666666",
+              "profile_image_url_https": "https://pbs.twimg.com/profile_images/874524205571756033/M9WFqGLz_normal.jpg",
+              "profile_sidebar_fill_color": "4CFF70",
+              "entities": {
+                "url": {
+                  "urls": [{
+                    "url": "https://t.co/6guAnlQCCy",
+                    "indices": [0, 23],
+                    "expanded_url": "http://www.bigboi.com",
+                    "display_url": "bigboi.com"
+                  }]
+                },
+                "description": {
+                  "urls": []
+                }
+              },
+              "followers_count": 1247440,
+              "profile_sidebar_border_color": "FFFFFF",
+              "id_str": "29330030",
+              "profile_background_color": "000000",
+              "listed_count": 6675,
+              "is_translation_enabled": false,
+              "utc_offset": -14400,
+              "statuses_count": 44089,
+              "description": "",
+              "friends_count": 2689,
+              "location": "Instagram Therealbigboi ",
+              "profile_link_color": "178FF2",
+              "profile_image_url": "http://pbs.twimg.com/profile_images/874524205571756033/M9WFqGLz_normal.jpg",
+              "following": true,
+              "geo_enabled": true,
+              "profile_banner_url": "https://pbs.twimg.com/profile_banners/29330030/1497631345",
+              "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/378800000166048457/4WZaj4Au.jpeg",
+              "screen_name": "BigBoi",
+              "lang": "en",
+              "profile_background_tile": true,
+              "favourites_count": 5263,
+              "name": "Big Boi",
+              "notifications": false,
+              "url": "https://t.co/6guAnlQCCy",
+              "created_at": "Mon Apr 06 23:50:23 +0000 2009",
+              "contributors_enabled": false,
+              "time_zone": "Eastern Time (US & Canada)",
+              "protected": false,
+              "default_profile": false,
+              "is_translator": false
+            },
+            "monetizable": false
+          },
+          "source_user_id": 29330030,
+          "source_status_id_str": "877038069018488832",
+          "expanded_url": "https://twitter.com/BigBoi/status/877038069018488832/video/1",
+          "display_url": "pic.twitter.com/8NugR4Ai5w",
+          "url": "https://t.co/8NugR4Ai5w",
+          "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/877037904496922624/pu/img/vDyLArALl-cuRW1Y.jpg",
+          "source_user_id_str": "29330030",
+          "source_status_id": 877038069018488832,
+          "video_info": {
+            "aspect_ratio": [1, 1],
+            "duration_millis": 50200,
+            "variants": [{
+              "url": "https://video.twimg.com/ext_tw_video/877037904496922624/pu/vid/480x480/wyMGnPFhTeo_dH5S.mp4",
+              "bitrate": 832000,
+              "content_type": "video/mp4"
+            }, {
+              "url": "https://video.twimg.com/ext_tw_video/877037904496922624/pu/pl/BtsTLrXFyK9WtoNT.m3u8",
+              "content_type": "application/x-mpegURL"
+            }, {
+              "url": "https://video.twimg.com/ext_tw_video/877037904496922624/pu/vid/240x240/Vln5MOTuY9xBQdTw.mp4",
+              "bitrate": 320000,
+              "content_type": "video/mp4"
+            }]
+          },
+          "id_str": "877037904496922624",
+          "sizes": {
+            "small": {
+              "h": 340,
+              "resize": "fit",
+              "w": 340
+            },
+            "large": {
+              "h": 640,
+              "resize": "fit",
+              "w": 640
+            },
+            "medium": {
+              "h": 600,
+              "resize": "fit",
+              "w": 600
+            },
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            }
+          },
+          "indices": [99, 122],
+          "type": "video",
+          "id": 877037904496922624,
+          "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/877037904496922624/pu/img/vDyLArALl-cuRW1Y.jpg"
+        }]
+      },
+      "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+      }
+    },
+    "user": {
+      "follow_request_sent": false,
+      "has_extended_profile": false,
+      "profile_use_background_image": true,
+      "default_profile_image": false,
+      "id": 953109848,
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "verified": false,
+      "translator_type": "none",
+      "profile_text_color": "333333",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/816551510934888449/8Ga-Kgxs_normal.jpg",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "entities": {
+        "url": {
+          "urls": [{
+            "url": "https://t.co/zCdsjAzTIh",
+            "indices": [0, 23],
+            "expanded_url": "http://www.XpressPage.com",
+            "display_url": "XpressPage.com"
+          }]
+        },
+        "description": {
+          "urls": []
+        }
+      },
+      "followers_count": 11020,
+      "profile_sidebar_border_color": "C0DEED",
+      "id_str": "953109848",
+      "profile_background_color": "C0DEED",
+      "listed_count": 846,
+      "is_translation_enabled": false,
+      "utc_offset": null,
+      "statuses_count": 112690,
+      "description": "FREE Classifieds & Auctions #XpressPage",
+      "friends_count": 4919,
+      "location": "",
+      "profile_link_color": "1DA1F2",
+      "profile_image_url": "http://pbs.twimg.com/profile_images/816551510934888449/8Ga-Kgxs_normal.jpg",
+      "following": false,
+      "geo_enabled": false,
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/953109848/1443030789",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "screen_name": "XpressPage",
+      "lang": "en",
+      "profile_background_tile": false,
+      "favourites_count": 19864,
+      "name": "Xpress Page",
+      "notifications": false,
+      "url": "https://t.co/zCdsjAzTIh",
+      "created_at": "Sat Nov 17 07:31:21 +0000 2012",
+      "contributors_enabled": false,
+      "time_zone": null,
+      "protected": false,
+      "default_profile": true,
+      "is_translator": false
+    },
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "possibly_sensitive": false,
+    "lang": "en",
+    "created_at": "Mon Jun 26 07:44:03 +0000 2017",
+    "in_reply_to_status_id_str": null,
+    "place": null,
+    "extended_entities": {
+      "media": [{
+        "additional_media_info": {
+          "source_user": {
+            "follow_request_sent": false,
+            "has_extended_profile": false,
+            "profile_use_background_image": false,
+            "default_profile_image": false,
+            "id": 29330030,
+            "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/378800000166048457/4WZaj4Au.jpeg",
+            "verified": true,
+            "translator_type": "none",
+            "profile_text_color": "666666",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/874524205571756033/M9WFqGLz_normal.jpg",
+            "profile_sidebar_fill_color": "4CFF70",
+            "entities": {
+              "url": {
+                "urls": [{
+                  "url": "https://t.co/6guAnlQCCy",
+                  "indices": [0, 23],
+                  "expanded_url": "http://www.bigboi.com",
+                  "display_url": "bigboi.com"
+                }]
+              },
+              "description": {
+                "urls": []
+              }
+            },
+            "followers_count": 1247440,
+            "profile_sidebar_border_color": "FFFFFF",
+            "id_str": "29330030",
+            "profile_background_color": "000000",
+            "listed_count": 6675,
+            "is_translation_enabled": false,
+            "utc_offset": -14400,
+            "statuses_count": 44089,
+            "description": "",
+            "friends_count": 2689,
+            "location": "Instagram Therealbigboi ",
+            "profile_link_color": "178FF2",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/874524205571756033/M9WFqGLz_normal.jpg",
+            "following": true,
+            "geo_enabled": true,
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/29330030/1497631345",
+            "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/378800000166048457/4WZaj4Au.jpeg",
+            "screen_name": "BigBoi",
+            "lang": "en",
+            "profile_background_tile": true,
+            "favourites_count": 5263,
+            "name": "Big Boi",
+            "notifications": false,
+            "url": "https://t.co/6guAnlQCCy",
+            "created_at": "Mon Apr 06 23:50:23 +0000 2009",
+            "contributors_enabled": false,
+            "time_zone": "Eastern Time (US & Canada)",
+            "protected": false,
+            "default_profile": false,
+            "is_translator": false
+          },
+          "monetizable": false
+        },
+        "source_user_id": 29330030,
+        "source_status_id_str": "877038069018488832",
+        "expanded_url": "https://twitter.com/BigBoi/status/877038069018488832/video/1",
+        "display_url": "pic.twitter.com/8NugR4Ai5w",
+        "url": "https://t.co/8NugR4Ai5w",
+        "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/877037904496922624/pu/img/vDyLArALl-cuRW1Y.jpg",
+        "source_user_id_str": "29330030",
+        "source_status_id": 877038069018488832,
+        "video_info": {
+          "aspect_ratio": [1, 1],
+          "duration_millis": 50200,
+          "variants": [{
+            "url": "https://video.twimg.com/ext_tw_video/877037904496922624/pu/vid/480x480/wyMGnPFhTeo_dH5S.mp4",
+            "bitrate": 832000,
+            "content_type": "video/mp4"
+          }, {
+            "url": "https://video.twimg.com/ext_tw_video/877037904496922624/pu/pl/BtsTLrXFyK9WtoNT.m3u8",
+            "content_type": "application/x-mpegURL"
+          }, {
+            "url": "https://video.twimg.com/ext_tw_video/877037904496922624/pu/vid/240x240/Vln5MOTuY9xBQdTw.mp4",
+            "bitrate": 320000,
+            "content_type": "video/mp4"
+          }]
+        },
+        "id_str": "877037904496922624",
+        "sizes": {
+          "small": {
+            "h": 340,
+            "resize": "fit",
+            "w": 340
+          },
+          "large": {
+            "h": 640,
+            "resize": "fit",
+            "w": 640
+          },
+          "medium": {
+            "h": 600,
+            "resize": "fit",
+            "w": 600
+          },
+          "thumb": {
+            "h": 150,
+            "resize": "crop",
+            "w": 150
+          }
+        },
+        "indices": [111, 134],
+        "type": "video",
+        "id": 877037904496922624,
+        "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/877037904496922624/pu/img/vDyLArALl-cuRW1Y.jpg"
+      }]
+    },
+    "metadata": {
+      "iso_language_code": "en",
+      "result_type": "recent"
+    }
+  }]
+}

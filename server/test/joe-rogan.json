@@ -1,0 +1,2562 @@
+{
+  "search_metadata": {
+    "count": 7,
+    "completed_in": 0.031,
+    "max_id_str": "879249138285760512",
+    "since_id_str": "0",
+    "next_results": "?max_id=879244381118771199&q=%2540joerogan%2Bhair&count=7&include_entities=1",
+    "refresh_url": "?since_id=879249138285760512&q=%2540joerogan%2Bhair&include_entities=1",
+    "since_id": 0,
+    "query": "%2540joerogan%2Bhair",
+    "max_id": 879249138285760512
+  },
+  "statuses": [{
+    "contributors": null,
+    "truncated": false,
+    "text": "RT @joerogan: The hair of the dog that bit you will be available on site in case of any emergencies. https://t.co/cDXXQU6B42",
+    "is_quote_status": true,
+    "in_reply_to_status_id": null,
+    "id": 879249138285760512,
+    "favorite_count": 0,
+    "entities": {
+      "symbols": [],
+      "user_mentions": [{
+        "id": 18208354,
+        "indices": [3, 12],
+        "id_str": "18208354",
+        "screen_name": "joerogan",
+        "name": "Joe Rogan"
+      }],
+      "hashtags": [],
+      "urls": [{
+        "url": "https://t.co/cDXXQU6B42",
+        "indices": [101, 124],
+        "expanded_url": "https://twitter.com/sargon_of_akkad/status/879222576727416832",
+        "display_url": "twitter.com/sargon_of_akka\u2026"
+      }]
+    },
+    "quoted_status_id": 879222576727416832,
+    "retweeted": false,
+    "coordinates": null,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_screen_name": null,
+    "in_reply_to_user_id": null,
+    "retweet_count": 19,
+    "id_str": "879249138285760512",
+    "favorited": false,
+    "retweeted_status": {
+      "contributors": null,
+      "truncated": false,
+      "text": "The hair of the dog that bit you will be available on site in case of any emergencies. https://t.co/cDXXQU6B42",
+      "is_quote_status": true,
+      "in_reply_to_status_id": null,
+      "id": 879241781430239232,
+      "favorite_count": 200,
+      "entities": {
+        "symbols": [],
+        "user_mentions": [],
+        "hashtags": [],
+        "urls": [{
+          "url": "https://t.co/cDXXQU6B42",
+          "indices": [87, 110],
+          "expanded_url": "https://twitter.com/sargon_of_akkad/status/879222576727416832",
+          "display_url": "twitter.com/sargon_of_akka\u2026"
+        }]
+      },
+      "quoted_status_id": 879222576727416832,
+      "retweeted": false,
+      "coordinates": null,
+      "quoted_status": {
+        "contributors": null,
+        "truncated": false,
+        "text": "\"Will you be hungover on @joerogan tomorrow?\" https://t.co/3pDWE9a20f",
+        "is_quote_status": false,
+        "in_reply_to_status_id": null,
+        "id": 879222576727416832,
+        "favorite_count": 387,
+        "entities": {
+          "symbols": [],
+          "user_mentions": [{
+            "id": 18208354,
+            "indices": [25, 34],
+            "id_str": "18208354",
+            "screen_name": "joerogan",
+            "name": "Joe Rogan"
+          }],
+          "hashtags": [],
+          "urls": [],
+          "media": [{
+            "expanded_url": "https://twitter.com/Sargon_of_Akkad/status/879222576727416832/photo/1",
+            "display_url": "pic.twitter.com/3pDWE9a20f",
+            "url": "https://t.co/3pDWE9a20f",
+            "media_url_https": "https://pbs.twimg.com/media/DDOgO0dXkAEKFmB.jpg",
+            "id_str": "879222528727814145",
+            "sizes": {
+              "small": {
+                "h": 510,
+                "resize": "fit",
+                "w": 680
+              },
+              "large": {
+                "h": 1536,
+                "resize": "fit",
+                "w": 2048
+              },
+              "medium": {
+                "h": 900,
+                "resize": "fit",
+                "w": 1200
+              },
+              "thumb": {
+                "h": 150,
+                "resize": "crop",
+                "w": 150
+              }
+            },
+            "indices": [46, 69],
+            "type": "photo",
+            "id": 879222528727814145,
+            "media_url": "http://pbs.twimg.com/media/DDOgO0dXkAEKFmB.jpg"
+          }]
+        },
+        "retweeted": false,
+        "coordinates": null,
+        "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+        "in_reply_to_screen_name": null,
+        "in_reply_to_user_id": null,
+        "retweet_count": 26,
+        "id_str": "879222576727416832",
+        "favorited": false,
+        "user": {
+          "follow_request_sent": false,
+          "has_extended_profile": false,
+          "profile_use_background_image": true,
+          "default_profile_image": false,
+          "id": 2472399354,
+          "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/623447863171903488/f2hmFSmk.jpg",
+          "verified": false,
+          "translator_type": "none",
+          "profile_text_color": "333333",
+          "profile_image_url_https": "https://pbs.twimg.com/profile_images/878763666958688256/QG62FeZ3_normal.jpg",
+          "profile_sidebar_fill_color": "DDEEF6",
+          "entities": {
+            "url": {
+              "urls": [{
+                "url": "https://t.co/hZT82Ign52",
+                "indices": [0, 23],
+                "expanded_url": "https://www.youtube.com/user/SargonofAkkad100",
+                "display_url": "youtube.com/user/SargonofA\u2026"
+              }]
+            },
+            "description": {
+              "urls": []
+            }
+          },
+          "followers_count": 213967,
+          "profile_sidebar_border_color": "000000",
+          "id_str": "2472399354",
+          "profile_background_color": "9266CC",
+          "listed_count": 1094,
+          "is_translation_enabled": false,
+          "utc_offset": -25200,
+          "statuses_count": 55032,
+          "description": "Anti-Identitarian liberal YouTuber.",
+          "friends_count": 1015,
+          "location": "",
+          "profile_link_color": "663399",
+          "profile_image_url": "http://pbs.twimg.com/profile_images/878763666958688256/QG62FeZ3_normal.jpg",
+          "following": false,
+          "geo_enabled": false,
+          "profile_banner_url": "https://pbs.twimg.com/profile_banners/2472399354/1498282564",
+          "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/623447863171903488/f2hmFSmk.jpg",
+          "screen_name": "Sargon_of_Akkad",
+          "lang": "en",
+          "profile_background_tile": false,
+          "favourites_count": 50014,
+          "name": "Sargon",
+          "notifications": false,
+          "url": "https://t.co/hZT82Ign52",
+          "created_at": "Thu May 01 12:09:43 +0000 2014",
+          "contributors_enabled": false,
+          "time_zone": "Pacific Time (US & Canada)",
+          "protected": false,
+          "default_profile": false,
+          "is_translator": false
+        },
+        "geo": null,
+        "in_reply_to_user_id_str": null,
+        "possibly_sensitive": false,
+        "lang": "en",
+        "created_at": "Mon Jun 26 06:19:32 +0000 2017",
+        "in_reply_to_status_id_str": null,
+        "place": null,
+        "extended_entities": {
+          "media": [{
+            "expanded_url": "https://twitter.com/Sargon_of_Akkad/status/879222576727416832/photo/1",
+            "display_url": "pic.twitter.com/3pDWE9a20f",
+            "url": "https://t.co/3pDWE9a20f",
+            "media_url_https": "https://pbs.twimg.com/media/DDOgO0dXkAEKFmB.jpg",
+            "id_str": "879222528727814145",
+            "sizes": {
+              "small": {
+                "h": 510,
+                "resize": "fit",
+                "w": 680
+              },
+              "large": {
+                "h": 1536,
+                "resize": "fit",
+                "w": 2048
+              },
+              "medium": {
+                "h": 900,
+                "resize": "fit",
+                "w": 1200
+              },
+              "thumb": {
+                "h": 150,
+                "resize": "crop",
+                "w": 150
+              }
+            },
+            "indices": [46, 69],
+            "type": "photo",
+            "id": 879222528727814145,
+            "media_url": "http://pbs.twimg.com/media/DDOgO0dXkAEKFmB.jpg"
+          }]
+        },
+        "metadata": {
+          "iso_language_code": "en",
+          "result_type": "recent"
+        }
+      },
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_screen_name": null,
+      "in_reply_to_user_id": null,
+      "retweet_count": 19,
+      "id_str": "879241781430239232",
+      "favorited": false,
+      "user": {
+        "follow_request_sent": false,
+        "has_extended_profile": false,
+        "profile_use_background_image": true,
+        "default_profile_image": false,
+        "id": 18208354,
+        "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/464231533167906816/dQfJCA4l.jpeg",
+        "verified": true,
+        "translator_type": "none",
+        "profile_text_color": "333333",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/552307347851210752/vrXDcTFC_normal.jpeg",
+        "profile_sidebar_fill_color": "C0DFEC",
+        "entities": {
+          "url": {
+            "urls": [{
+              "url": "https://t.co/UoPqZeCPDs",
+              "indices": [0, 23],
+              "expanded_url": "http://www.joerogan.net",
+              "display_url": "joerogan.net"
+            }]
+          },
+          "description": {
+            "urls": [{
+              "url": "https://t.co/caBUmcdPdo",
+              "indices": [110, 133],
+              "expanded_url": "http://www.facebook.com/JOEROGAN",
+              "display_url": "facebook.com/JOEROGAN"
+            }]
+          }
+        },
+        "followers_count": 3360965,
+        "profile_sidebar_border_color": "FFFFFF",
+        "id_str": "18208354",
+        "profile_background_color": "022330",
+        "listed_count": 18939,
+        "is_translation_enabled": true,
+        "utc_offset": -21600,
+        "statuses_count": 38833,
+        "description": "Stand up comic/mixed martial arts fanatic/psychedelic adventurer Host of The Joe Rogan Experience #FreakParty https://t.co/caBUmcdPdo",
+        "friends_count": 3630,
+        "location": "",
+        "profile_link_color": "0084B4",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/552307347851210752/vrXDcTFC_normal.jpeg",
+        "following": true,
+        "geo_enabled": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/18208354/1476844492",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/464231533167906816/dQfJCA4l.jpeg",
+        "screen_name": "joerogan",
+        "lang": "en",
+        "profile_background_tile": true,
+        "favourites_count": 239,
+        "name": "Joe Rogan",
+        "notifications": false,
+        "url": "https://t.co/UoPqZeCPDs",
+        "created_at": "Thu Dec 18 04:01:47 +0000 2008",
+        "contributors_enabled": false,
+        "time_zone": "Mountain Time (US & Canada)",
+        "protected": false,
+        "default_profile": false,
+        "is_translator": false
+      },
+      "geo": null,
+      "in_reply_to_user_id_str": null,
+      "possibly_sensitive": false,
+      "lang": "en",
+      "created_at": "Mon Jun 26 07:35:50 +0000 2017",
+      "quoted_status_id_str": "879222576727416832",
+      "in_reply_to_status_id_str": null,
+      "place": null,
+      "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+      }
+    },
+    "user": {
+      "follow_request_sent": false,
+      "has_extended_profile": false,
+      "profile_use_background_image": false,
+      "default_profile_image": false,
+      "id": 2443145784,
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+      "verified": false,
+      "translator_type": "none",
+      "profile_text_color": "000000",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/830897220828356608/H4WWYCf__normal.jpg",
+      "profile_sidebar_fill_color": "000000",
+      "entities": {
+        "description": {
+          "urls": []
+        }
+      },
+      "followers_count": 34,
+      "profile_sidebar_border_color": "000000",
+      "id_str": "2443145784",
+      "profile_background_color": "000000",
+      "listed_count": 1,
+      "is_translation_enabled": false,
+      "utc_offset": -14400,
+      "statuses_count": 516,
+      "description": "IT Professional and Musician.",
+      "friends_count": 84,
+      "location": "Atlanta, GA",
+      "profile_link_color": "2E3436",
+      "profile_image_url": "http://pbs.twimg.com/profile_images/830897220828356608/H4WWYCf__normal.jpg",
+      "following": false,
+      "geo_enabled": true,
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/2443145784/1448432188",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+      "screen_name": "tylerwylie",
+      "lang": "en",
+      "profile_background_tile": false,
+      "favourites_count": 25,
+      "name": "Tyler Mills",
+      "notifications": false,
+      "url": null,
+      "created_at": "Mon Apr 14 02:27:51 +0000 2014",
+      "contributors_enabled": false,
+      "time_zone": "Eastern Time (US & Canada)",
+      "protected": false,
+      "default_profile": false,
+      "is_translator": false
+    },
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "possibly_sensitive": false,
+    "lang": "en",
+    "created_at": "Mon Jun 26 08:05:04 +0000 2017",
+    "quoted_status_id_str": "879222576727416832",
+    "in_reply_to_status_id_str": null,
+    "place": null,
+    "metadata": {
+      "iso_language_code": "en",
+      "result_type": "recent"
+    }
+  }, {
+    "contributors": null,
+    "truncated": false,
+    "text": "RT @joerogan: The hair of the dog that bit you will be available on site in case of any emergencies. https://t.co/cDXXQU6B42",
+    "is_quote_status": true,
+    "in_reply_to_status_id": null,
+    "id": 879248929866620929,
+    "favorite_count": 0,
+    "entities": {
+      "symbols": [],
+      "user_mentions": [{
+        "id": 18208354,
+        "indices": [3, 12],
+        "id_str": "18208354",
+        "screen_name": "joerogan",
+        "name": "Joe Rogan"
+      }],
+      "hashtags": [],
+      "urls": [{
+        "url": "https://t.co/cDXXQU6B42",
+        "indices": [101, 124],
+        "expanded_url": "https://twitter.com/sargon_of_akkad/status/879222576727416832",
+        "display_url": "twitter.com/sargon_of_akka\u2026"
+      }]
+    },
+    "quoted_status_id": 879222576727416832,
+    "retweeted": false,
+    "coordinates": null,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_screen_name": null,
+    "in_reply_to_user_id": null,
+    "retweet_count": 19,
+    "id_str": "879248929866620929",
+    "favorited": false,
+    "retweeted_status": {
+      "contributors": null,
+      "truncated": false,
+      "text": "The hair of the dog that bit you will be available on site in case of any emergencies. https://t.co/cDXXQU6B42",
+      "is_quote_status": true,
+      "in_reply_to_status_id": null,
+      "id": 879241781430239232,
+      "favorite_count": 200,
+      "entities": {
+        "symbols": [],
+        "user_mentions": [],
+        "hashtags": [],
+        "urls": [{
+          "url": "https://t.co/cDXXQU6B42",
+          "indices": [87, 110],
+          "expanded_url": "https://twitter.com/sargon_of_akkad/status/879222576727416832",
+          "display_url": "twitter.com/sargon_of_akka\u2026"
+        }]
+      },
+      "quoted_status_id": 879222576727416832,
+      "retweeted": false,
+      "coordinates": null,
+      "quoted_status": {
+        "contributors": null,
+        "truncated": false,
+        "text": "\"Will you be hungover on @joerogan tomorrow?\" https://t.co/3pDWE9a20f",
+        "is_quote_status": false,
+        "in_reply_to_status_id": null,
+        "id": 879222576727416832,
+        "favorite_count": 387,
+        "entities": {
+          "symbols": [],
+          "user_mentions": [{
+            "id": 18208354,
+            "indices": [25, 34],
+            "id_str": "18208354",
+            "screen_name": "joerogan",
+            "name": "Joe Rogan"
+          }],
+          "hashtags": [],
+          "urls": [],
+          "media": [{
+            "expanded_url": "https://twitter.com/Sargon_of_Akkad/status/879222576727416832/photo/1",
+            "display_url": "pic.twitter.com/3pDWE9a20f",
+            "url": "https://t.co/3pDWE9a20f",
+            "media_url_https": "https://pbs.twimg.com/media/DDOgO0dXkAEKFmB.jpg",
+            "id_str": "879222528727814145",
+            "sizes": {
+              "small": {
+                "h": 510,
+                "resize": "fit",
+                "w": 680
+              },
+              "large": {
+                "h": 1536,
+                "resize": "fit",
+                "w": 2048
+              },
+              "medium": {
+                "h": 900,
+                "resize": "fit",
+                "w": 1200
+              },
+              "thumb": {
+                "h": 150,
+                "resize": "crop",
+                "w": 150
+              }
+            },
+            "indices": [46, 69],
+            "type": "photo",
+            "id": 879222528727814145,
+            "media_url": "http://pbs.twimg.com/media/DDOgO0dXkAEKFmB.jpg"
+          }]
+        },
+        "retweeted": false,
+        "coordinates": null,
+        "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+        "in_reply_to_screen_name": null,
+        "in_reply_to_user_id": null,
+        "retweet_count": 26,
+        "id_str": "879222576727416832",
+        "favorited": false,
+        "user": {
+          "follow_request_sent": false,
+          "has_extended_profile": false,
+          "profile_use_background_image": true,
+          "default_profile_image": false,
+          "id": 2472399354,
+          "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/623447863171903488/f2hmFSmk.jpg",
+          "verified": false,
+          "translator_type": "none",
+          "profile_text_color": "333333",
+          "profile_image_url_https": "https://pbs.twimg.com/profile_images/878763666958688256/QG62FeZ3_normal.jpg",
+          "profile_sidebar_fill_color": "DDEEF6",
+          "entities": {
+            "url": {
+              "urls": [{
+                "url": "https://t.co/hZT82Ign52",
+                "indices": [0, 23],
+                "expanded_url": "https://www.youtube.com/user/SargonofAkkad100",
+                "display_url": "youtube.com/user/SargonofA\u2026"
+              }]
+            },
+            "description": {
+              "urls": []
+            }
+          },
+          "followers_count": 213967,
+          "profile_sidebar_border_color": "000000",
+          "id_str": "2472399354",
+          "profile_background_color": "9266CC",
+          "listed_count": 1094,
+          "is_translation_enabled": false,
+          "utc_offset": -25200,
+          "statuses_count": 55032,
+          "description": "Anti-Identitarian liberal YouTuber.",
+          "friends_count": 1015,
+          "location": "",
+          "profile_link_color": "663399",
+          "profile_image_url": "http://pbs.twimg.com/profile_images/878763666958688256/QG62FeZ3_normal.jpg",
+          "following": false,
+          "geo_enabled": false,
+          "profile_banner_url": "https://pbs.twimg.com/profile_banners/2472399354/1498282564",
+          "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/623447863171903488/f2hmFSmk.jpg",
+          "screen_name": "Sargon_of_Akkad",
+          "lang": "en",
+          "profile_background_tile": false,
+          "favourites_count": 50014,
+          "name": "Sargon",
+          "notifications": false,
+          "url": "https://t.co/hZT82Ign52",
+          "created_at": "Thu May 01 12:09:43 +0000 2014",
+          "contributors_enabled": false,
+          "time_zone": "Pacific Time (US & Canada)",
+          "protected": false,
+          "default_profile": false,
+          "is_translator": false
+        },
+        "geo": null,
+        "in_reply_to_user_id_str": null,
+        "possibly_sensitive": false,
+        "lang": "en",
+        "created_at": "Mon Jun 26 06:19:32 +0000 2017",
+        "in_reply_to_status_id_str": null,
+        "place": null,
+        "extended_entities": {
+          "media": [{
+            "expanded_url": "https://twitter.com/Sargon_of_Akkad/status/879222576727416832/photo/1",
+            "display_url": "pic.twitter.com/3pDWE9a20f",
+            "url": "https://t.co/3pDWE9a20f",
+            "media_url_https": "https://pbs.twimg.com/media/DDOgO0dXkAEKFmB.jpg",
+            "id_str": "879222528727814145",
+            "sizes": {
+              "small": {
+                "h": 510,
+                "resize": "fit",
+                "w": 680
+              },
+              "large": {
+                "h": 1536,
+                "resize": "fit",
+                "w": 2048
+              },
+              "medium": {
+                "h": 900,
+                "resize": "fit",
+                "w": 1200
+              },
+              "thumb": {
+                "h": 150,
+                "resize": "crop",
+                "w": 150
+              }
+            },
+            "indices": [46, 69],
+            "type": "photo",
+            "id": 879222528727814145,
+            "media_url": "http://pbs.twimg.com/media/DDOgO0dXkAEKFmB.jpg"
+          }]
+        },
+        "metadata": {
+          "iso_language_code": "en",
+          "result_type": "recent"
+        }
+      },
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_screen_name": null,
+      "in_reply_to_user_id": null,
+      "retweet_count": 19,
+      "id_str": "879241781430239232",
+      "favorited": false,
+      "user": {
+        "follow_request_sent": false,
+        "has_extended_profile": false,
+        "profile_use_background_image": true,
+        "default_profile_image": false,
+        "id": 18208354,
+        "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/464231533167906816/dQfJCA4l.jpeg",
+        "verified": true,
+        "translator_type": "none",
+        "profile_text_color": "333333",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/552307347851210752/vrXDcTFC_normal.jpeg",
+        "profile_sidebar_fill_color": "C0DFEC",
+        "entities": {
+          "url": {
+            "urls": [{
+              "url": "https://t.co/UoPqZeCPDs",
+              "indices": [0, 23],
+              "expanded_url": "http://www.joerogan.net",
+              "display_url": "joerogan.net"
+            }]
+          },
+          "description": {
+            "urls": [{
+              "url": "https://t.co/caBUmcdPdo",
+              "indices": [110, 133],
+              "expanded_url": "http://www.facebook.com/JOEROGAN",
+              "display_url": "facebook.com/JOEROGAN"
+            }]
+          }
+        },
+        "followers_count": 3360965,
+        "profile_sidebar_border_color": "FFFFFF",
+        "id_str": "18208354",
+        "profile_background_color": "022330",
+        "listed_count": 18939,
+        "is_translation_enabled": true,
+        "utc_offset": -21600,
+        "statuses_count": 38833,
+        "description": "Stand up comic/mixed martial arts fanatic/psychedelic adventurer Host of The Joe Rogan Experience #FreakParty https://t.co/caBUmcdPdo",
+        "friends_count": 3630,
+        "location": "",
+        "profile_link_color": "0084B4",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/552307347851210752/vrXDcTFC_normal.jpeg",
+        "following": true,
+        "geo_enabled": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/18208354/1476844492",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/464231533167906816/dQfJCA4l.jpeg",
+        "screen_name": "joerogan",
+        "lang": "en",
+        "profile_background_tile": true,
+        "favourites_count": 239,
+        "name": "Joe Rogan",
+        "notifications": false,
+        "url": "https://t.co/UoPqZeCPDs",
+        "created_at": "Thu Dec 18 04:01:47 +0000 2008",
+        "contributors_enabled": false,
+        "time_zone": "Mountain Time (US & Canada)",
+        "protected": false,
+        "default_profile": false,
+        "is_translator": false
+      },
+      "geo": null,
+      "in_reply_to_user_id_str": null,
+      "possibly_sensitive": false,
+      "lang": "en",
+      "created_at": "Mon Jun 26 07:35:50 +0000 2017",
+      "quoted_status_id_str": "879222576727416832",
+      "in_reply_to_status_id_str": null,
+      "place": null,
+      "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+      }
+    },
+    "user": {
+      "follow_request_sent": false,
+      "has_extended_profile": true,
+      "profile_use_background_image": true,
+      "default_profile_image": false,
+      "id": 45526676,
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "verified": false,
+      "translator_type": "none",
+      "profile_text_color": "333333",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/869184059/l_7956aa788b0734b69bcc303601ea0794_normal.jpg",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "entities": {
+        "description": {
+          "urls": []
+        }
+      },
+      "followers_count": 47,
+      "profile_sidebar_border_color": "C0DEED",
+      "id_str": "45526676",
+      "profile_background_color": "C0DEED",
+      "listed_count": 0,
+      "is_translation_enabled": false,
+      "utc_offset": -18000,
+      "statuses_count": 823,
+      "description": "lateralusmaster on YT, vicariouswolf on Snapchat",
+      "friends_count": 147,
+      "location": "Canton,IL",
+      "profile_link_color": "1DA1F2",
+      "profile_image_url": "http://pbs.twimg.com/profile_images/869184059/l_7956aa788b0734b69bcc303601ea0794_normal.jpg",
+      "following": false,
+      "geo_enabled": false,
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "screen_name": "VicariousWolf",
+      "lang": "en",
+      "profile_background_tile": false,
+      "favourites_count": 15985,
+      "name": "Ryan",
+      "notifications": false,
+      "url": null,
+      "created_at": "Mon Jun 08 08:33:08 +0000 2009",
+      "contributors_enabled": false,
+      "time_zone": "Central Time (US & Canada)",
+      "protected": false,
+      "default_profile": true,
+      "is_translator": false
+    },
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "possibly_sensitive": false,
+    "lang": "en",
+    "created_at": "Mon Jun 26 08:04:15 +0000 2017",
+    "quoted_status_id_str": "879222576727416832",
+    "in_reply_to_status_id_str": null,
+    "place": null,
+    "metadata": {
+      "iso_language_code": "en",
+      "result_type": "recent"
+    }
+  }, {
+    "contributors": null,
+    "truncated": false,
+    "text": "RT @joerogan: The hair of the dog that bit you will be available on site in case of any emergencies. https://t.co/cDXXQU6B42",
+    "is_quote_status": true,
+    "in_reply_to_status_id": null,
+    "id": 879248430283075584,
+    "favorite_count": 0,
+    "entities": {
+      "symbols": [],
+      "user_mentions": [{
+        "id": 18208354,
+        "indices": [3, 12],
+        "id_str": "18208354",
+        "screen_name": "joerogan",
+        "name": "Joe Rogan"
+      }],
+      "hashtags": [],
+      "urls": [{
+        "url": "https://t.co/cDXXQU6B42",
+        "indices": [101, 124],
+        "expanded_url": "https://twitter.com/sargon_of_akkad/status/879222576727416832",
+        "display_url": "twitter.com/sargon_of_akka\u2026"
+      }]
+    },
+    "quoted_status_id": 879222576727416832,
+    "retweeted": false,
+    "coordinates": null,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "in_reply_to_screen_name": null,
+    "in_reply_to_user_id": null,
+    "retweet_count": 19,
+    "id_str": "879248430283075584",
+    "favorited": false,
+    "retweeted_status": {
+      "contributors": null,
+      "truncated": false,
+      "text": "The hair of the dog that bit you will be available on site in case of any emergencies. https://t.co/cDXXQU6B42",
+      "is_quote_status": true,
+      "in_reply_to_status_id": null,
+      "id": 879241781430239232,
+      "favorite_count": 200,
+      "entities": {
+        "symbols": [],
+        "user_mentions": [],
+        "hashtags": [],
+        "urls": [{
+          "url": "https://t.co/cDXXQU6B42",
+          "indices": [87, 110],
+          "expanded_url": "https://twitter.com/sargon_of_akkad/status/879222576727416832",
+          "display_url": "twitter.com/sargon_of_akka\u2026"
+        }]
+      },
+      "quoted_status_id": 879222576727416832,
+      "retweeted": false,
+      "coordinates": null,
+      "quoted_status": {
+        "contributors": null,
+        "truncated": false,
+        "text": "\"Will you be hungover on @joerogan tomorrow?\" https://t.co/3pDWE9a20f",
+        "is_quote_status": false,
+        "in_reply_to_status_id": null,
+        "id": 879222576727416832,
+        "favorite_count": 387,
+        "entities": {
+          "symbols": [],
+          "user_mentions": [{
+            "id": 18208354,
+            "indices": [25, 34],
+            "id_str": "18208354",
+            "screen_name": "joerogan",
+            "name": "Joe Rogan"
+          }],
+          "hashtags": [],
+          "urls": [],
+          "media": [{
+            "expanded_url": "https://twitter.com/Sargon_of_Akkad/status/879222576727416832/photo/1",
+            "display_url": "pic.twitter.com/3pDWE9a20f",
+            "url": "https://t.co/3pDWE9a20f",
+            "media_url_https": "https://pbs.twimg.com/media/DDOgO0dXkAEKFmB.jpg",
+            "id_str": "879222528727814145",
+            "sizes": {
+              "small": {
+                "h": 510,
+                "resize": "fit",
+                "w": 680
+              },
+              "large": {
+                "h": 1536,
+                "resize": "fit",
+                "w": 2048
+              },
+              "medium": {
+                "h": 900,
+                "resize": "fit",
+                "w": 1200
+              },
+              "thumb": {
+                "h": 150,
+                "resize": "crop",
+                "w": 150
+              }
+            },
+            "indices": [46, 69],
+            "type": "photo",
+            "id": 879222528727814145,
+            "media_url": "http://pbs.twimg.com/media/DDOgO0dXkAEKFmB.jpg"
+          }]
+        },
+        "retweeted": false,
+        "coordinates": null,
+        "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+        "in_reply_to_screen_name": null,
+        "in_reply_to_user_id": null,
+        "retweet_count": 26,
+        "id_str": "879222576727416832",
+        "favorited": false,
+        "user": {
+          "follow_request_sent": false,
+          "has_extended_profile": false,
+          "profile_use_background_image": true,
+          "default_profile_image": false,
+          "id": 2472399354,
+          "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/623447863171903488/f2hmFSmk.jpg",
+          "verified": false,
+          "translator_type": "none",
+          "profile_text_color": "333333",
+          "profile_image_url_https": "https://pbs.twimg.com/profile_images/878763666958688256/QG62FeZ3_normal.jpg",
+          "profile_sidebar_fill_color": "DDEEF6",
+          "entities": {
+            "url": {
+              "urls": [{
+                "url": "https://t.co/hZT82Ign52",
+                "indices": [0, 23],
+                "expanded_url": "https://www.youtube.com/user/SargonofAkkad100",
+                "display_url": "youtube.com/user/SargonofA\u2026"
+              }]
+            },
+            "description": {
+              "urls": []
+            }
+          },
+          "followers_count": 213967,
+          "profile_sidebar_border_color": "000000",
+          "id_str": "2472399354",
+          "profile_background_color": "9266CC",
+          "listed_count": 1094,
+          "is_translation_enabled": false,
+          "utc_offset": -25200,
+          "statuses_count": 55032,
+          "description": "Anti-Identitarian liberal YouTuber.",
+          "friends_count": 1015,
+          "location": "",
+          "profile_link_color": "663399",
+          "profile_image_url": "http://pbs.twimg.com/profile_images/878763666958688256/QG62FeZ3_normal.jpg",
+          "following": false,
+          "geo_enabled": false,
+          "profile_banner_url": "https://pbs.twimg.com/profile_banners/2472399354/1498282564",
+          "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/623447863171903488/f2hmFSmk.jpg",
+          "screen_name": "Sargon_of_Akkad",
+          "lang": "en",
+          "profile_background_tile": false,
+          "favourites_count": 50014,
+          "name": "Sargon",
+          "notifications": false,
+          "url": "https://t.co/hZT82Ign52",
+          "created_at": "Thu May 01 12:09:43 +0000 2014",
+          "contributors_enabled": false,
+          "time_zone": "Pacific Time (US & Canada)",
+          "protected": false,
+          "default_profile": false,
+          "is_translator": false
+        },
+        "geo": null,
+        "in_reply_to_user_id_str": null,
+        "possibly_sensitive": false,
+        "lang": "en",
+        "created_at": "Mon Jun 26 06:19:32 +0000 2017",
+        "in_reply_to_status_id_str": null,
+        "place": null,
+        "extended_entities": {
+          "media": [{
+            "expanded_url": "https://twitter.com/Sargon_of_Akkad/status/879222576727416832/photo/1",
+            "display_url": "pic.twitter.com/3pDWE9a20f",
+            "url": "https://t.co/3pDWE9a20f",
+            "media_url_https": "https://pbs.twimg.com/media/DDOgO0dXkAEKFmB.jpg",
+            "id_str": "879222528727814145",
+            "sizes": {
+              "small": {
+                "h": 510,
+                "resize": "fit",
+                "w": 680
+              },
+              "large": {
+                "h": 1536,
+                "resize": "fit",
+                "w": 2048
+              },
+              "medium": {
+                "h": 900,
+                "resize": "fit",
+                "w": 1200
+              },
+              "thumb": {
+                "h": 150,
+                "resize": "crop",
+                "w": 150
+              }
+            },
+            "indices": [46, 69],
+            "type": "photo",
+            "id": 879222528727814145,
+            "media_url": "http://pbs.twimg.com/media/DDOgO0dXkAEKFmB.jpg"
+          }]
+        },
+        "metadata": {
+          "iso_language_code": "en",
+          "result_type": "recent"
+        }
+      },
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_screen_name": null,
+      "in_reply_to_user_id": null,
+      "retweet_count": 19,
+      "id_str": "879241781430239232",
+      "favorited": false,
+      "user": {
+        "follow_request_sent": false,
+        "has_extended_profile": false,
+        "profile_use_background_image": true,
+        "default_profile_image": false,
+        "id": 18208354,
+        "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/464231533167906816/dQfJCA4l.jpeg",
+        "verified": true,
+        "translator_type": "none",
+        "profile_text_color": "333333",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/552307347851210752/vrXDcTFC_normal.jpeg",
+        "profile_sidebar_fill_color": "C0DFEC",
+        "entities": {
+          "url": {
+            "urls": [{
+              "url": "https://t.co/UoPqZeCPDs",
+              "indices": [0, 23],
+              "expanded_url": "http://www.joerogan.net",
+              "display_url": "joerogan.net"
+            }]
+          },
+          "description": {
+            "urls": [{
+              "url": "https://t.co/caBUmcdPdo",
+              "indices": [110, 133],
+              "expanded_url": "http://www.facebook.com/JOEROGAN",
+              "display_url": "facebook.com/JOEROGAN"
+            }]
+          }
+        },
+        "followers_count": 3360965,
+        "profile_sidebar_border_color": "FFFFFF",
+        "id_str": "18208354",
+        "profile_background_color": "022330",
+        "listed_count": 18939,
+        "is_translation_enabled": true,
+        "utc_offset": -21600,
+        "statuses_count": 38833,
+        "description": "Stand up comic/mixed martial arts fanatic/psychedelic adventurer Host of The Joe Rogan Experience #FreakParty https://t.co/caBUmcdPdo",
+        "friends_count": 3630,
+        "location": "",
+        "profile_link_color": "0084B4",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/552307347851210752/vrXDcTFC_normal.jpeg",
+        "following": true,
+        "geo_enabled": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/18208354/1476844492",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/464231533167906816/dQfJCA4l.jpeg",
+        "screen_name": "joerogan",
+        "lang": "en",
+        "profile_background_tile": true,
+        "favourites_count": 239,
+        "name": "Joe Rogan",
+        "notifications": false,
+        "url": "https://t.co/UoPqZeCPDs",
+        "created_at": "Thu Dec 18 04:01:47 +0000 2008",
+        "contributors_enabled": false,
+        "time_zone": "Mountain Time (US & Canada)",
+        "protected": false,
+        "default_profile": false,
+        "is_translator": false
+      },
+      "geo": null,
+      "in_reply_to_user_id_str": null,
+      "possibly_sensitive": false,
+      "lang": "en",
+      "created_at": "Mon Jun 26 07:35:50 +0000 2017",
+      "quoted_status_id_str": "879222576727416832",
+      "in_reply_to_status_id_str": null,
+      "place": null,
+      "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+      }
+    },
+    "user": {
+      "follow_request_sent": false,
+      "has_extended_profile": false,
+      "profile_use_background_image": true,
+      "default_profile_image": false,
+      "id": 851426978066575360,
+      "profile_background_image_url_https": null,
+      "verified": false,
+      "translator_type": "none",
+      "profile_text_color": "333333",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/851662296564637696/ztQ0_pF8_normal.jpg",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "entities": {
+        "description": {
+          "urls": []
+        }
+      },
+      "followers_count": 1705,
+      "profile_sidebar_border_color": "C0DEED",
+      "id_str": "851426978066575360",
+      "profile_background_color": "F5F8FA",
+      "listed_count": 18,
+      "is_translation_enabled": false,
+      "utc_offset": -18000,
+      "statuses_count": 77045,
+      "description": "Went from Democrat to indy to New-Right. Hardcore #MAGA, and friend to Berners. Demographics are destiny. America First. Sharia Law is Cancer.\ud83c\udf39\ud83d\udc4c\ud83c\udf39\ud83d\udc38",
+      "friends_count": 4464,
+      "location": "Mont Saint-Michel, France",
+      "profile_link_color": "1DA1F2",
+      "profile_image_url": "http://pbs.twimg.com/profile_images/851662296564637696/ztQ0_pF8_normal.jpg",
+      "following": false,
+      "geo_enabled": false,
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/851426978066575360/1491887497",
+      "profile_background_image_url": null,
+      "screen_name": "davealvord164",
+      "lang": "en",
+      "profile_background_tile": false,
+      "favourites_count": 47262,
+      "name": "David Alvord \ud83d\udc4c\ud83c\udf39\ud83d\udc38",
+      "notifications": false,
+      "url": null,
+      "created_at": "Mon Apr 10 13:29:45 +0000 2017",
+      "contributors_enabled": false,
+      "time_zone": "Central Time (US & Canada)",
+      "protected": false,
+      "default_profile": true,
+      "is_translator": false
+    },
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "possibly_sensitive": false,
+    "lang": "en",
+    "created_at": "Mon Jun 26 08:02:16 +0000 2017",
+    "quoted_status_id_str": "879222576727416832",
+    "in_reply_to_status_id_str": null,
+    "place": null,
+    "metadata": {
+      "iso_language_code": "en",
+      "result_type": "recent"
+    }
+  }, {
+    "contributors": null,
+    "truncated": false,
+    "text": "RT @joerogan: The hair of the dog that bit you will be available on site in case of any emergencies. https://t.co/cDXXQU6B42",
+    "is_quote_status": true,
+    "in_reply_to_status_id": null,
+    "id": 879248220404056064,
+    "favorite_count": 0,
+    "entities": {
+      "symbols": [],
+      "user_mentions": [{
+        "id": 18208354,
+        "indices": [3, 12],
+        "id_str": "18208354",
+        "screen_name": "joerogan",
+        "name": "Joe Rogan"
+      }],
+      "hashtags": [],
+      "urls": [{
+        "url": "https://t.co/cDXXQU6B42",
+        "indices": [101, 124],
+        "expanded_url": "https://twitter.com/sargon_of_akkad/status/879222576727416832",
+        "display_url": "twitter.com/sargon_of_akka\u2026"
+      }]
+    },
+    "quoted_status_id": 879222576727416832,
+    "retweeted": false,
+    "coordinates": null,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "in_reply_to_screen_name": null,
+    "in_reply_to_user_id": null,
+    "retweet_count": 19,
+    "id_str": "879248220404056064",
+    "favorited": false,
+    "retweeted_status": {
+      "contributors": null,
+      "truncated": false,
+      "text": "The hair of the dog that bit you will be available on site in case of any emergencies. https://t.co/cDXXQU6B42",
+      "is_quote_status": true,
+      "in_reply_to_status_id": null,
+      "id": 879241781430239232,
+      "favorite_count": 200,
+      "entities": {
+        "symbols": [],
+        "user_mentions": [],
+        "hashtags": [],
+        "urls": [{
+          "url": "https://t.co/cDXXQU6B42",
+          "indices": [87, 110],
+          "expanded_url": "https://twitter.com/sargon_of_akkad/status/879222576727416832",
+          "display_url": "twitter.com/sargon_of_akka\u2026"
+        }]
+      },
+      "quoted_status_id": 879222576727416832,
+      "retweeted": false,
+      "coordinates": null,
+      "quoted_status": {
+        "contributors": null,
+        "truncated": false,
+        "text": "\"Will you be hungover on @joerogan tomorrow?\" https://t.co/3pDWE9a20f",
+        "is_quote_status": false,
+        "in_reply_to_status_id": null,
+        "id": 879222576727416832,
+        "favorite_count": 387,
+        "entities": {
+          "symbols": [],
+          "user_mentions": [{
+            "id": 18208354,
+            "indices": [25, 34],
+            "id_str": "18208354",
+            "screen_name": "joerogan",
+            "name": "Joe Rogan"
+          }],
+          "hashtags": [],
+          "urls": [],
+          "media": [{
+            "expanded_url": "https://twitter.com/Sargon_of_Akkad/status/879222576727416832/photo/1",
+            "display_url": "pic.twitter.com/3pDWE9a20f",
+            "url": "https://t.co/3pDWE9a20f",
+            "media_url_https": "https://pbs.twimg.com/media/DDOgO0dXkAEKFmB.jpg",
+            "id_str": "879222528727814145",
+            "sizes": {
+              "small": {
+                "h": 510,
+                "resize": "fit",
+                "w": 680
+              },
+              "large": {
+                "h": 1536,
+                "resize": "fit",
+                "w": 2048
+              },
+              "medium": {
+                "h": 900,
+                "resize": "fit",
+                "w": 1200
+              },
+              "thumb": {
+                "h": 150,
+                "resize": "crop",
+                "w": 150
+              }
+            },
+            "indices": [46, 69],
+            "type": "photo",
+            "id": 879222528727814145,
+            "media_url": "http://pbs.twimg.com/media/DDOgO0dXkAEKFmB.jpg"
+          }]
+        },
+        "retweeted": false,
+        "coordinates": null,
+        "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+        "in_reply_to_screen_name": null,
+        "in_reply_to_user_id": null,
+        "retweet_count": 26,
+        "id_str": "879222576727416832",
+        "favorited": false,
+        "user": {
+          "follow_request_sent": false,
+          "has_extended_profile": false,
+          "profile_use_background_image": true,
+          "default_profile_image": false,
+          "id": 2472399354,
+          "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/623447863171903488/f2hmFSmk.jpg",
+          "verified": false,
+          "translator_type": "none",
+          "profile_text_color": "333333",
+          "profile_image_url_https": "https://pbs.twimg.com/profile_images/878763666958688256/QG62FeZ3_normal.jpg",
+          "profile_sidebar_fill_color": "DDEEF6",
+          "entities": {
+            "url": {
+              "urls": [{
+                "url": "https://t.co/hZT82Ign52",
+                "indices": [0, 23],
+                "expanded_url": "https://www.youtube.com/user/SargonofAkkad100",
+                "display_url": "youtube.com/user/SargonofA\u2026"
+              }]
+            },
+            "description": {
+              "urls": []
+            }
+          },
+          "followers_count": 213967,
+          "profile_sidebar_border_color": "000000",
+          "id_str": "2472399354",
+          "profile_background_color": "9266CC",
+          "listed_count": 1094,
+          "is_translation_enabled": false,
+          "utc_offset": -25200,
+          "statuses_count": 55032,
+          "description": "Anti-Identitarian liberal YouTuber.",
+          "friends_count": 1015,
+          "location": "",
+          "profile_link_color": "663399",
+          "profile_image_url": "http://pbs.twimg.com/profile_images/878763666958688256/QG62FeZ3_normal.jpg",
+          "following": false,
+          "geo_enabled": false,
+          "profile_banner_url": "https://pbs.twimg.com/profile_banners/2472399354/1498282564",
+          "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/623447863171903488/f2hmFSmk.jpg",
+          "screen_name": "Sargon_of_Akkad",
+          "lang": "en",
+          "profile_background_tile": false,
+          "favourites_count": 50014,
+          "name": "Sargon",
+          "notifications": false,
+          "url": "https://t.co/hZT82Ign52",
+          "created_at": "Thu May 01 12:09:43 +0000 2014",
+          "contributors_enabled": false,
+          "time_zone": "Pacific Time (US & Canada)",
+          "protected": false,
+          "default_profile": false,
+          "is_translator": false
+        },
+        "geo": null,
+        "in_reply_to_user_id_str": null,
+        "possibly_sensitive": false,
+        "lang": "en",
+        "created_at": "Mon Jun 26 06:19:32 +0000 2017",
+        "in_reply_to_status_id_str": null,
+        "place": null,
+        "extended_entities": {
+          "media": [{
+            "expanded_url": "https://twitter.com/Sargon_of_Akkad/status/879222576727416832/photo/1",
+            "display_url": "pic.twitter.com/3pDWE9a20f",
+            "url": "https://t.co/3pDWE9a20f",
+            "media_url_https": "https://pbs.twimg.com/media/DDOgO0dXkAEKFmB.jpg",
+            "id_str": "879222528727814145",
+            "sizes": {
+              "small": {
+                "h": 510,
+                "resize": "fit",
+                "w": 680
+              },
+              "large": {
+                "h": 1536,
+                "resize": "fit",
+                "w": 2048
+              },
+              "medium": {
+                "h": 900,
+                "resize": "fit",
+                "w": 1200
+              },
+              "thumb": {
+                "h": 150,
+                "resize": "crop",
+                "w": 150
+              }
+            },
+            "indices": [46, 69],
+            "type": "photo",
+            "id": 879222528727814145,
+            "media_url": "http://pbs.twimg.com/media/DDOgO0dXkAEKFmB.jpg"
+          }]
+        },
+        "metadata": {
+          "iso_language_code": "en",
+          "result_type": "recent"
+        }
+      },
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_screen_name": null,
+      "in_reply_to_user_id": null,
+      "retweet_count": 19,
+      "id_str": "879241781430239232",
+      "favorited": false,
+      "user": {
+        "follow_request_sent": false,
+        "has_extended_profile": false,
+        "profile_use_background_image": true,
+        "default_profile_image": false,
+        "id": 18208354,
+        "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/464231533167906816/dQfJCA4l.jpeg",
+        "verified": true,
+        "translator_type": "none",
+        "profile_text_color": "333333",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/552307347851210752/vrXDcTFC_normal.jpeg",
+        "profile_sidebar_fill_color": "C0DFEC",
+        "entities": {
+          "url": {
+            "urls": [{
+              "url": "https://t.co/UoPqZeCPDs",
+              "indices": [0, 23],
+              "expanded_url": "http://www.joerogan.net",
+              "display_url": "joerogan.net"
+            }]
+          },
+          "description": {
+            "urls": [{
+              "url": "https://t.co/caBUmcdPdo",
+              "indices": [110, 133],
+              "expanded_url": "http://www.facebook.com/JOEROGAN",
+              "display_url": "facebook.com/JOEROGAN"
+            }]
+          }
+        },
+        "followers_count": 3360965,
+        "profile_sidebar_border_color": "FFFFFF",
+        "id_str": "18208354",
+        "profile_background_color": "022330",
+        "listed_count": 18939,
+        "is_translation_enabled": true,
+        "utc_offset": -21600,
+        "statuses_count": 38833,
+        "description": "Stand up comic/mixed martial arts fanatic/psychedelic adventurer Host of The Joe Rogan Experience #FreakParty https://t.co/caBUmcdPdo",
+        "friends_count": 3630,
+        "location": "",
+        "profile_link_color": "0084B4",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/552307347851210752/vrXDcTFC_normal.jpeg",
+        "following": true,
+        "geo_enabled": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/18208354/1476844492",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/464231533167906816/dQfJCA4l.jpeg",
+        "screen_name": "joerogan",
+        "lang": "en",
+        "profile_background_tile": true,
+        "favourites_count": 239,
+        "name": "Joe Rogan",
+        "notifications": false,
+        "url": "https://t.co/UoPqZeCPDs",
+        "created_at": "Thu Dec 18 04:01:47 +0000 2008",
+        "contributors_enabled": false,
+        "time_zone": "Mountain Time (US & Canada)",
+        "protected": false,
+        "default_profile": false,
+        "is_translator": false
+      },
+      "geo": null,
+      "in_reply_to_user_id_str": null,
+      "possibly_sensitive": false,
+      "lang": "en",
+      "created_at": "Mon Jun 26 07:35:50 +0000 2017",
+      "quoted_status_id_str": "879222576727416832",
+      "in_reply_to_status_id_str": null,
+      "place": null,
+      "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+      }
+    },
+    "user": {
+      "follow_request_sent": false,
+      "has_extended_profile": false,
+      "profile_use_background_image": true,
+      "default_profile_image": false,
+      "id": 2472399354,
+      "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/623447863171903488/f2hmFSmk.jpg",
+      "verified": false,
+      "translator_type": "none",
+      "profile_text_color": "333333",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/878763666958688256/QG62FeZ3_normal.jpg",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "entities": {
+        "url": {
+          "urls": [{
+            "url": "https://t.co/hZT82Ign52",
+            "indices": [0, 23],
+            "expanded_url": "https://www.youtube.com/user/SargonofAkkad100",
+            "display_url": "youtube.com/user/SargonofA\u2026"
+          }]
+        },
+        "description": {
+          "urls": []
+        }
+      },
+      "followers_count": 213967,
+      "profile_sidebar_border_color": "000000",
+      "id_str": "2472399354",
+      "profile_background_color": "9266CC",
+      "listed_count": 1094,
+      "is_translation_enabled": false,
+      "utc_offset": -25200,
+      "statuses_count": 55032,
+      "description": "Anti-Identitarian liberal YouTuber.",
+      "friends_count": 1015,
+      "location": "",
+      "profile_link_color": "663399",
+      "profile_image_url": "http://pbs.twimg.com/profile_images/878763666958688256/QG62FeZ3_normal.jpg",
+      "following": false,
+      "geo_enabled": false,
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/2472399354/1498282564",
+      "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/623447863171903488/f2hmFSmk.jpg",
+      "screen_name": "Sargon_of_Akkad",
+      "lang": "en",
+      "profile_background_tile": false,
+      "favourites_count": 50014,
+      "name": "Sargon",
+      "notifications": false,
+      "url": "https://t.co/hZT82Ign52",
+      "created_at": "Thu May 01 12:09:43 +0000 2014",
+      "contributors_enabled": false,
+      "time_zone": "Pacific Time (US & Canada)",
+      "protected": false,
+      "default_profile": false,
+      "is_translator": false
+    },
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "possibly_sensitive": false,
+    "lang": "en",
+    "created_at": "Mon Jun 26 08:01:26 +0000 2017",
+    "quoted_status_id_str": "879222576727416832",
+    "in_reply_to_status_id_str": null,
+    "place": null,
+    "metadata": {
+      "iso_language_code": "en",
+      "result_type": "recent"
+    }
+  }, {
+    "contributors": null,
+    "truncated": false,
+    "text": "RT @joerogan: The hair of the dog that bit you will be available on site in case of any emergencies. https://t.co/cDXXQU6B42",
+    "is_quote_status": true,
+    "in_reply_to_status_id": null,
+    "id": 879247981488295936,
+    "favorite_count": 0,
+    "entities": {
+      "symbols": [],
+      "user_mentions": [{
+        "id": 18208354,
+        "indices": [3, 12],
+        "id_str": "18208354",
+        "screen_name": "joerogan",
+        "name": "Joe Rogan"
+      }],
+      "hashtags": [],
+      "urls": [{
+        "url": "https://t.co/cDXXQU6B42",
+        "indices": [101, 124],
+        "expanded_url": "https://twitter.com/sargon_of_akkad/status/879222576727416832",
+        "display_url": "twitter.com/sargon_of_akka\u2026"
+      }]
+    },
+    "quoted_status_id": 879222576727416832,
+    "retweeted": false,
+    "coordinates": null,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_screen_name": null,
+    "in_reply_to_user_id": null,
+    "retweet_count": 19,
+    "id_str": "879247981488295936",
+    "favorited": false,
+    "retweeted_status": {
+      "contributors": null,
+      "truncated": false,
+      "text": "The hair of the dog that bit you will be available on site in case of any emergencies. https://t.co/cDXXQU6B42",
+      "is_quote_status": true,
+      "in_reply_to_status_id": null,
+      "id": 879241781430239232,
+      "favorite_count": 200,
+      "entities": {
+        "symbols": [],
+        "user_mentions": [],
+        "hashtags": [],
+        "urls": [{
+          "url": "https://t.co/cDXXQU6B42",
+          "indices": [87, 110],
+          "expanded_url": "https://twitter.com/sargon_of_akkad/status/879222576727416832",
+          "display_url": "twitter.com/sargon_of_akka\u2026"
+        }]
+      },
+      "quoted_status_id": 879222576727416832,
+      "retweeted": false,
+      "coordinates": null,
+      "quoted_status": {
+        "contributors": null,
+        "truncated": false,
+        "text": "\"Will you be hungover on @joerogan tomorrow?\" https://t.co/3pDWE9a20f",
+        "is_quote_status": false,
+        "in_reply_to_status_id": null,
+        "id": 879222576727416832,
+        "favorite_count": 387,
+        "entities": {
+          "symbols": [],
+          "user_mentions": [{
+            "id": 18208354,
+            "indices": [25, 34],
+            "id_str": "18208354",
+            "screen_name": "joerogan",
+            "name": "Joe Rogan"
+          }],
+          "hashtags": [],
+          "urls": [],
+          "media": [{
+            "expanded_url": "https://twitter.com/Sargon_of_Akkad/status/879222576727416832/photo/1",
+            "display_url": "pic.twitter.com/3pDWE9a20f",
+            "url": "https://t.co/3pDWE9a20f",
+            "media_url_https": "https://pbs.twimg.com/media/DDOgO0dXkAEKFmB.jpg",
+            "id_str": "879222528727814145",
+            "sizes": {
+              "small": {
+                "h": 510,
+                "resize": "fit",
+                "w": 680
+              },
+              "large": {
+                "h": 1536,
+                "resize": "fit",
+                "w": 2048
+              },
+              "medium": {
+                "h": 900,
+                "resize": "fit",
+                "w": 1200
+              },
+              "thumb": {
+                "h": 150,
+                "resize": "crop",
+                "w": 150
+              }
+            },
+            "indices": [46, 69],
+            "type": "photo",
+            "id": 879222528727814145,
+            "media_url": "http://pbs.twimg.com/media/DDOgO0dXkAEKFmB.jpg"
+          }]
+        },
+        "retweeted": false,
+        "coordinates": null,
+        "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+        "in_reply_to_screen_name": null,
+        "in_reply_to_user_id": null,
+        "retweet_count": 26,
+        "id_str": "879222576727416832",
+        "favorited": false,
+        "user": {
+          "follow_request_sent": false,
+          "has_extended_profile": false,
+          "profile_use_background_image": true,
+          "default_profile_image": false,
+          "id": 2472399354,
+          "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/623447863171903488/f2hmFSmk.jpg",
+          "verified": false,
+          "translator_type": "none",
+          "profile_text_color": "333333",
+          "profile_image_url_https": "https://pbs.twimg.com/profile_images/878763666958688256/QG62FeZ3_normal.jpg",
+          "profile_sidebar_fill_color": "DDEEF6",
+          "entities": {
+            "url": {
+              "urls": [{
+                "url": "https://t.co/hZT82Ign52",
+                "indices": [0, 23],
+                "expanded_url": "https://www.youtube.com/user/SargonofAkkad100",
+                "display_url": "youtube.com/user/SargonofA\u2026"
+              }]
+            },
+            "description": {
+              "urls": []
+            }
+          },
+          "followers_count": 213967,
+          "profile_sidebar_border_color": "000000",
+          "id_str": "2472399354",
+          "profile_background_color": "9266CC",
+          "listed_count": 1094,
+          "is_translation_enabled": false,
+          "utc_offset": -25200,
+          "statuses_count": 55032,
+          "description": "Anti-Identitarian liberal YouTuber.",
+          "friends_count": 1015,
+          "location": "",
+          "profile_link_color": "663399",
+          "profile_image_url": "http://pbs.twimg.com/profile_images/878763666958688256/QG62FeZ3_normal.jpg",
+          "following": false,
+          "geo_enabled": false,
+          "profile_banner_url": "https://pbs.twimg.com/profile_banners/2472399354/1498282564",
+          "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/623447863171903488/f2hmFSmk.jpg",
+          "screen_name": "Sargon_of_Akkad",
+          "lang": "en",
+          "profile_background_tile": false,
+          "favourites_count": 50014,
+          "name": "Sargon",
+          "notifications": false,
+          "url": "https://t.co/hZT82Ign52",
+          "created_at": "Thu May 01 12:09:43 +0000 2014",
+          "contributors_enabled": false,
+          "time_zone": "Pacific Time (US & Canada)",
+          "protected": false,
+          "default_profile": false,
+          "is_translator": false
+        },
+        "geo": null,
+        "in_reply_to_user_id_str": null,
+        "possibly_sensitive": false,
+        "lang": "en",
+        "created_at": "Mon Jun 26 06:19:32 +0000 2017",
+        "in_reply_to_status_id_str": null,
+        "place": null,
+        "extended_entities": {
+          "media": [{
+            "expanded_url": "https://twitter.com/Sargon_of_Akkad/status/879222576727416832/photo/1",
+            "display_url": "pic.twitter.com/3pDWE9a20f",
+            "url": "https://t.co/3pDWE9a20f",
+            "media_url_https": "https://pbs.twimg.com/media/DDOgO0dXkAEKFmB.jpg",
+            "id_str": "879222528727814145",
+            "sizes": {
+              "small": {
+                "h": 510,
+                "resize": "fit",
+                "w": 680
+              },
+              "large": {
+                "h": 1536,
+                "resize": "fit",
+                "w": 2048
+              },
+              "medium": {
+                "h": 900,
+                "resize": "fit",
+                "w": 1200
+              },
+              "thumb": {
+                "h": 150,
+                "resize": "crop",
+                "w": 150
+              }
+            },
+            "indices": [46, 69],
+            "type": "photo",
+            "id": 879222528727814145,
+            "media_url": "http://pbs.twimg.com/media/DDOgO0dXkAEKFmB.jpg"
+          }]
+        },
+        "metadata": {
+          "iso_language_code": "en",
+          "result_type": "recent"
+        }
+      },
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_screen_name": null,
+      "in_reply_to_user_id": null,
+      "retweet_count": 19,
+      "id_str": "879241781430239232",
+      "favorited": false,
+      "user": {
+        "follow_request_sent": false,
+        "has_extended_profile": false,
+        "profile_use_background_image": true,
+        "default_profile_image": false,
+        "id": 18208354,
+        "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/464231533167906816/dQfJCA4l.jpeg",
+        "verified": true,
+        "translator_type": "none",
+        "profile_text_color": "333333",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/552307347851210752/vrXDcTFC_normal.jpeg",
+        "profile_sidebar_fill_color": "C0DFEC",
+        "entities": {
+          "url": {
+            "urls": [{
+              "url": "https://t.co/UoPqZeCPDs",
+              "indices": [0, 23],
+              "expanded_url": "http://www.joerogan.net",
+              "display_url": "joerogan.net"
+            }]
+          },
+          "description": {
+            "urls": [{
+              "url": "https://t.co/caBUmcdPdo",
+              "indices": [110, 133],
+              "expanded_url": "http://www.facebook.com/JOEROGAN",
+              "display_url": "facebook.com/JOEROGAN"
+            }]
+          }
+        },
+        "followers_count": 3360965,
+        "profile_sidebar_border_color": "FFFFFF",
+        "id_str": "18208354",
+        "profile_background_color": "022330",
+        "listed_count": 18939,
+        "is_translation_enabled": true,
+        "utc_offset": -21600,
+        "statuses_count": 38833,
+        "description": "Stand up comic/mixed martial arts fanatic/psychedelic adventurer Host of The Joe Rogan Experience #FreakParty https://t.co/caBUmcdPdo",
+        "friends_count": 3630,
+        "location": "",
+        "profile_link_color": "0084B4",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/552307347851210752/vrXDcTFC_normal.jpeg",
+        "following": true,
+        "geo_enabled": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/18208354/1476844492",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/464231533167906816/dQfJCA4l.jpeg",
+        "screen_name": "joerogan",
+        "lang": "en",
+        "profile_background_tile": true,
+        "favourites_count": 239,
+        "name": "Joe Rogan",
+        "notifications": false,
+        "url": "https://t.co/UoPqZeCPDs",
+        "created_at": "Thu Dec 18 04:01:47 +0000 2008",
+        "contributors_enabled": false,
+        "time_zone": "Mountain Time (US & Canada)",
+        "protected": false,
+        "default_profile": false,
+        "is_translator": false
+      },
+      "geo": null,
+      "in_reply_to_user_id_str": null,
+      "possibly_sensitive": false,
+      "lang": "en",
+      "created_at": "Mon Jun 26 07:35:50 +0000 2017",
+      "quoted_status_id_str": "879222576727416832",
+      "in_reply_to_status_id_str": null,
+      "place": null,
+      "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+      }
+    },
+    "user": {
+      "follow_request_sent": false,
+      "has_extended_profile": false,
+      "profile_use_background_image": false,
+      "default_profile_image": false,
+      "id": 751522771147038720,
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "verified": false,
+      "translator_type": "none",
+      "profile_text_color": "000000",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/862017109521465344/8EIqD5NX_normal.jpg",
+      "profile_sidebar_fill_color": "000000",
+      "entities": {
+        "description": {
+          "urls": []
+        }
+      },
+      "followers_count": 139,
+      "profile_sidebar_border_color": "000000",
+      "id_str": "751522771147038720",
+      "profile_background_color": "000000",
+      "listed_count": 3,
+      "is_translation_enabled": false,
+      "utc_offset": null,
+      "statuses_count": 5417,
+      "description": "minister of PIPE (+6 clout) x death grips is for everyone x my favorite show is Hot Ones",
+      "friends_count": 634,
+      "location": "",
+      "profile_link_color": "86854B",
+      "profile_image_url": "http://pbs.twimg.com/profile_images/862017109521465344/8EIqD5NX_normal.jpg",
+      "following": false,
+      "geo_enabled": false,
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/751522771147038720/1491433037",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "screen_name": "InhumedSaint",
+      "lang": "en",
+      "profile_background_tile": false,
+      "favourites_count": 3558,
+      "name": "venti ectophial",
+      "notifications": false,
+      "url": null,
+      "created_at": "Fri Jul 08 21:06:06 +0000 2016",
+      "contributors_enabled": false,
+      "time_zone": null,
+      "protected": false,
+      "default_profile": false,
+      "is_translator": false
+    },
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "possibly_sensitive": false,
+    "lang": "en",
+    "created_at": "Mon Jun 26 08:00:29 +0000 2017",
+    "quoted_status_id_str": "879222576727416832",
+    "in_reply_to_status_id_str": null,
+    "place": null,
+    "metadata": {
+      "iso_language_code": "en",
+      "result_type": "recent"
+    }
+  }, {
+    "contributors": null,
+    "truncated": false,
+    "text": "RT @joerogan: The hair of the dog that bit you will be available on site in case of any emergencies. https://t.co/cDXXQU6B42",
+    "is_quote_status": true,
+    "in_reply_to_status_id": null,
+    "id": 879247156082728960,
+    "favorite_count": 0,
+    "entities": {
+      "symbols": [],
+      "user_mentions": [{
+        "id": 18208354,
+        "indices": [3, 12],
+        "id_str": "18208354",
+        "screen_name": "joerogan",
+        "name": "Joe Rogan"
+      }],
+      "hashtags": [],
+      "urls": [{
+        "url": "https://t.co/cDXXQU6B42",
+        "indices": [101, 124],
+        "expanded_url": "https://twitter.com/sargon_of_akkad/status/879222576727416832",
+        "display_url": "twitter.com/sargon_of_akka\u2026"
+      }]
+    },
+    "quoted_status_id": 879222576727416832,
+    "retweeted": false,
+    "coordinates": null,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_screen_name": null,
+    "in_reply_to_user_id": null,
+    "retweet_count": 19,
+    "id_str": "879247156082728960",
+    "favorited": false,
+    "retweeted_status": {
+      "contributors": null,
+      "truncated": false,
+      "text": "The hair of the dog that bit you will be available on site in case of any emergencies. https://t.co/cDXXQU6B42",
+      "is_quote_status": true,
+      "in_reply_to_status_id": null,
+      "id": 879241781430239232,
+      "favorite_count": 200,
+      "entities": {
+        "symbols": [],
+        "user_mentions": [],
+        "hashtags": [],
+        "urls": [{
+          "url": "https://t.co/cDXXQU6B42",
+          "indices": [87, 110],
+          "expanded_url": "https://twitter.com/sargon_of_akkad/status/879222576727416832",
+          "display_url": "twitter.com/sargon_of_akka\u2026"
+        }]
+      },
+      "quoted_status_id": 879222576727416832,
+      "retweeted": false,
+      "coordinates": null,
+      "quoted_status": {
+        "contributors": null,
+        "truncated": false,
+        "text": "\"Will you be hungover on @joerogan tomorrow?\" https://t.co/3pDWE9a20f",
+        "is_quote_status": false,
+        "in_reply_to_status_id": null,
+        "id": 879222576727416832,
+        "favorite_count": 387,
+        "entities": {
+          "symbols": [],
+          "user_mentions": [{
+            "id": 18208354,
+            "indices": [25, 34],
+            "id_str": "18208354",
+            "screen_name": "joerogan",
+            "name": "Joe Rogan"
+          }],
+          "hashtags": [],
+          "urls": [],
+          "media": [{
+            "expanded_url": "https://twitter.com/Sargon_of_Akkad/status/879222576727416832/photo/1",
+            "display_url": "pic.twitter.com/3pDWE9a20f",
+            "url": "https://t.co/3pDWE9a20f",
+            "media_url_https": "https://pbs.twimg.com/media/DDOgO0dXkAEKFmB.jpg",
+            "id_str": "879222528727814145",
+            "sizes": {
+              "small": {
+                "h": 510,
+                "resize": "fit",
+                "w": 680
+              },
+              "large": {
+                "h": 1536,
+                "resize": "fit",
+                "w": 2048
+              },
+              "medium": {
+                "h": 900,
+                "resize": "fit",
+                "w": 1200
+              },
+              "thumb": {
+                "h": 150,
+                "resize": "crop",
+                "w": 150
+              }
+            },
+            "indices": [46, 69],
+            "type": "photo",
+            "id": 879222528727814145,
+            "media_url": "http://pbs.twimg.com/media/DDOgO0dXkAEKFmB.jpg"
+          }]
+        },
+        "retweeted": false,
+        "coordinates": null,
+        "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+        "in_reply_to_screen_name": null,
+        "in_reply_to_user_id": null,
+        "retweet_count": 26,
+        "id_str": "879222576727416832",
+        "favorited": false,
+        "user": {
+          "follow_request_sent": false,
+          "has_extended_profile": false,
+          "profile_use_background_image": true,
+          "default_profile_image": false,
+          "id": 2472399354,
+          "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/623447863171903488/f2hmFSmk.jpg",
+          "verified": false,
+          "translator_type": "none",
+          "profile_text_color": "333333",
+          "profile_image_url_https": "https://pbs.twimg.com/profile_images/878763666958688256/QG62FeZ3_normal.jpg",
+          "profile_sidebar_fill_color": "DDEEF6",
+          "entities": {
+            "url": {
+              "urls": [{
+                "url": "https://t.co/hZT82Ign52",
+                "indices": [0, 23],
+                "expanded_url": "https://www.youtube.com/user/SargonofAkkad100",
+                "display_url": "youtube.com/user/SargonofA\u2026"
+              }]
+            },
+            "description": {
+              "urls": []
+            }
+          },
+          "followers_count": 213967,
+          "profile_sidebar_border_color": "000000",
+          "id_str": "2472399354",
+          "profile_background_color": "9266CC",
+          "listed_count": 1094,
+          "is_translation_enabled": false,
+          "utc_offset": -25200,
+          "statuses_count": 55032,
+          "description": "Anti-Identitarian liberal YouTuber.",
+          "friends_count": 1015,
+          "location": "",
+          "profile_link_color": "663399",
+          "profile_image_url": "http://pbs.twimg.com/profile_images/878763666958688256/QG62FeZ3_normal.jpg",
+          "following": false,
+          "geo_enabled": false,
+          "profile_banner_url": "https://pbs.twimg.com/profile_banners/2472399354/1498282564",
+          "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/623447863171903488/f2hmFSmk.jpg",
+          "screen_name": "Sargon_of_Akkad",
+          "lang": "en",
+          "profile_background_tile": false,
+          "favourites_count": 50014,
+          "name": "Sargon",
+          "notifications": false,
+          "url": "https://t.co/hZT82Ign52",
+          "created_at": "Thu May 01 12:09:43 +0000 2014",
+          "contributors_enabled": false,
+          "time_zone": "Pacific Time (US & Canada)",
+          "protected": false,
+          "default_profile": false,
+          "is_translator": false
+        },
+        "geo": null,
+        "in_reply_to_user_id_str": null,
+        "possibly_sensitive": false,
+        "lang": "en",
+        "created_at": "Mon Jun 26 06:19:32 +0000 2017",
+        "in_reply_to_status_id_str": null,
+        "place": null,
+        "extended_entities": {
+          "media": [{
+            "expanded_url": "https://twitter.com/Sargon_of_Akkad/status/879222576727416832/photo/1",
+            "display_url": "pic.twitter.com/3pDWE9a20f",
+            "url": "https://t.co/3pDWE9a20f",
+            "media_url_https": "https://pbs.twimg.com/media/DDOgO0dXkAEKFmB.jpg",
+            "id_str": "879222528727814145",
+            "sizes": {
+              "small": {
+                "h": 510,
+                "resize": "fit",
+                "w": 680
+              },
+              "large": {
+                "h": 1536,
+                "resize": "fit",
+                "w": 2048
+              },
+              "medium": {
+                "h": 900,
+                "resize": "fit",
+                "w": 1200
+              },
+              "thumb": {
+                "h": 150,
+                "resize": "crop",
+                "w": 150
+              }
+            },
+            "indices": [46, 69],
+            "type": "photo",
+            "id": 879222528727814145,
+            "media_url": "http://pbs.twimg.com/media/DDOgO0dXkAEKFmB.jpg"
+          }]
+        },
+        "metadata": {
+          "iso_language_code": "en",
+          "result_type": "recent"
+        }
+      },
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_screen_name": null,
+      "in_reply_to_user_id": null,
+      "retweet_count": 19,
+      "id_str": "879241781430239232",
+      "favorited": false,
+      "user": {
+        "follow_request_sent": false,
+        "has_extended_profile": false,
+        "profile_use_background_image": true,
+        "default_profile_image": false,
+        "id": 18208354,
+        "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/464231533167906816/dQfJCA4l.jpeg",
+        "verified": true,
+        "translator_type": "none",
+        "profile_text_color": "333333",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/552307347851210752/vrXDcTFC_normal.jpeg",
+        "profile_sidebar_fill_color": "C0DFEC",
+        "entities": {
+          "url": {
+            "urls": [{
+              "url": "https://t.co/UoPqZeCPDs",
+              "indices": [0, 23],
+              "expanded_url": "http://www.joerogan.net",
+              "display_url": "joerogan.net"
+            }]
+          },
+          "description": {
+            "urls": [{
+              "url": "https://t.co/caBUmcdPdo",
+              "indices": [110, 133],
+              "expanded_url": "http://www.facebook.com/JOEROGAN",
+              "display_url": "facebook.com/JOEROGAN"
+            }]
+          }
+        },
+        "followers_count": 3360965,
+        "profile_sidebar_border_color": "FFFFFF",
+        "id_str": "18208354",
+        "profile_background_color": "022330",
+        "listed_count": 18939,
+        "is_translation_enabled": true,
+        "utc_offset": -21600,
+        "statuses_count": 38833,
+        "description": "Stand up comic/mixed martial arts fanatic/psychedelic adventurer Host of The Joe Rogan Experience #FreakParty https://t.co/caBUmcdPdo",
+        "friends_count": 3630,
+        "location": "",
+        "profile_link_color": "0084B4",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/552307347851210752/vrXDcTFC_normal.jpeg",
+        "following": true,
+        "geo_enabled": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/18208354/1476844492",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/464231533167906816/dQfJCA4l.jpeg",
+        "screen_name": "joerogan",
+        "lang": "en",
+        "profile_background_tile": true,
+        "favourites_count": 239,
+        "name": "Joe Rogan",
+        "notifications": false,
+        "url": "https://t.co/UoPqZeCPDs",
+        "created_at": "Thu Dec 18 04:01:47 +0000 2008",
+        "contributors_enabled": false,
+        "time_zone": "Mountain Time (US & Canada)",
+        "protected": false,
+        "default_profile": false,
+        "is_translator": false
+      },
+      "geo": null,
+      "in_reply_to_user_id_str": null,
+      "possibly_sensitive": false,
+      "lang": "en",
+      "created_at": "Mon Jun 26 07:35:50 +0000 2017",
+      "quoted_status_id_str": "879222576727416832",
+      "in_reply_to_status_id_str": null,
+      "place": null,
+      "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+      }
+    },
+    "user": {
+      "follow_request_sent": false,
+      "has_extended_profile": false,
+      "profile_use_background_image": false,
+      "default_profile_image": false,
+      "id": 4520698393,
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "verified": false,
+      "translator_type": "none",
+      "profile_text_color": "000000",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/845719180229824512/gIWH46Yn_normal.jpg",
+      "profile_sidebar_fill_color": "000000",
+      "entities": {
+        "url": {
+          "urls": [{
+            "url": "https://t.co/f6FfdmUNwe",
+            "indices": [0, 23],
+            "expanded_url": "http://youtube.com/friended",
+            "display_url": "youtube.com/friended"
+          }]
+        },
+        "description": {
+          "urls": [{
+            "url": "https://t.co/1MGTq3YFhA",
+            "indices": [118, 141],
+            "expanded_url": "https://www.patreon.com/friended",
+            "display_url": "patreon.com/friended"
+          }]
+        }
+      },
+      "followers_count": 7930,
+      "profile_sidebar_border_color": "000000",
+      "id_str": "4520698393",
+      "profile_background_color": "000000",
+      "listed_count": 59,
+      "is_translation_enabled": false,
+      "utc_offset": -25200,
+      "statuses_count": 7818,
+      "description": "Professional artist. Amateur YouTuber. Skeptic. Xenophile. Nonconformist, Vids about science, politics, sociobiology. https://t.co/1MGTq3YFhA",
+      "friends_count": 405,
+      "location": "California, USA",
+      "profile_link_color": "1B95E0",
+      "profile_image_url": "http://pbs.twimg.com/profile_images/845719180229824512/gIWH46Yn_normal.jpg",
+      "following": false,
+      "geo_enabled": false,
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/4520698393/1495294244",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "screen_name": "aa2157",
+      "lang": "en",
+      "profile_background_tile": false,
+      "favourites_count": 4798,
+      "name": "FriendCrusher\ud83d\udc98",
+      "notifications": false,
+      "url": "https://t.co/f6FfdmUNwe",
+      "created_at": "Thu Dec 10 18:49:09 +0000 2015",
+      "contributors_enabled": false,
+      "time_zone": "Pacific Time (US & Canada)",
+      "protected": false,
+      "default_profile": false,
+      "is_translator": false
+    },
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "possibly_sensitive": false,
+    "lang": "en",
+    "created_at": "Mon Jun 26 07:57:12 +0000 2017",
+    "quoted_status_id_str": "879222576727416832",
+    "in_reply_to_status_id_str": null,
+    "place": null,
+    "metadata": {
+      "iso_language_code": "en",
+      "result_type": "recent"
+    }
+  }, {
+    "contributors": null,
+    "truncated": false,
+    "text": "RT @joerogan: The hair of the dog that bit you will be available on site in case of any emergencies. https://t.co/cDXXQU6B42",
+    "is_quote_status": true,
+    "in_reply_to_status_id": null,
+    "id": 879244381118771200,
+    "favorite_count": 0,
+    "entities": {
+      "symbols": [],
+      "user_mentions": [{
+        "id": 18208354,
+        "indices": [3, 12],
+        "id_str": "18208354",
+        "screen_name": "joerogan",
+        "name": "Joe Rogan"
+      }],
+      "hashtags": [],
+      "urls": [{
+        "url": "https://t.co/cDXXQU6B42",
+        "indices": [101, 124],
+        "expanded_url": "https://twitter.com/sargon_of_akkad/status/879222576727416832",
+        "display_url": "twitter.com/sargon_of_akka\u2026"
+      }]
+    },
+    "quoted_status_id": 879222576727416832,
+    "retweeted": false,
+    "coordinates": null,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "in_reply_to_screen_name": null,
+    "in_reply_to_user_id": null,
+    "retweet_count": 19,
+    "id_str": "879244381118771200",
+    "favorited": false,
+    "retweeted_status": {
+      "contributors": null,
+      "truncated": false,
+      "text": "The hair of the dog that bit you will be available on site in case of any emergencies. https://t.co/cDXXQU6B42",
+      "is_quote_status": true,
+      "in_reply_to_status_id": null,
+      "id": 879241781430239232,
+      "favorite_count": 200,
+      "entities": {
+        "symbols": [],
+        "user_mentions": [],
+        "hashtags": [],
+        "urls": [{
+          "url": "https://t.co/cDXXQU6B42",
+          "indices": [87, 110],
+          "expanded_url": "https://twitter.com/sargon_of_akkad/status/879222576727416832",
+          "display_url": "twitter.com/sargon_of_akka\u2026"
+        }]
+      },
+      "quoted_status_id": 879222576727416832,
+      "retweeted": false,
+      "coordinates": null,
+      "quoted_status": {
+        "contributors": null,
+        "truncated": false,
+        "text": "\"Will you be hungover on @joerogan tomorrow?\" https://t.co/3pDWE9a20f",
+        "is_quote_status": false,
+        "in_reply_to_status_id": null,
+        "id": 879222576727416832,
+        "favorite_count": 387,
+        "entities": {
+          "symbols": [],
+          "user_mentions": [{
+            "id": 18208354,
+            "indices": [25, 34],
+            "id_str": "18208354",
+            "screen_name": "joerogan",
+            "name": "Joe Rogan"
+          }],
+          "hashtags": [],
+          "urls": [],
+          "media": [{
+            "expanded_url": "https://twitter.com/Sargon_of_Akkad/status/879222576727416832/photo/1",
+            "display_url": "pic.twitter.com/3pDWE9a20f",
+            "url": "https://t.co/3pDWE9a20f",
+            "media_url_https": "https://pbs.twimg.com/media/DDOgO0dXkAEKFmB.jpg",
+            "id_str": "879222528727814145",
+            "sizes": {
+              "small": {
+                "h": 510,
+                "resize": "fit",
+                "w": 680
+              },
+              "large": {
+                "h": 1536,
+                "resize": "fit",
+                "w": 2048
+              },
+              "medium": {
+                "h": 900,
+                "resize": "fit",
+                "w": 1200
+              },
+              "thumb": {
+                "h": 150,
+                "resize": "crop",
+                "w": 150
+              }
+            },
+            "indices": [46, 69],
+            "type": "photo",
+            "id": 879222528727814145,
+            "media_url": "http://pbs.twimg.com/media/DDOgO0dXkAEKFmB.jpg"
+          }]
+        },
+        "retweeted": false,
+        "coordinates": null,
+        "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+        "in_reply_to_screen_name": null,
+        "in_reply_to_user_id": null,
+        "retweet_count": 26,
+        "id_str": "879222576727416832",
+        "favorited": false,
+        "user": {
+          "follow_request_sent": false,
+          "has_extended_profile": false,
+          "profile_use_background_image": true,
+          "default_profile_image": false,
+          "id": 2472399354,
+          "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/623447863171903488/f2hmFSmk.jpg",
+          "verified": false,
+          "translator_type": "none",
+          "profile_text_color": "333333",
+          "profile_image_url_https": "https://pbs.twimg.com/profile_images/878763666958688256/QG62FeZ3_normal.jpg",
+          "profile_sidebar_fill_color": "DDEEF6",
+          "entities": {
+            "url": {
+              "urls": [{
+                "url": "https://t.co/hZT82Ign52",
+                "indices": [0, 23],
+                "expanded_url": "https://www.youtube.com/user/SargonofAkkad100",
+                "display_url": "youtube.com/user/SargonofA\u2026"
+              }]
+            },
+            "description": {
+              "urls": []
+            }
+          },
+          "followers_count": 213967,
+          "profile_sidebar_border_color": "000000",
+          "id_str": "2472399354",
+          "profile_background_color": "9266CC",
+          "listed_count": 1094,
+          "is_translation_enabled": false,
+          "utc_offset": -25200,
+          "statuses_count": 55032,
+          "description": "Anti-Identitarian liberal YouTuber.",
+          "friends_count": 1015,
+          "location": "",
+          "profile_link_color": "663399",
+          "profile_image_url": "http://pbs.twimg.com/profile_images/878763666958688256/QG62FeZ3_normal.jpg",
+          "following": false,
+          "geo_enabled": false,
+          "profile_banner_url": "https://pbs.twimg.com/profile_banners/2472399354/1498282564",
+          "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/623447863171903488/f2hmFSmk.jpg",
+          "screen_name": "Sargon_of_Akkad",
+          "lang": "en",
+          "profile_background_tile": false,
+          "favourites_count": 50014,
+          "name": "Sargon",
+          "notifications": false,
+          "url": "https://t.co/hZT82Ign52",
+          "created_at": "Thu May 01 12:09:43 +0000 2014",
+          "contributors_enabled": false,
+          "time_zone": "Pacific Time (US & Canada)",
+          "protected": false,
+          "default_profile": false,
+          "is_translator": false
+        },
+        "geo": null,
+        "in_reply_to_user_id_str": null,
+        "possibly_sensitive": false,
+        "lang": "en",
+        "created_at": "Mon Jun 26 06:19:32 +0000 2017",
+        "in_reply_to_status_id_str": null,
+        "place": null,
+        "extended_entities": {
+          "media": [{
+            "expanded_url": "https://twitter.com/Sargon_of_Akkad/status/879222576727416832/photo/1",
+            "display_url": "pic.twitter.com/3pDWE9a20f",
+            "url": "https://t.co/3pDWE9a20f",
+            "media_url_https": "https://pbs.twimg.com/media/DDOgO0dXkAEKFmB.jpg",
+            "id_str": "879222528727814145",
+            "sizes": {
+              "small": {
+                "h": 510,
+                "resize": "fit",
+                "w": 680
+              },
+              "large": {
+                "h": 1536,
+                "resize": "fit",
+                "w": 2048
+              },
+              "medium": {
+                "h": 900,
+                "resize": "fit",
+                "w": 1200
+              },
+              "thumb": {
+                "h": 150,
+                "resize": "crop",
+                "w": 150
+              }
+            },
+            "indices": [46, 69],
+            "type": "photo",
+            "id": 879222528727814145,
+            "media_url": "http://pbs.twimg.com/media/DDOgO0dXkAEKFmB.jpg"
+          }]
+        },
+        "metadata": {
+          "iso_language_code": "en",
+          "result_type": "recent"
+        }
+      },
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_screen_name": null,
+      "in_reply_to_user_id": null,
+      "retweet_count": 19,
+      "id_str": "879241781430239232",
+      "favorited": false,
+      "user": {
+        "follow_request_sent": false,
+        "has_extended_profile": false,
+        "profile_use_background_image": true,
+        "default_profile_image": false,
+        "id": 18208354,
+        "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/464231533167906816/dQfJCA4l.jpeg",
+        "verified": true,
+        "translator_type": "none",
+        "profile_text_color": "333333",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/552307347851210752/vrXDcTFC_normal.jpeg",
+        "profile_sidebar_fill_color": "C0DFEC",
+        "entities": {
+          "url": {
+            "urls": [{
+              "url": "https://t.co/UoPqZeCPDs",
+              "indices": [0, 23],
+              "expanded_url": "http://www.joerogan.net",
+              "display_url": "joerogan.net"
+            }]
+          },
+          "description": {
+            "urls": [{
+              "url": "https://t.co/caBUmcdPdo",
+              "indices": [110, 133],
+              "expanded_url": "http://www.facebook.com/JOEROGAN",
+              "display_url": "facebook.com/JOEROGAN"
+            }]
+          }
+        },
+        "followers_count": 3360965,
+        "profile_sidebar_border_color": "FFFFFF",
+        "id_str": "18208354",
+        "profile_background_color": "022330",
+        "listed_count": 18939,
+        "is_translation_enabled": true,
+        "utc_offset": -21600,
+        "statuses_count": 38833,
+        "description": "Stand up comic/mixed martial arts fanatic/psychedelic adventurer Host of The Joe Rogan Experience #FreakParty https://t.co/caBUmcdPdo",
+        "friends_count": 3630,
+        "location": "",
+        "profile_link_color": "0084B4",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/552307347851210752/vrXDcTFC_normal.jpeg",
+        "following": true,
+        "geo_enabled": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/18208354/1476844492",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/464231533167906816/dQfJCA4l.jpeg",
+        "screen_name": "joerogan",
+        "lang": "en",
+        "profile_background_tile": true,
+        "favourites_count": 239,
+        "name": "Joe Rogan",
+        "notifications": false,
+        "url": "https://t.co/UoPqZeCPDs",
+        "created_at": "Thu Dec 18 04:01:47 +0000 2008",
+        "contributors_enabled": false,
+        "time_zone": "Mountain Time (US & Canada)",
+        "protected": false,
+        "default_profile": false,
+        "is_translator": false
+      },
+      "geo": null,
+      "in_reply_to_user_id_str": null,
+      "possibly_sensitive": false,
+      "lang": "en",
+      "created_at": "Mon Jun 26 07:35:50 +0000 2017",
+      "quoted_status_id_str": "879222576727416832",
+      "in_reply_to_status_id_str": null,
+      "place": null,
+      "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+      }
+    },
+    "user": {
+      "follow_request_sent": false,
+      "has_extended_profile": false,
+      "profile_use_background_image": true,
+      "default_profile_image": false,
+      "id": 1974006848,
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme4/bg.gif",
+      "verified": false,
+      "translator_type": "none",
+      "profile_text_color": "3C3940",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/540380624692187136/11z60hJi_normal.jpeg",
+      "profile_sidebar_fill_color": "95E8EC",
+      "entities": {
+        "url": {
+          "urls": [{
+            "url": "http://t.co/UlD8YviECn",
+            "indices": [0, 22],
+            "expanded_url": "http://www.hollyryan.com.au",
+            "display_url": "hollyryan.com.au"
+          }]
+        },
+        "description": {
+          "urls": []
+        }
+      },
+      "followers_count": 217,
+      "profile_sidebar_border_color": "5ED4DC",
+      "id_str": "1974006848",
+      "profile_background_color": "0099B9",
+      "listed_count": 47,
+      "is_translation_enabled": false,
+      "utc_offset": null,
+      "statuses_count": 1816,
+      "description": "Australian Jewellery Designer",
+      "friends_count": 90,
+      "location": "Coolum, Australia",
+      "profile_link_color": "0099B9",
+      "profile_image_url": "http://pbs.twimg.com/profile_images/540380624692187136/11z60hJi_normal.jpeg",
+      "following": false,
+      "geo_enabled": true,
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/1974006848/1417671754",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme4/bg.gif",
+      "screen_name": "HoilyRyan_",
+      "lang": "en",
+      "profile_background_tile": false,
+      "favourites_count": 1648,
+      "name": "Holly Ryan",
+      "notifications": false,
+      "url": "http://t.co/UlD8YviECn",
+      "created_at": "Sun Oct 20 05:55:57 +0000 2013",
+      "contributors_enabled": false,
+      "time_zone": null,
+      "protected": false,
+      "default_profile": false,
+      "is_translator": false
+    },
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "possibly_sensitive": false,
+    "lang": "en",
+    "created_at": "Mon Jun 26 07:46:10 +0000 2017",
+    "quoted_status_id_str": "879222576727416832",
+    "in_reply_to_status_id_str": null,
+    "place": null,
+    "metadata": {
+      "iso_language_code": "en",
+      "result_type": "recent"
+    }
+  }]
+}
