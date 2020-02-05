@@ -30,7 +30,7 @@ def search():
     print json.dumps(r.json())
     return Response(json.dumps(r.json()), mimetype = 'application/json')
 
-@app.route('/test', methods=['POST'])
+@app.route('/test', methods=['GET'])
 @cross_origin()
 def test():
     with open('test/big-boi-02.json') as json_file:
