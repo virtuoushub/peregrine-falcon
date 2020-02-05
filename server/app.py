@@ -6,10 +6,14 @@ from TwitterAPI import TwitterAPI
 from flask import Flask, request, Response
 from flask_cors import CORS, cross_origin
 
-CONSUMER_KEY = os.environ['TWITTER_CONSUMER_KEY']
-CONSUMER_SECRET = os.environ['TWITTER_CONSUMER_SECRET']
-ACCESS_TOKEN = os.environ['TWITTER_ACCESS_TOKEN']
-ACCESS_TOKEN_SECRET = os.environ['TWITTER_ACCESS_TOKEN_SECRET']
+try:
+    CONSUMER_KEY = os.environ['TWITTER_CONSUMER_KEY']
+    CONSUMER_SECRET = os.environ['TWITTER_CONSUMER_SECRET']
+    ACCESS_TOKEN = os.environ['TWITTER_ACCESS_TOKEN']
+    ACCESS_TOKEN_SECRET = os.environ['TWITTER_ACCESS_TOKEN_SECRET']
+except:
+      print("Unable to load environmental varibles. Try `source set-env.bash.template`")
+      exit(42)
 
 api = TwitterAPI(CONSUMER_KEY, CONSUMER_SECRET,
                  ACCESS_TOKEN, ACCESS_TOKEN_SECRET)
