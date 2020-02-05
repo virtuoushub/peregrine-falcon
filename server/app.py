@@ -27,7 +27,6 @@ def search():
     q = '@' + username + ' ' + searchTerm
     q = urllib.quote_plus(q.encode('utf-8'))
     r = api.request('search/tweets', {'q': q, 'count': count})
-    print json.dumps(r.json())
     return Response(json.dumps(r.json()), mimetype = 'application/json')
 
 @app.route('/test', methods=['GET'])
