@@ -15,6 +15,10 @@ The `TWITTER_CONSUMER_KEY`, `TWITTER_CONSUMER_SECRET`, `TWITTER_ACCESS_TOKEN`, a
 # Start your day
  `. env/bin/activate`
 
+# install (first time only?)
+
+`pip install -r requirements.txt`
+
 # Run the server
 `python app.py`
 
